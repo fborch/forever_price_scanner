@@ -26,4 +26,4 @@ To get "the" price for an item and day with several scanners, take the lowest `m
 
 ## Source
 
-Exported from Auctionator's `AUCTIONATOR_PRICE_DATABASE` (SavedVariables) via `tools/export_repo.py`. Auctionator keeps only ~21 days itself; this repo is the long-term history. Day boundaries follow Auctionator's day count (UTC).
+Exported from Auctionator's `AUCTIONATOR_PRICE_DATABASE` (SavedVariables). Anyone can add their own scans with `tools/auctionator_to_csv.py` (standalone, Python 3 only); see **CLAUDE_SETUP.md** for setting up Claude to do it after every scan. `tools/export_repo.py` is Anders' exporter from his long-term archive. Auctionator keeps only ~21 days itself; this repo is the long-term history. Day boundaries follow Auctionator's day count (UTC).
