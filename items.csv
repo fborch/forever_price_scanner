@@ -1,0 +1,4839 @@
+item_id,name,quality,item_level,class_id,subclass_id
+25,Worn Shortsword,1,2,2,7
+35,Bent Staff,1,2,2,10
+36,Worn Mace,1,2,2,4
+37,Worn Axe,1,2,2,0
+38,Recruit's Shirt,1,1,4,0
+39,Recruit's Pants,0,1,4,1
+40,Recruit's Boots,1,1,4,1
+43,Squire's Boots,1,1,4,1
+45,Squire's Shirt,1,1,4,0
+47,Footpad's Shoes,1,1,4,1
+49,Footpad's Shirt,1,1,4,0
+51,Neophyte's Boots,1,1,4,1
+53,Neophyte's Shirt,1,1,4,0
+55,Apprentice's Boots,1,1,4,1
+56,Apprentice's Robe,0,1,4,1
+57,Acolyte's Robe,0,1,4,1
+59,Acolyte's Shoes,1,1,4,1
+117,Tough Jerky,1,5,0,5
+118,Minor Healing Potion,1,5,0,1
+129,Rugged Trapper's Boots,1,1,4,1
+148,Rugged Trapper's Shirt,1,1,4,0
+154,Primitive Mantle,1,1,4,0
+159,Refreshing Spring Water,1,5,0,5
+236,Cured Leather Armor,,,,
+285,Scalemail Vest,1,22,4,3
+414,Dalaran Sharp,1,15,0,5
+422,Dwarven Mild,1,25,0,5
+537,Dull Frenzy Scale,0,1,15,0
+555,Rough Vulture Feathers,0,10,15,0
+556,Buzzard Beak,0,1,15,0
+720,Brawler Gloves,3,28,4,2
+723,Goretusk Liver,1,12,7,8
+724,Goretusk Liver Pie,1,15,0,5
+727,Notched Shortsword,2,10,2,7
+728,Recipe: Westfall Stew,1,15,9,5
+729,Stringy Vulture Meat,1,10,7,8
+730,Murloc Eye,1,11,7,8
+731,Goretusk Snout,1,12,7,8
+732,Okra,1,9,12,0
+733,Westfall Stew,1,15,0,5
+753,Dragonmaw Shortsword,2,28,2,7
+754,Shortsword of Vengeance,3,47,2,7
+755,Melted Candle,0,1,15,0
+756,Tunnel Pick,2,29,2,1
+763,Ice-covered Bracers,2,12,4,2
+765,Silverleaf,1,5,7,9
+766,Flanged Mace,1,7,2,4
+767,Long Bo Staff,1,8,2,10
+768,Lumberjack Axe,1,9,2,0
+769,Chunk of Boar Meat,1,5,7,8
+770,Pointy Crocolisk Tooth,0,1,15,0
+771,Chipped Boar Tusk,0,1,15,0
+774,Malachite,2,7,7,11
+776,Vendetta,3,31,2,15
+777,Prowler Teeth,0,1,15,0
+778,Kobold Excavation Pick,1,7,2,0
+779,Shiny Seashell,0,1,15,0
+781,Stone Gnoll Hammer,1,9,2,4
+783,Light Hide,1,10,7,6
+785,Mageroyal,1,10,7,9
+787,Slitherskin Mackerel,1,10,0,5
+789,Stout Battlehammer,2,22,2,4
+790,Forester's Axe,2,23,2,0
+791,Gnarled Ash Staff,3,31,2,10
+792,Knitted Sandals,1,10,4,1
+793,Knitted Gloves,1,10,4,1
+794,Knitted Pants,1,10,4,1
+795,Knitted Tunic,1,10,4,1
+796,Rough Leather Boots,1,10,4,2
+797,Rough Leather Gloves,1,10,4,2
+798,Rough Leather Pants,1,10,4,2
+799,Rough Leather Vest,1,10,4,2
+804,Large Blue Sack,1,25,1,0
+805,Small Red Pouch,1,5,1,0
+809,Bloodrazor,,,2,7
+814,Flask of Oil,1,1,7,1
+816,Small Hand Blade,2,11,2,15
+818,Tigerseye,2,15,7,11
+820,Slicer Blade,2,17,2,15
+821,Riverpaw Leather Vest,2,13,4,2
+826,Brutish Riverpaw Axe,2,15,2,0
+827,Wicked Blackjack,2,17,2,4
+828,Small Blue Pouch,1,5,1,0
+832,Silver Defias Belt,2,15,4,3
+837,Heavy Weave Armor,,,,
+838,Heavy Weave Pants,1,17,4,1
+840,Heavy Weave Shoes,1,17,4,1
+844,Tanned Leather Gloves,1,17,4,2
+845,Tanned Leather Pants,1,17,4,2
+846,Tanned Leather Jerkin,1,17,4,2
+847,Chainmail Armor,,,,
+848,Chainmail Pants,,,,
+849,Chainmail Boots,1,17,4,3
+850,Chainmail Gloves,1,17,4,3
+851,Cutlass,1,15,2,7
+852,Mace,1,14,2,4
+853,Hatchet,,,,
+854,Quarter Staff,1,16,2,10
+856,Blue Leather Bag,1,15,1,0
+857,Large Red Sack,1,25,1,0
+858,Lesser Healing Potion,1,13,0,1
+863,Gloom Reaper,2,37,2,0
+864,Knightly Longsword,2,38,2,7
+865,Leaden Mace,2,31,2,4
+866,Monk's Staff,2,42,2,10
+867,Gloves of Holy Might,,,4,2
+868,Ardent Custodian,4,43,2,4
+869,Dazzling Longsword,4,41,2,7
+870,Fiery War Axe,4,40,2,1
+873,Staff of Jordan,4,40,2,10
+878,Fist-sized Spinneret,0,20,7,11
+880,Staff of Horrors,2,23,2,10
+885,Black Metal Axe,2,24,2,0
+886,Black Metal Shortsword,2,26,2,7
+887,Pound of Flesh,0,25,15,0
+890,Twisted Chanter's Staff,3,24,2,10
+892,Gnoll Casting Gloves,2,22,4,1
+893,Dire Wolf Fang,0,1,15,0
+897,Madwolf Bracers,2,29,4,2
+899,Venom Web Fang,2,19,2,15
+911,Ironwood Treebranch,2,25,2,5
+914,Large Ogre Chain Armor,,,4,3
+920,Wicked Spiked Mace,2,25,2,4
+922,Dacian Falx,1,26,2,8
+926,Battle Axe,,,,
+929,Healing Potion,1,22,0,1
+933,Large Rucksack,1,25,1,0
+934,Stalvan's Reaper,3,37,2,0
+935,Night Watch Shortsword,3,20,2,7
+936,Midnight Mace,3,38,2,4
+937,Black Duskwood Staff,3,38,2,10
+943,Warden Staff,,,2,10
+954,Scroll of Strength,1,20,0,4
+955,Scroll of Intellect,1,15,0,4
+961,Healing Herb,1,5,0,5
+1015,Lean Wolf Flank,1,19,7,8
+1017,Seasoned Wolf Kabob,1,25,0,5
+1074,Hard Spider Leg Tip,0,1,15,0
+1077,Defias Mage Ring,2,26,4,0
+1080,Tough Condor Meat,1,15,7,8
+1081,Crisp Spider Meat,1,15,7,8
+1082,Redridge Goulash,1,15,0,5
+1121,Feet of the Lynx,3,24,4,2
+1169,Blackskull Shield,,,4,6
+1175,A Gold Tooth,0,1,15,0
+1177,Oil of Olaf,1,8,0,8
+1178,Explosive Rocket,1,8,0,8
+1179,Ice Cold Milk,1,15,0,5
+1180,Scroll of Stamina,1,15,0,4
+1181,Scroll of Spirit,1,10,0,4
+1195,Kobold Mining Shovel,1,6,2,5
+1196,Tabar,1,14,2,1
+1197,Giant Mace,1,15,2,5
+1198,Claymore,1,15,2,8
+1201,Dull Heater Shield,1,10,4,6
+1204,The Green Tower,4,41,4,6
+1205,Melon Juice,1,25,0,5
+1206,Moss Agate,2,25,7,11
+1207,Murphstar,2,39,2,4
+1210,Shadowgem,2,20,7,11
+1211,Gnoll War Harness,2,15,4,2
+1212,Gnoll Spittle,0,15,15,0
+1213,Gnoll Kindred Bracers,1,14,4,2
+1214,Gnoll Punisher,2,19,2,4
+1215,Support Girdle,2,24,4,2
+1218,Heavy Gnoll War Club,2,21,2,5
+1219,Redridge Machete,2,16,2,7
+1220,Lupine Axe,2,20,2,1
+1251,Linen Bandage,1,1,0,7
+1265,Scorpion Sting,3,39,2,7
+1274,Hops,1,1,12,0
+1280,Cloaked Hood,2,38,4,2
+1287,Giant Tarantula Fang,2,15,2,15
+1288,Large Venom Sac,1,1,7,11
+1296,Blackrock Mace,2,21,2,4
+1297,Robes of the Shadowcaster,,,4,1
+1299,Lesser Belt of the Spire,2,22,4,1
+1300,Lesser Staff of the Spire,2,20,2,10
+1314,Ghoul Fingers,2,21,4,2
+1318,Night Reaver,3,23,2,1
+1326,Sauteed Sunfish,1,15,0,5
+1357,Captain Sander's Treasure Map,1,10,12,0
+1364,Ragged Leather Vest,0,5,4,2
+1366,Ragged Leather Pants,0,2,4,2
+1367,Ragged Leather Boots,0,3,4,2
+1368,Ragged Leather Gloves,0,4,4,2
+1369,Ragged Leather Belt,0,5,4,2
+1370,Ragged Leather Bracers,0,4,4,2
+1372,Ragged Cloak,0,3,4,1
+1374,Frayed Shoes,0,4,4,1
+1376,Frayed Cloak,0,5,4,1
+1377,Frayed Gloves,0,3,4,1
+1378,Frayed Pants,0,2,4,1
+1380,Frayed Robe,0,4,4,1
+1387,Ghoulfang,2,21,2,8
+1389,Kobold Mining Mallet,1,7,2,4
+1391,Riverpaw Mystic Staff,2,18,2,10
+1394,Driftwood Club,2,15,2,4
+1395,Apprentice's Pants,0,1,4,1
+1399,Magic Candle,1,8,0,8
+1401,Green Tea Leaf,1,14,0,5
+1405,Foamspittle Staff,2,17,2,10
+1406,Pearl-encrusted Spear,2,21,2,6
+1411,Withered Staff,0,8,2,10
+1412,Crude Bastard Sword,0,7,2,8
+1413,Feeble Sword,0,8,2,7
+1414,Cracked Sledge,0,9,2,5
+1415,Carpenter's Mallet,0,9,2,4
+1416,Rusty Hatchet,0,9,2,0
+1417,Beaten Battle Axe,0,8,2,1
+1418,Worn Leather Belt,0,7,4,2
+1419,Worn Leather Boots,0,8,4,2
+1420,Worn Leather Bracers,0,9,4,2
+1421,Worn Hide Cloak,0,10,4,1
+1422,Worn Leather Gloves,0,6,4,2
+1423,Worn Leather Pants,0,7,4,2
+1425,Worn Leather Vest,0,9,4,2
+1427,Patchwork Shoes,0,10,4,1
+1429,Patchwork Cloak,0,6,4,1
+1430,Patchwork Gloves,0,7,4,1
+1431,Patchwork Pants,0,8,4,1
+1433,Patchwork Armor,0,7,4,1
+1438,Warrior's Shield,1,9,4,6
+1440,Gnoll Skull Basher,2,19,2,4
+1445,Blackrock Pauldrons,1,23,4,3
+1446,Blackrock Boots,2,19,4,3
+1447,Ring of Saviors,4,46,4,0
+1448,Blackrock Gauntlets,2,20,4,3
+1454,Axe of the Enforcer,3,29,2,0
+1455,Blackrock Champion's Axe,2,24,2,1
+1457,Shadowhide Mace,2,22,2,4
+1458,Shadowhide Maul,2,23,2,5
+1459,Shadowhide Scalper,2,24,2,0
+1460,Shadowhide Two-handed Sword,2,20,2,8
+1461,Slayer's Battle Axe,2,25,2,1
+1462,Ring of the Shadow,2,25,4,0
+1464,Buzzard Talon,0,1,15,0
+1465,Tigerbane,2,38,2,15
+1468,Murloc Fin,1,16,7,8
+1469,Scimitar of Atun,2,21,2,7
+1470,Murloc Skin Bag,1,25,1,0
+1473,Riverside Staff,2,19,2,10
+1475,Small Venom Sac,1,1,7,11
+1476,Snapped Spider Limb,0,1,15,0
+1477,Scroll of Agility II,1,35,0,4
+1478,Scroll of Protection II,1,25,0,4
+1481,Grimclaw,3,27,2,0
+1482,Shadowfang,3,24,2,7
+1483,Face Smasher,3,21,2,4
+1484,Witching Stave,3,22,2,10
+1486,Tree Bark Jacket,3,26,4,1
+1488,Avenger's Armor,3,31,4,3
+1489,Gloomshroud Armor,3,25,4,2
+1491,Ring of Precision,3,27,4,0
+1495,Calico Shoes,0,13,4,1
+1497,Calico Cloak,0,14,4,1
+1498,Calico Gloves,0,15,4,1
+1499,Calico Pants,0,11,4,1
+1501,Calico Tunic,0,13,4,1
+1502,Warped Leather Belt,0,14,4,2
+1503,Warped Leather Boots,0,15,4,2
+1504,Warped Leather Bracers,0,11,4,2
+1505,Warped Cloak,0,12,4,1
+1506,Warped Leather Gloves,0,13,4,2
+1507,Warped Leather Pants,0,14,4,2
+1509,Warped Leather Vest,0,11,4,2
+1510,Heavy Hammer,0,12,2,4
+1511,Commoner's Sword,0,13,2,7
+1512,Crude Battle Axe,0,12,2,1
+1513,Old Greatsword,0,14,2,8
+1514,Rusty Warhammer,0,14,2,5
+1515,Rough Wooden Staff,0,12,2,10
+1516,Worn Hatchet,0,14,2,0
+1520,Troll Sweat,0,1,15,0
+1521,Lumbering Ogre Axe,,,2,1
+1522,Headhunting Spear,2,36,2,6
+1523,Huge Stone Club,2,36,2,5
+1529,Jade,2,35,7,11
+1560,Bluegill Sandals,2,21,4,1
+1602,Sickle Axe,,,2,0
+1608,Skullcrusher Mace,,,2,4
+1613,Spiritchaser Staff,2,44,2,10
+1624,Skullsplitter Helm,,,4,3
+1625,Exquisite Flamberge,2,41,2,8
+1630,Broken Electro-lantern,,,15,0
+1640,Monstrous War Axe,2,42,2,1
+1645,Moonberry Juice,1,45,0,5
+1659,Engineering Gloves,2,40,4,1
+1678,Black Ogre Kickers,3,41,4,3
+1685,Troll-hide Bag,1,45,1,0
+1686,Bristly Whisker,0,1,15,0
+1687,Retractable Claw,0,1,15,0
+1688,Long Soft Tail,0,1,15,0
+1696,Curved Raptor Talon,0,1,15,0
+1697,Keen Raptor Tooth,0,1,15,0
+1701,Curved Basilisk Claw,0,1,15,0
+1702,Intact Basilisk Spine,0,1,15,0
+1703,Crystal Basilisk Spine,1,35,0,8
+1705,Lesser Moonstone,2,30,7,11
+1707,Stormwind Brie,1,35,0,5
+1708,Sweet Nectar,1,35,0,5
+1710,Greater Healing Potion,1,31,0,1
+1711,Scroll of Stamina II,1,30,0,4
+1712,Scroll of Spirit II,1,25,0,4
+1713,Ankh of Life,3,45,4,0
+1714,Necklace of Calisea,3,43,4,0
+1715,Polished Jazeraint Armor,3,44,4,3
+1716,Robe of the Magi,3,40,4,1
+1717,Double Link Tunic,3,30,4,3
+1718,Basilisk Hide Pants,3,43,4,2
+1721,Viking Warhammer,,,2,4
+1722,Thornstone Sledgehammer,,,2,5
+1725,Large Knapsack,1,35,1,0
+1726,Poison-tipped Bone Spear,3,36,2,6
+1727,Sword of Decay,3,28,2,7
+1730,Worn Mail Belt,0,12,4,3
+1731,Worn Mail Boots,0,13,4,3
+1732,Worn Mail Bracers,0,14,4,3
+1733,Worn Cloak,0,15,4,1
+1734,Worn Mail Gloves,0,11,4,3
+1735,Worn Mail Pants,0,12,4,3
+1737,Worn Mail Vest,0,14,4,3
+1738,Laced Mail Belt,0,19,4,3
+1739,Laced Mail Boots,0,20,4,3
+1740,Laced Mail Bracers,0,16,4,3
+1741,Laced Cloak,0,17,4,1
+1742,Laced Mail Gloves,0,18,4,3
+1743,Laced Mail Pants,0,19,4,3
+1744,Laced Mail Shoulderpads,0,20,4,3
+1745,Laced Mail Vest,0,16,4,3
+1746,Linked Chain Belt,0,25,4,3
+1747,Linked Chain Boots,0,21,4,3
+1748,Linked Chain Bracers,0,22,4,3
+1749,Linked Chain Cloak,0,23,4,1
+1750,Linked Chain Gloves,,,4,3
+1751,Linked Chain Pants,0,25,4,3
+1752,Linked Chain Shoulderpads,0,21,4,3
+1753,Linked Chain Vest,0,22,4,3
+1754,Reinforced Chain Belt,,,4,3
+1755,Reinforced Chain Boots,0,27,4,3
+1756,Reinforced Chain Bracers,0,28,4,3
+1757,Reinforced Chain Cloak,0,29,4,1
+1758,Reinforced Chain Gloves,0,30,4,3
+1759,Reinforced Chain Pants,0,26,4,3
+1760,Reinforced Chain Shoulderpads,0,27,4,3
+1761,Reinforced Chain Vest,0,28,4,3
+1764,Canvas Shoes,0,17,4,1
+1766,Canvas Cloak,0,18,4,1
+1767,Canvas Gloves,0,19,4,1
+1768,Canvas Pants,0,20,4,1
+1769,Canvas Shoulderpads,0,20,4,1
+1770,Canvas Vest,0,17,4,1
+1772,Brocade Shoes,0,23,4,1
+1774,Brocade Cloak,0,24,4,1
+1775,Brocade Gloves,0,25,4,1
+1776,Brocade Pants,0,21,4,1
+1777,Brocade Shoulderpads,0,22,4,1
+1778,Brocade Vest,0,23,4,1
+1780,Cross-stitched Sandals,0,29,4,1
+1782,Cross-stitched Cloak,0,30,4,1
+1783,Cross-stitched Gloves,0,26,4,1
+1784,Cross-stitched Pants,0,27,4,1
+1785,Cross-stitched Shoulderpads,0,28,4,1
+1786,Cross-stitched Vest,0,29,4,1
+1787,Patched Leather Belt,0,18,4,2
+1788,Patched Leather Boots,0,19,4,2
+1789,Patched Leather Bracers,0,20,4,2
+1790,Patched Cloak,0,16,4,1
+1791,Patched Leather Gloves,0,17,4,2
+1792,Patched Leather Pants,0,18,4,2
+1793,Patched Leather Shoulderpads,0,20,4,2
+1794,Patched Leather Jerkin,0,20,4,2
+1795,Rawhide Belt,0,24,4,2
+1796,Rawhide Boots,0,25,4,2
+1797,Rawhide Bracers,0,21,4,2
+1798,Rawhide Cloak,0,22,4,1
+1799,Rawhide Gloves,0,23,4,2
+1800,Rawhide Pants,0,24,4,2
+1801,Rawhide Shoulderpads,0,25,4,2
+1802,Rawhide Tunic,0,21,4,2
+1803,Tough Leather Belt,0,30,4,2
+1804,Tough Leather Boots,0,26,4,2
+1805,Tough Leather Bracers,0,27,4,2
+1806,Tough Cloak,0,28,4,1
+1807,Tough Leather Gloves,0,29,4,2
+1808,Tough Leather Pants,0,30,4,2
+1809,Tough Leather Shoulderpads,0,26,4,2
+1810,Tough Leather Armor,0,27,4,2
+1811,Blunt Claymore,0,17,2,8
+1812,Short-handled Battle Axe,0,17,2,1
+1813,Chipped Quarterstaff,0,18,2,10
+1814,Battered Mallet,0,19,2,5
+1815,Ornamental Mace,0,17,2,4
+1816,Unbalanced Axe,0,19,2,0
+1817,Stock Shortsword,0,19,2,7
+1818,Standard Claymore,0,24,2,8
+1819,Gouging Pick,0,22,2,0
+1820,Wooden Maul,0,22,2,5
+1821,Warped Blade,0,24,2,7
+1822,Cedar Walking Stick,0,23,2,10
+1823,Bludgeoning Cudgel,0,22,2,4
+1824,Shiny War Axe,0,23,2,1
+1825,Bulky Bludgeon,0,28,2,4
+1826,Rock Maul,0,27,2,5
+1827,Meat Cleaver,0,27,2,0
+1828,Stone War Axe,0,27,2,1
+1829,Short Cutlass,0,29,2,7
+1830,Long Bastard Sword,0,28,2,8
+1831,Oaken War Staff,0,28,2,10
+1839,Rough Leather Belt,1,10,4,2
+1840,Rough Leather Bracers,1,10,4,2
+1843,Tanned Leather Belt,1,17,4,2
+1844,Tanned Leather Bracers,1,17,4,2
+1845,Chainmail Belt,1,17,4,3
+1846,Chainmail Bracers,1,17,4,3
+1852,Scalemail Bracers,1,22,4,3
+1853,Scalemail Belt,,,,
+1913,Studded Blackjack,2,12,2,4
+1917,Jeweled Dagger,2,12,2,15
+1925,Defias Rapier,2,16,2,7
+1926,Weighted Sap,2,15,2,4
+1927,Deadmines Cleaver,2,15,2,0
+1928,Defias Mage Staff,2,16,2,10
+1929,Silk-threaded Trousers,3,18,4,1
+1930,Stonemason Cloak,2,18,4,1
+1933,Staff of Conjuring,2,15,2,10
+1934,Stonemason Trousers,3,20,4,2
+1935,Assassin's Blade,3,24,2,15
+1936,Goblin Screwdriver,3,18,2,15
+1943,Goblin Mail Leggings,2,19,4,3
+1944,Metalworking Gloves,2,18,4,2
+1945,Woodworking Gloves,2,18,4,2
+1951,Blackwater Cutlass,3,19,2,7
+1955,Dragonmaw Chain Boots,2,27,4,3
+1958,Petrified Shinbone,2,17,2,4
+1959,Cold Iron Pick,2,17,2,1
+1965,White Wolf Gloves,2,12,4,2
+1974,Mindthrust Bracers,3,22,4,1
+1975,Pysan's Old Greatsword,3,28,2,8
+1976,Slaghammer,3,29,2,5
+1978,Wolfclaw Gloves,3,27,4,2
+1980,Underworld Band,4,43,4,0
+1981,Icemail Jerkin,,,4,3
+1982,Nightblade,,,2,8
+1988,Chief Brigadier Gauntlets,2,38,4,3
+1990,Ballast Maul,2,36,2,5
+1992,Swampchill Fetish,,,4,0
+1993,Ogremind Ring,2,36,4,0
+1994,Ebonclaw Reaver,,,2,0
+1996,Voodoo Band,2,37,4,0
+1997,Pressed Felt Robe,2,34,4,1
+1998,Bloodscalp Channeling Staff,,,2,10
+2011,Twisted Sabre,3,26,2,7
+2013,Cryptbone Staff,2,26,2,10
+2014,Black Metal Greatsword,2,29,2,8
+2015,Black Metal War Axe,2,28,2,1
+2017,Glowing Leather Bracers,2,28,4,2
+2018,Skeletal Longsword,2,27,2,7
+2020,Hollowfang Blade,2,18,2,15
+2021,Green Carapace Shield,2,21,4,6
+2024,Espadon,1,21,2,8
+2025,Bearded Axe,,,,
+2027,Scimitar,1,19,2,7
+2034,Scholarly Robes,3,25,4,1
+2039,Plains Ring,3,29,4,0
+2046,Bluegill Kukri,2,24,2,7
+2054,Trogg Hand Axe,1,4,2,0
+2055,Small Wooden Hammer,1,4,2,4
+2057,Pitted Defias Shortsword,1,4,2,7
+2058,Kazon's Maul,2,29,2,5
+2059,Sentry Cloak,3,24,4,1
+2064,Trogg Club,1,11,2,4
+2065,Rockjaw Blade,1,9,2,7
+2066,Skull Hatchet,1,8,2,0
+2067,Frostbit Staff,1,10,2,10
+2069,Black Bear Hide Vest,2,14,4,2
+2070,Darnassian Bleu,1,5,0,5
+2072,Dwarven Magestaff,2,27,2,10
+2073,Dwarven Hatchet,2,15,2,0
+2075,Priest's Mace,2,12,2,4
+2077,Magician Staff,2,29,2,10
+2078,Northern Shortsword,2,18,2,7
+2079,Sergeant's Warhammer,2,17,2,4
+2080,Hillborne Axe,2,34,2,0
+2084,Darksteel Bastard Sword,2,30,2,8
+2085,Chunk of Flesh,,,15,0
+2087,Hard Crawler Carapace,2,13,4,2
+2088,Long Crawler Limb,2,15,2,15
+2091,Magic Dust,1,20,0,8
+2092,Worn Dagger,1,2,2,15
+2098,Double-barreled Shotgun,3,27,2,3
+2101,Light Quiver,1,1,11,2
+2102,Small Ammo Pouch,1,1,11,3
+2108,Frostmane Leather Vest,1,4,4,2
+2110,Light Magesmith Robe,1,4,4,1
+2112,Lumberjack Jerkin,1,9,4,2
+2117,Thin Cloth Shoes,1,5,4,1
+2119,Thin Cloth Gloves,1,5,4,1
+2120,Thin Cloth Pants,1,5,4,1
+2121,Thin Cloth Armor,1,5,4,1
+2122,Cracked Leather Belt,1,5,4,2
+2123,Cracked Leather Boots,1,5,4,2
+2124,Cracked Leather Bracers,1,5,4,2
+2125,Cracked Leather Gloves,1,5,4,2
+2126,Cracked Leather Pants,1,5,4,2
+2127,Cracked Leather Vest,1,5,4,2
+2129,Large Round Shield,1,5,4,6
+2132,Short Staff,1,4,2,10
+2138,Sharpened Letter Opener,0,7,2,15
+2139,Dirk,1,3,2,15
+2140,Carving Knife,2,11,2,15
+2143,Cuirboulli Boots,1,27,4,2
+2153,Polished Scale Vest,1,27,4,3
+2164,Gut Ripper,4,45,2,15
+2166,Foreman's Leggings,2,20,4,3
+2167,Foreman's Gloves,2,20,4,2
+2168,Foreman's Boots,2,21,4,1
+2175,Shadowhide Battle Axe,2,23,2,1
+2194,Diamond Hammer,3,25,2,4
+2203,Brashclaw's Chopper,2,20,2,1
+2204,Brashclaw's Skewer,2,20,2,8
+2205,Duskbringer,3,25,2,8
+2207,Jambiya,1,16,2,15
+2208,Poniard,,,,
+2210,Battered Buckler,0,2,4,6
+2211,Bent Large Shield,0,4,4,6
+2212,Cracked Buckler,0,6,4,6
+2213,Worn Large Shield,0,7,4,6
+2214,Wooden Buckler,0,15,4,6
+2215,Wooden Shield,0,11,4,6
+2216,Simple Buckler,0,16,4,6
+2217,Rectangular Shield,0,17,4,6
+2219,Small Round Shield,0,22,4,6
+2220,Box Shield,0,23,4,6
+2221,Targe Shield,0,28,4,6
+2222,Tower Shield,0,29,4,6
+2226,Ogremage Staff,2,27,2,10
+2227,Heavy Ogre War Axe,2,27,2,1
+2232,Dark Runner Boots,2,25,4,1
+2233,Shadow Weaver Leggings,2,27,4,2
+2234,Nightwalker Armor,2,30,4,1
+2235,Brackclaw,2,21,2,15
+2236,Blackfang,3,25,2,15
+2241,Desperado Cape,2,23,4,1
+2244,Krol Blade,,,2,7
+2251,Gooey Spider Leg,1,25,7,8
+2254,Icepane Warhammer,2,12,2,5
+2256,Skeletal Club,3,24,2,4
+2257,Frostmane Staff,1,10,2,10
+2258,Frostmane Shortsword,1,8,2,7
+2259,Frostmane Club,1,8,2,4
+2260,Frostmane Hand Axe,1,9,2,0
+2262,Mark of Kern,3,36,4,0
+2264,Mantle of Thieves,3,30,4,2
+2265,Stonesplinter Axe,2,13,2,0
+2266,Stonesplinter Dagger,2,13,2,15
+2267,Stonesplinter Mace,2,15,2,4
+2268,Stonesplinter Blade,1,10,2,7
+2271,Staff of the Blessed Seer,3,25,2,10
+2274,Sapper's Gloves,2,17,4,3
+2276,Swampwalker Boots,3,37,4,2
+2277,Necromancer Leggings,3,35,4,1
+2278,Forest Tracker Epaulets,3,31,4,2
+2281,Rodentia Flint Axe,2,11,2,0
+2282,Rodentia Shortsword,1,10,2,7
+2283,Rat Cloth Belt,2,15,4,1
+2284,Rat Cloth Cloak,2,17,4,1
+2287,Haunch of Meat,1,15,0,5
+2289,Scroll of Strength II,1,35,0,4
+2290,Scroll of Intellect II,1,30,0,4
+2291,Kang the Decapitator,,,2,1
+2292,Necrology Robes,3,25,4,1
+2295,Large Boar Tusk,0,1,15,0
+2299,Burning War Axe,3,33,2,1
+2300,Embossed Leather Vest,2,12,4,2
+2302,Handstitched Leather Boots,1,8,4,2
+2303,Handstitched Leather Pants,2,10,4,2
+2304,Light Armor Kit,1,5,0,6
+2307,Fine Leather Boots,2,18,4,2
+2308,Fine Leather Cloak,2,15,4,1
+2309,Embossed Leather Boots,2,15,4,2
+2310,Embossed Leather Cloak,2,13,4,1
+2311,White Leather Jerkin,2,13,4,2
+2312,Fine Leather Gloves,2,15,4,2
+2313,Medium Armor Kit,1,15,0,6
+2314,Toughened Leather Armor,2,24,4,2
+2315,Gray Leather Boots,2,20,4,2
+2316,Dark Leather Cloak,2,22,4,1
+2317,Dark Leather Tunic,2,20,4,2
+2318,Light Leather,1,10,7,6
+2319,Medium Leather,1,20,7,6
+2320,Coarse Thread,1,5,7,5
+2321,Fine Thread,1,20,7,5
+2324,Bleach,1,5,7,11
+2325,Black Dye,1,40,7,11
+2327,Sturdy Leather Bracers,1,10,4,2
+2361,Battleworn Hammer,1,2,2,5
+2362,Worn Wooden Shield,1,1,4,6
+2379,Tarnished Chain Vest,1,5,4,3
+2380,Tarnished Chain Belt,1,5,4,3
+2381,Tarnished Chain Leggings,1,5,4,3
+2383,Tarnished Chain Boots,1,5,4,3
+2384,Tarnished Chain Bracers,1,5,4,3
+2385,Tarnished Chain Gloves,1,5,4,3
+2392,Light Mail Armor,1,10,4,3
+2393,Light Mail Belt,1,10,4,3
+2394,Light Mail Leggings,1,10,4,3
+2395,Light Mail Boots,1,10,4,3
+2396,Light Mail Bracers,1,10,4,3
+2397,Light Mail Gloves,1,10,4,3
+2406,Pattern: Fine Leather Boots,2,15,9,1
+2407,Pattern: White Leather Jerkin,2,13,9,1
+2408,Pattern: Fine Leather Gloves,2,15,9,1
+2409,Pattern: Dark Leather Tunic,2,20,9,1
+2414,Pinto Bridle,3,40,15,5
+2447,Peacebloom,1,5,7,9
+2449,Earthroot,1,5,7,9
+2450,Briarthorn,1,15,7,9
+2452,Swiftthistle,1,15,7,9
+2453,Bruiseweed,1,20,7,9
+2454,Elixir of Minor Strength,1,5,0,2
+2455,Minor Mana Potion,1,15,0,1
+2456,Minor Rejuvenation Potion,1,15,0,1
+2457,Elixir of Minor Agility,1,12,0,2
+2458,Elixir of Minor Fortitude,1,12,0,2
+2459,Swiftness Potion,1,15,0,1
+2480,Large Club,1,3,2,5
+2488,Gladius,1,9,2,7
+2489,Two-handed Sword,1,7,2,8
+2490,Tomahawk,1,9,2,0
+2492,Cudgel,1,7,2,4
+2493,Wooden Mallet,1,9,2,5
+2494,Stiletto,1,8,2,15
+2495,Walking Stick,1,8,2,10
+2504,Worn Shortbow,1,2,2,2
+2505,Polished Shortbow,1,4,2,2
+2506,Hornwood Recurve Bow,1,8,2,2
+2507,Laminated Recurve Bow,1,16,2,2
+2508,Old Blunderbuss,1,2,2,3
+2509,Ornate Blunderbuss,1,9,2,3
+2512,Rough Arrow,1,5,6,2
+2515,Sharp Arrow,1,15,6,2
+2516,Light Shot,1,5,6,3
+2519,Heavy Shot,1,15,6,3
+2546,Royal Frostmane Girdle,2,13,4,3
+2549,Staff of the Shade,3,27,2,10
+2553,Recipe: Elixir of Minor Agility,2,12,9,6
+2555,Recipe: Swiftness Potion,2,15,9,6
+2564,Elven Spirit Claws,,,4,2
+2565,Rod of Molten Fire,3,35,4,0
+2566,Sacrificial Robes,2,27,4,1
+2567,Evocator's Blade,3,25,2,15
+2568,Brown Linen Vest,1,8,4,1
+2569,Linen Boots,2,13,4,1
+2570,Linen Cloak,1,6,4,1
+2572,Red Linen Robe,2,10,4,1
+2575,Red Linen Shirt,1,10,4,0
+2576,White Linen Shirt,1,7,4,0
+2577,Blue Linen Shirt,1,10,4,0
+2578,Barbaric Linen Vest,2,14,4,1
+2579,Green Linen Shirt,1,14,4,0
+2580,Reinforced Linen Cape,2,12,4,1
+2581,Heavy Linen Bandage,1,1,0,7
+2582,Green Woolen Vest,2,17,4,1
+2583,Woolen Boots,2,19,4,1
+2584,Woolen Cape,2,16,4,1
+2585,Gray Woolen Robe,2,21,4,1
+2587,Gray Woolen Shirt,1,20,4,0
+2589,Linen Cloth,1,5,7,5
+2590,Forest Spider Webbing,0,5,15,0
+2591,Dirty Trogg Cloth,0,9,15,0
+2592,Wool Cloth,1,15,7,5
+2593,Flask of Port,,,,
+2594,Flagon of Dwarven Honeymead,1,25,0,5
+2595,Jug of Badlands Bourbon,1,35,0,5
+2596,Skin of Dwarven Stout,1,15,0,5
+2598,Pattern: Red Linen Robe,2,10,9,2
+2601,Pattern: Gray Woolen Robe,2,21,9,2
+2604,Red Dye,1,10,7,11
+2605,Green Dye,1,15,7,11
+2608,Threshadon Ambergris,0,10,15,0
+2612,Plain Robe,1,8,4,1
+2613,Double-stitched Robes,,,,
+2614,Robe of Apprenticeship,1,17,4,1
+2616,Shimmering Silk Robes,,,,
+2620,Augural Shroud,,,4,1
+2621,Cowl of Necromancy,2,36,4,1
+2622,Nimar's Tribal Headdress,2,39,4,1
+2624,Thinking Cap,2,42,4,1
+2632,Curved Dagger,2,14,2,15
+2633,Jungle Remedy,1,26,0,1
+2635,Loose Chain Belt,0,8,4,3
+2642,Loose Chain Boots,0,9,4,3
+2643,Loose Chain Bracers,0,10,4,3
+2644,Loose Chain Cloak,0,6,4,1
+2645,Loose Chain Gloves,0,7,4,3
+2646,Loose Chain Pants,0,8,4,3
+2648,Loose Chain Vest,0,10,4,3
+2649,Flimsy Chain Belt,0,2,4,3
+2650,Flimsy Chain Boots,0,3,4,3
+2651,Flimsy Chain Bracers,0,4,4,3
+2652,Flimsy Chain Cloak,0,5,4,1
+2653,Flimsy Chain Gloves,0,4,4,3
+2654,Flimsy Chain Pants,0,2,4,3
+2656,Flimsy Chain Vest,0,5,4,3
+2657,Red Leather Bag,1,15,1,0
+2672,Stringy Wolf Meat,1,5,7,8
+2673,Coyote Meat,1,10,7,8
+2674,Crawler Meat,1,13,7,8
+2675,Crawler Claw,1,13,7,8
+2677,Boar Ribs,1,14,7,8
+2678,Mild Spices,1,5,7,11
+2679,Charred Wolf Meat,1,10,0,5
+2680,Spiced Wolf Meat,1,10,0,5
+2681,Roasted Boar Meat,1,10,0,5
+2682,Cooked Crab Claw,1,10,0,5
+2683,Crab Cake,1,15,0,5
+2684,Coyote Steak,1,15,0,5
+2685,Succulent Pork Ribs,1,25,0,5
+2686,Thunder Ale,1,1,0,5
+2687,Dry Pork Ribs,1,15,0,5
+2692,Hot Spices,1,20,7,11
+2697,Recipe: Goretusk Liver Pie,1,15,9,5
+2698,Recipe: Cooked Crab Claw,1,15,9,5
+2699,Recipe: Redridge Goulash,1,20,9,5
+2700,Recipe: Succulent Pork Ribs,1,20,9,5
+2701,Recipe: Seasoned Wolf Kabob,1,25,9,5
+2721,Holy Shroud,3,32,4,1
+2723,Bottle of Dalaran Noir,1,1,0,5
+2725,Green Hills of Stranglethorn - Page 1,1,1,12,0
+2728,Green Hills of Stranglethorn - Page 4,1,1,12,0
+2730,Green Hills of Stranglethorn - Page 6,1,1,12,0
+2732,Green Hills of Stranglethorn - Page 8,1,1,12,0
+2734,Green Hills of Stranglethorn - Page 10,1,1,12,0
+2735,Green Hills of Stranglethorn - Page 11,1,1,12,0
+2738,Green Hills of Stranglethorn - Page 14,1,1,12,0
+2740,Green Hills of Stranglethorn - Page 16,1,1,12,0
+2742,Green Hills of Stranglethorn - Page 18,1,1,12,0
+2744,Green Hills of Stranglethorn - Page 20,1,1,12,0
+2745,Green Hills of Stranglethorn - Page 21,1,1,12,0
+2748,Green Hills of Stranglethorn - Page 24,1,1,12,0
+2749,Green Hills of Stranglethorn - Page 25,1,1,12,0
+2750,Green Hills of Stranglethorn - Page 26,1,1,12,0
+2751,Green Hills of Stranglethorn - Page 27,1,1,12,0
+2763,Fisherman Knife,0,14,2,15
+2764,Small Dagger,0,18,2,15
+2765,Hunting Knife,0,23,2,15
+2766,Deft Stiletto,0,29,2,15
+2770,Copper Ore,1,10,7,7
+2771,Tin Ore,1,20,7,7
+2772,Iron Ore,1,30,7,7
+2773,Cracked Shortbow,0,8,2,2
+2774,Rust-covered Blunderbuss,0,7,2,3
+2775,Silver Ore,2,10,7,7
+2776,Gold Ore,2,25,7,7
+2777,Feeble Shortbow,0,13,2,2
+2778,Cheap Blunderbuss,0,13,2,3
+2780,Light Hunting Bow,0,19,2,2
+2781,Dirty Blunderbuss,0,18,2,3
+2782,Mishandled Recurve Bow,0,24,2,2
+2783,Shoddy Blunderbuss,0,22,2,3
+2785,Stiff Recurve Bow,0,28,2,2
+2786,Oiled Blunderbuss,0,29,2,3
+2787,Trogg Dagger,1,3,2,15
+2799,Gorilla Fang,1,1,12,0
+2800,Black Velvet Robes,3,26,4,1
+2802,Blazing Emblem,3,43,4,0
+2807,Guillotine Axe,3,23,2,0
+2815,Curve-bladed Ripper,3,45,2,0
+2819,Cross Dagger,2,28,2,15
+2821,Mo'grosh Masher,2,18,2,4
+2822,Mo'grosh Toothpick,2,18,2,8
+2823,Mo'grosh Can Opener,2,19,2,1
+2835,Rough Stone,1,5,7,7
+2836,Coarse Stone,1,15,7,7
+2838,Heavy Stone,1,25,7,7
+2840,Copper Bar,1,10,7,7
+2841,Bronze Bar,1,20,7,7
+2842,Silver Bar,2,10,7,7
+2844,Copper Mace,1,9,2,4
+2845,Copper Axe,1,9,2,0
+2847,Copper Shortsword,2,10,2,7
+2848,Bronze Mace,2,22,2,4
+2849,Bronze Axe,2,23,2,0
+2850,Bronze Shortsword,2,24,2,7
+2851,Copper Chain Belt,2,11,4,3
+2852,Copper Chain Pants,2,10,4,3
+2853,Copper Bracers,1,7,4,3
+2854,Runed Copper Bracers,2,19,4,3
+2857,Runed Copper Belt,2,18,4,3
+2862,Rough Sharpening Stone,1,5,0,8
+2863,Coarse Sharpening Stone,1,15,0,8
+2864,Runed Copper Breastplate,2,18,4,3
+2865,Rough Bronze Leggings,2,21,4,3
+2866,Rough Bronze Cuirass,2,23,4,3
+2868,Patterned Bronze Bracers,2,25,4,3
+2869,Silvered Bronze Breastplate,2,26,4,3
+2870,Shining Silver Breastplate,3,29,4,3
+2871,Heavy Sharpening Stone,1,25,0,8
+2877,Combatant Claymore,3,33,2,8
+2878,Bearded Boneaxe,3,30,2,0
+2879,Antipodean Rod,3,22,4,0
+2880,Weak Flux,1,5,7,11
+2881,Plans: Runed Copper Breastplate,2,18,9,4
+2882,Plans: Silvered Bronze Shoulders,2,25,9,4
+2883,Plans: Deadly Bronze Poniard,2,25,9,4
+2886,Crag Boar Rib,1,5,7,8
+2888,Beer Basted Boar Ribs,1,10,0,5
+2889,Recipe: Beer Basted Boar Ribs,1,8,9,5
+2892,Deadly Poison,,,,
+2894,Rhapsody Malt,1,1,0,5
+2898,Mountaineer Chestpiece,1,7,4,3
+2899,Wendigo Collar,2,15,4,2
+2901,Mining Pick,1,4,2,14
+2911,Keller's Girdle,3,23,4,1
+2912,Claw of the Shadowmancer,3,32,2,15
+2924,Crocolisk Meat,1,14,7,8
+2928,Dust of Decay,1,20,15,1
+2930,Essence of Pain,1,22,15,1
+2934,Ruined Leather Scraps,1,5,7,6
+2940,Bloody Bear Paw,0,1,15,0
+2946,Balanced Throwing Dagger,1,8,2,16
+2947,Small Throwing Knife,1,3,2,16
+2951,Ring of the Underwood,3,36,4,0
+2955,First Mate Hat,,,4,1
+2957,Journeyman's Vest,2,11,4,1
+2958,Journeyman's Pants,2,10,4,1
+2959,Journeyman's Boots,1,9,4,1
+2960,Journeyman's Gloves,1,9,4,1
+2961,Burnt Leather Vest,2,11,4,2
+2962,Burnt Leather Breeches,2,10,4,2
+2963,Burnt Leather Boots,1,9,4,2
+2964,Burnt Leather Gloves,1,10,4,2
+2965,Warrior's Tunic,2,11,4,3
+2966,Warrior's Pants,2,10,4,3
+2967,Warrior's Boots,1,10,4,3
+2968,Warrior's Gloves,1,9,4,3
+2969,Spellbinder Vest,2,17,4,1
+2970,Spellbinder Pants,2,16,4,1
+2971,Spellbinder Boots,1,14,4,1
+2972,Spellbinder Gloves,1,14,4,1
+2973,Hunting Tunic,2,17,4,2
+2974,Hunting Pants,2,16,4,2
+2975,Hunting Boots,1,14,4,2
+2976,Hunting Gloves,2,15,4,2
+2977,Veteran Armor,2,16,4,3
+2978,Veteran Leggings,2,15,4,3
+2979,Veteran Boots,1,14,4,3
+2980,Veteran Gloves,2,15,4,3
+2981,Seer's Robe,2,21,4,1
+2982,Seer's Pants,2,20,4,1
+2983,Seer's Boots,2,17,4,1
+2984,Seer's Gloves,2,18,4,1
+2985,Inscribed Leather Breastplate,2,21,4,2
+2986,Inscribed Leather Pants,2,20,4,2
+2987,Inscribed Leather Boots,2,18,4,2
+2988,Inscribed Leather Gloves,2,19,4,2
+2989,Burnished Tunic,2,21,4,3
+2990,Burnished Leggings,2,21,4,3
+2991,Burnished Boots,2,21,4,3
+2992,Burnished Gloves,2,20,4,3
+2996,Bolt of Linen Cloth,1,10,7,5
+2997,Bolt of Woolen Cloth,1,25,7,5
+3000,Brood Mother Carapace,2,10,4,2
+3008,Wendigo Fur Cloak,2,11,4,1
+3010,Fine Sand,0,1,15,0
+3011,Feathered Headdress,2,38,4,2
+3012,Scroll of Agility,1,20,0,4
+3013,Scroll of Protection,1,10,0,4
+3018,Hide of Lupos,2,25,4,1
+3019,Noble's Robe,2,20,4,1
+3020,Enduring Cap,3,33,4,2
+3021,Ranger Bow,3,25,2,2
+3022,Bluegill Breeches,2,23,4,2
+3024,"BKP 2700 ""Enforcer""",,,,
+3026,Reinforced Bow,1,21,2,2
+3027,Heavy Recurve Bow,1,25,2,2
+3030,Razor Arrow,1,30,6,2
+3033,Solid Shot,1,30,6,3
+3036,Heavy Shortbow,2,15,2,2
+3037,Whipwood Recurve Bow,2,34,2,2
+3039,Short Ash Bow,2,23,2,2
+3040,Hunter's Muzzle Loader,2,19,2,3
+3041,"\""Mage-Eye\"" Blunderbuss",2,31,2,3
+3042,"BKP \""Sparrow\"" Smallbore",2,33,2,3
+3045,Lambent Scale Boots,2,27,4,3
+3047,Lambent Scale Gloves,2,27,4,3
+3048,Lambent Scale Legguards,2,26,4,3
+3049,Lambent Scale Breastplate,2,27,4,3
+3055,Forest Leather Chestpiece,2,26,4,2
+3056,Forest Leather Pants,2,26,4,2
+3057,Forest Leather Boots,2,24,4,2
+3058,Forest Leather Gloves,2,25,4,2
+3065,Bright Boots,2,23,4,1
+3066,Bright Gloves,2,24,4,1
+3067,Bright Pants,2,26,4,1
+3069,Bright Robe,2,27,4,1
+3072,Smoldering Robe,2,26,4,1
+3073,Smoldering Pants,2,26,4,1
+3074,Smoldering Gloves,2,24,4,1
+3076,Smoldering Boots,2,23,4,1
+3107,Keen Throwing Knife,1,16,2,16
+3111,Crude Throwing Axe,1,3,2,16
+3131,Weighted Throwing Axe,1,8,2,16
+3135,Sharp Throwing Axe,,,,
+3167,Thick Spider Hair,0,1,15,0
+3169,Chipped Bear Tooth,0,1,15,0
+3170,Large Bear Tooth,0,1,15,0
+3171,Broken Boar Tusk,0,1,15,0
+3172,Boar Intestines,1,10,7,8
+3173,Bear Meat,1,11,7,8
+3174,Spider Ichor,1,10,7,8
+3175,Ruined Dragonhide,0,1,15,0
+3176,Small Claw,0,1,15,0
+3177,Tiny Fang,0,1,15,0
+3179,Cracked Dragon Molting,,,15,0
+3180,Flecked Raptor Scale,0,1,15,0
+3181,Partially Digested Meat,0,15,15,0
+3182,Spider's Silk,1,20,7,5
+3184,Hook Dagger,2,20,2,15
+3185,Acrobatic Staff,2,34,2,10
+3186,Viking Sword,2,30,2,7
+3187,Sacrificial Kris,2,44,2,15
+3188,Coral Claymore,2,17,2,8
+3189,Wood Chopper,1,8,2,1
+3190,Beatstick,1,8,2,5
+3192,Short Bastard Sword,2,12,2,8
+3193,Oak Mallet,2,21,2,5
+3194,Black Malice,3,21,2,5
+3195,Barbaric Battle Axe,2,18,2,1
+3196,Edged Bastard Sword,2,18,2,8
+3197,Stonecutter Claymore,2,35,2,8
+3198,Battering Hammer,2,23,2,5
+3199,Battle Slayer,2,22,2,1
+3200,Burnt Leather Bracers,1,8,4,2
+3201,Barbarian War Axe,2,28,2,1
+3202,Forest Leather Bracers,2,24,4,2
+3203,Dense Triangle Mace,3,28,2,5
+3204,Deepwood Bracers,2,26,4,2
+3205,Inscribed Leather Bracers,2,17,4,2
+3206,Cavalier Two-hander,2,28,2,8
+3207,Hunting Bracers,1,14,4,2
+3208,Conk Hammer,2,48,2,5
+3210,Brutal War Axe,2,30,2,1
+3211,Burnished Bracers,2,19,4,3
+3212,Lambent Scale Bracers,2,26,4,3
+3213,Veteran Bracers,1,13,4,3
+3214,Warrior's Bracers,1,9,4,3
+3220,Blood Sausage,1,15,0,5
+3223,Frostmane Scepter,2,13,2,4
+3224,Silver-lined Bracers,2,12,4,1
+3225,Bloodstained Knife,2,11,2,15
+3227,Nightbane Staff,2,25,2,10
+3229,Tarantula Silk Sash,2,25,4,1
+3231,Cutthroat Pauldrons,2,29,4,3
+3233,Gnoll Hide Sack,1,15,1,0
+3239,Rough Weightstone,1,5,0,8
+3240,Coarse Weightstone,1,15,0,8
+3241,Heavy Weightstone,1,25,0,8
+3279,Battle Chain Boots,1,12,4,3
+3280,Battle Chain Bracers,1,9,4,3
+3281,Battle Chain Gloves,1,11,4,3
+3282,Battle Chain Pants,2,12,4,3
+3283,Battle Chain Tunic,2,13,4,3
+3284,Tribal Boots,1,12,4,2
+3285,Tribal Bracers,1,10,4,2
+3286,Tribal Gloves,1,12,4,2
+3287,Tribal Pants,2,12,4,2
+3288,Tribal Vest,2,13,4,2
+3289,Ancestral Boots,1,11,4,1
+3290,Ancestral Gloves,1,12,4,1
+3291,Ancestral Woollies,2,13,4,1
+3292,Ancestral Tunic,2,13,4,1
+3299,Fractured Canine,0,1,15,0
+3300,Rabbit's Foot,0,5,15,0
+3301,Sharp Canine,0,1,15,0
+3302,Brackwater Boots,2,15,4,3
+3303,Brackwater Bracers,1,12,4,3
+3304,Brackwater Gauntlets,1,14,4,3
+3305,Brackwater Leggings,2,16,4,3
+3306,Brackwater Vest,2,18,4,3
+3307,Barbaric Cloth Boots,2,15,4,1
+3308,Barbaric Cloth Gloves,2,15,4,1
+3309,Barbaric Loincloth,2,16,4,1
+3310,Barbaric Cloth Vest,2,18,4,1
+3311,Ceremonial Leather Ankleguards,1,15,4,2
+3312,Ceremonial Leather Bracers,1,13,4,2
+3313,Ceremonial Leather Harness,2,18,4,2
+3314,Ceremonial Leather Gloves,2,15,4,2
+3315,Ceremonial Leather Loincloth,2,17,4,2
+3334,Farmer's Shovel,2,10,2,5
+3340,Incendicite Ore,1,22,12,0
+3345,Silk Wizard Hat,2,37,4,1
+3355,Wild Steelbloom,1,22,7,9
+3356,Kingsblood,1,24,7,9
+3357,Liferoot,1,30,7,9
+3358,Khadgar's Whisker,1,37,7,9
+3363,Frayed Belt,0,3,4,1
+3365,Frayed Bracers,0,5,4,1
+3369,Grave Moss,1,24,7,9
+3370,Patchwork Belt,0,8,4,1
+3371,Empty Vial,1,1,7,11
+3372,Leaded Vial,1,25,7,11
+3373,Patchwork Bracers,0,9,4,1
+3374,Calico Belt,0,14,4,1
+3375,Calico Bracers,0,12,4,1
+3376,Canvas Belt,0,18,4,1
+3377,Canvas Bracers,0,19,4,1
+3378,Brocade Belt,0,21,4,1
+3379,Brocade Bracers,0,22,4,1
+3380,Cross-stitched Belt,0,30,4,1
+3381,Cross-stitched Bracers,0,28,4,1
+3382,Minor Troll's Blood Elixir,1,8,0,2
+3383,Elixir of Wisdom,1,20,0,2
+3384,Minor Magic Resistance Potion,1,22,0,1
+3385,Lesser Mana Potion,1,24,0,1
+3387,Limited Invulnerability Potion,,,0,3
+3388,Lesser Troll's Blood Elixir,1,25,0,2
+3389,Elixir of Lesser Defense,1,26,0,2
+3390,Elixir of Lesser Agility,1,28,0,2
+3391,Elixir of Ogre Strength,1,30,0,2
+3392,Ringed Helm,2,31,4,2
+3393,Recipe: Minor Magic Resistance Potion,1,22,9,6
+3395,Recipe: Limited Invulnerability Potion,2,50,9,6
+3396,Recipe: Elixir of Lesser Agility,2,28,9,6
+3399,Vulture Talon,0,1,15,0
+3401,Rough Crocolisk Scale,0,1,15,0
+3402,Soft Patch of Fur,0,1,15,0
+3403,Ivory Boar Tusk,0,1,15,0
+3404,Buzzard Wing,1,35,7,8
+3413,Doomspike,3,27,2,15
+3414,Crested Scepter,3,29,2,4
+3415,Staff of the Friar,3,26,2,10
+3416,Martyr's Chain,3,28,4,3
+3417,Onyx Claymore,3,28,2,8
+3419,Red Rose,1,20,4,0
+3420,Black Rose,1,40,4,0
+3421,Simple Wildflowers,1,10,4,0
+3422,Beautiful Wildflowers,1,30,4,0
+3426,Bold Yellow Shirt,,,,
+3427,Stylish Black Shirt,1,40,4,0
+3428,Common Gray Shirt,1,20,4,0
+3430,Sniper Rifle,2,44,2,3
+3464,Feathered Arrow,2,35,6,2
+3465,Exploding Shot,2,36,6,3
+3466,Strong Flux,1,25,7,11
+3469,Copper Chain Boots,2,10,4,3
+3470,Rough Grinding Stone,1,10,7,7
+3471,Copper Chain Vest,2,10,4,3
+3472,Runed Copper Gauntlets,2,12,4,3
+3473,Runed Copper Pants,2,13,4,3
+3474,Gemmed Copper Gauntlets,2,15,4,3
+3478,Coarse Grinding Stone,1,20,7,7
+3480,Rough Bronze Shoulders,2,22,4,3
+3481,Silvered Bronze Shoulders,2,25,4,3
+3482,Silvered Bronze Boots,2,26,4,3
+3483,Silvered Bronze Gauntlets,2,27,4,3
+3484,Green Iron Boots,2,29,4,3
+3485,Green Iron Gauntlets,2,30,4,3
+3486,Heavy Grinding Stone,1,25,7,7
+3487,Heavy Copper Broadsword,2,19,2,8
+3488,Copper Battle Axe,2,13,2,1
+3489,Thick War Axe,2,17,2,0
+3490,Deadly Bronze Poniard,2,25,2,15
+3491,Heavy Bronze Mace,2,25,2,4
+3492,Mighty Iron Hammer,2,30,2,4
+3530,Wool Bandage,1,1,0,7
+3531,Heavy Wool Bandage,1,1,0,7
+3563,Seafarer's Pantaloons,2,24,4,1
+3569,Vicar's Robe,2,26,4,1
+3571,Trogg Beater,2,23,2,5
+3575,Iron Bar,1,30,7,7
+3576,Tin Bar,1,20,7,7
+3577,Gold Bar,2,30,7,7
+3589,Heavy Weave Belt,1,17,4,1
+3590,Heavy Weave Bracers,1,17,4,1
+3599,Thin Cloth Belt,1,5,4,1
+3600,Thin Cloth Bracers,1,5,4,1
+3602,Knitted Belt,1,10,4,1
+3603,Knitted Bracers,1,10,4,1
+3608,Plans: Mighty Iron Hammer,2,29,9,4
+3609,Plans: Copper Chain Vest,2,10,9,4
+3610,Plans: Gemmed Copper Gauntlets,2,15,9,4
+3611,Plans: Green Iron Boots,2,29,9,4
+3612,Plans: Green Iron Gauntlets,2,30,9,4
+3641,Journeyman's Bracers,1,8,4,1
+3642,Ancestral Bracers,1,9,4,1
+3643,Spellbinder Bracers,1,14,4,1
+3644,Barbaric Cloth Bracers,1,12,4,1
+3645,Seer's Cuffs,2,17,4,1
+3647,Bright Bracers,2,23,4,1
+3649,Tribal Buckler,1,11,4,6
+3650,Battle Shield,1,9,4,6
+3651,Veteran Shield,2,15,4,6
+3652,Hunting Buckler,2,14,4,6
+3653,Ceremonial Buckler,2,15,4,6
+3654,Brackwater Shield,2,14,4,6
+3655,Burnished Shield,2,21,4,6
+3656,Lambent Scale Shield,2,27,4,6
+3661,Handcrafted Staff,1,2,2,10
+3662,Crocolisk Steak,1,15,0,5
+3663,Murloc Fin Soup,1,10,0,5
+3664,Crocolisk Gumbo,1,25,0,5
+3665,Curiously Tasty Omelet,1,25,0,5
+3666,Gooey Spider Cake,1,25,0,5
+3667,Tender Crocolisk Meat,1,23,7,8
+3669,Gelatinous Goo,0,1,15,0
+3670,Large Slimy Bone,0,1,15,0
+3671,Lifeless Skull,0,1,15,0
+3674,Decomposed Boot,0,1,15,0
+3676,Slimy Ichor,0,1,15,0
+3678,Recipe: Crocolisk Steak,1,15,9,5
+3679,Recipe: Blood Sausage,1,15,9,5
+3680,Recipe: Murloc Fin Soup,1,25,9,5
+3681,Recipe: Crocolisk Gumbo,1,25,9,5
+3682,Recipe: Curiously Tasty Omelet,1,25,9,5
+3683,Recipe: Gooey Spider Cake,1,25,9,5
+3685,Raptor Egg,1,22,7,8
+3702,Bear Gall Bladder,0,1,15,0
+3703,Southshore Stout,1,1,0,5
+3712,Turtle Meat,1,30,7,8
+3713,Soothing Spices,1,30,7,11
+3719,Hillman's Cloak,2,30,4,1
+3722,Familiar Hide,0,1,15,0
+3723,Familiar Fang,0,1,15,0
+3724,Familiar Claw,0,1,15,0
+3725,Familiar Horn,0,1,15,0
+3726,Big Bear Steak,1,15,0,5
+3728,Tasty Lion Steak,1,35,0,5
+3729,Soothing Turtle Bisque,1,25,0,5
+3730,Big Bear Meat,1,21,7,8
+3731,Lion Meat,1,23,7,8
+3736,Recipe: Tasty Lion Steak,1,30,9,5
+3737,Recipe: Soothing Turtle Bisque,1,30,9,5
+3740,Decapitating Sword,2,24,2,7
+3770,Mutton Chop,1,25,0,5
+3771,Wild Hog Shank,1,35,0,5
+3775,Crippling Poison,1,20,0,8
+3778,Taut Compound Bow,0,31,2,2
+3779,Hefty War Axe,,,2,1
+3781,Broad Claymore,,,2,8
+3782,Large War Club,,,2,5
+3783,Light Scimitar,,,2,7
+3784,Metal Stave,,,2,10
+3785,Keen Axe,0,38,2,0
+3786,Shiny Dirk,,,2,15
+3787,Stone Club,0,40,2,4
+3793,Interlaced Boots,0,32,4,1
+3795,Interlaced Cloak,0,36,4,1
+3796,Interlaced Gloves,,,4,1
+3797,Interlaced Pants,0,39,4,1
+3798,Interlaced Shoulderpads,0,35,4,1
+3799,Interlaced Vest,0,37,4,1
+3800,Hardened Leather Belt,,,4,2
+3802,Hardened Leather Bracers,0,34,4,2
+3803,Hardened Cloak,,,4,1
+3804,Hardened Leather Gloves,0,36,4,2
+3806,Hardened Leather Shoulderpads,0,37,4,2
+3808,Double Mail Belt,,,4,3
+3811,Double-stitched Cloak,,,4,1
+3812,Double Mail Gloves,0,36,4,3
+3814,Double Mail Shoulderpads,0,39,4,3
+3815,Double Mail Vest,0,33,4,3
+3816,Reflective Heater,0,36,4,6
+3818,Fadeleaf,1,32,7,9
+3819,Wintersbite,1,39,7,9
+3820,Stranglekelp,1,20,7,9
+3821,Goldthorn,1,34,7,9
+3823,Lesser Invisibility Potion,1,33,0,1
+3824,Shadow Oil,1,34,0,8
+3825,Elixir of Lesser Fortitude,1,35,0,2
+3826,Troll's Blood Elixir,1,36,0,2
+3827,Mana Potion,1,32,0,1
+3828,Elixir of Detect Lesser Invisibility,,,0,3
+3829,Frost Oil,1,40,0,8
+3830,Recipe: Elixir of Lesser Fortitude,1,35,9,6
+3831,Recipe: Troll's Blood Elixir,1,36,9,6
+3832,Recipe: Elixir of Detect Lesser Invisibility,2,39,9,6
+3835,Green Iron Bracers,2,33,4,3
+3836,Green Iron Helm,2,34,4,3
+3837,Golden Scale Coif,2,38,4,3
+3840,Green Iron Shoulders,2,32,4,3
+3841,Golden Scale Shoulders,2,35,4,3
+3842,Green Iron Leggings,2,31,4,3
+3843,Golden Scale Leggings,2,34,4,3
+3844,Green Iron Hauberk,3,36,4,3
+3845,Golden Scale Cuirass,2,40,4,3
+3846,Polished Steel Boots,,,4,3
+3847,Golden Scale Boots,2,40,4,3
+3848,Big Bronze Knife,2,20,2,15
+3849,Hardened Iron Shortsword,2,32,2,7
+3850,Jade Serpentblade,2,35,2,7
+3851,Solid Iron Maul,2,31,2,5
+3852,Golden Iron Destroyer,2,34,2,5
+3853,Moonsteel Broadsword,2,36,2,8
+3854,Frost Tiger Blade,2,40,2,8
+3855,Massive Iron Axe,,,2,1
+3856,Shadow Crescent Axe,2,40,2,1
+3857,Coal,1,30,7,7
+3858,Mithril Ore,1,40,7,7
+3859,Steel Bar,1,35,7,7
+3860,Mithril Bar,1,40,7,7
+3864,Citrine,2,40,7,11
+3866,Plans: Jade Serpentblade,2,35,9,4
+3867,Plans: Golden Iron Destroyer,2,34,9,4
+3868,Plans: Frost Tiger Blade,2,40,9,4
+3869,Plans: Shadow Crescent Axe,2,40,9,4
+3870,Plans: Green Iron Shoulders,2,32,9,4
+3871,Plans: Golden Scale Shoulders,3,35,9,4
+3872,Plans: Golden Scale Leggings,2,34,9,4
+3873,Plans: Golden Scale Cuirass,2,39,9,4
+3874,Plans: Polished Steel Boots,2,37,9,4
+3875,Plans: Golden Scale Boots,3,40,9,4
+3882,Buzzard Feather,0,1,15,0
+3899,"Legends of the Gurubashi, Volume 3",,,15,0
+3902,Staff of Nobles,2,20,2,10
+3914,Journeyman's Backpack,1,45,1,0
+3927,Fine Aged Cheddar,1,45,0,5
+3928,Superior Healing Potion,1,45,0,1
+3931,Poisoned Spider Fang,0,1,15,0
+4035,Silver-thread Robe,2,31,4,1
+4036,Silver-thread Cuffs,2,27,4,1
+4037,Silver-thread Pants,2,30,4,1
+4038,Nightsky Robe,2,37,4,1
+4039,Nightsky Cowl,2,35,4,1
+4040,Nightsky Gloves,2,34,4,1
+4041,Aurora Cowl,2,39,4,1
+4042,Aurora Gloves,2,39,4,1
+4043,Aurora Bracers,,,4,1
+4044,Aurora Pants,2,40,4,1
+4045,Mistscape Bracers,2,42,4,1
+4046,Mistscape Pants,,,4,1
+4047,Mistscape Boots,2,43,4,1
+4048,Emblazoned Hat,2,31,4,2
+4049,Emblazoned Bracers,2,28,4,2
+4050,Emblazoned Leggings,2,31,4,2
+4051,Emblazoned Boots,2,30,4,2
+4052,Insignia Cap,2,35,4,2
+4054,Insignia Leggings,2,35,4,2
+4055,Insignia Boots,2,34,4,2
+4057,Insignia Chestguard,2,36,4,2
+4058,Glyphed Breastplate,2,41,4,2
+4059,Glyphed Bracers,2,37,4,2
+4060,Glyphed Leggings,2,40,4,2
+4061,Imperial Leather Bracers,2,42,4,2
+4062,Imperial Leather Pants,,,4,2
+4063,Imperial Leather Gloves,2,43,4,2
+4064,Emblazoned Buckler,2,30,4,6
+4065,Combat Shield,2,36,4,6
+4066,Insignia Buckler,2,35,4,6
+4067,Glyphed Buckler,2,39,4,6
+4068,Chief Brigadier Shield,2,40,4,6
+4070,Jouster's Crest,2,41,4,6
+4071,Glimmering Mail Breastplate,2,31,4,3
+4072,Glimmering Mail Gauntlets,2,30,4,3
+4073,Glimmering Mail Greaves,2,31,4,3
+4074,Mail Combat Armor,2,36,4,3
+4075,Mail Combat Gauntlets,2,34,4,3
+4076,Mail Combat Boots,2,35,4,3
+4077,Mail Combat Headguard,2,35,4,3
+4078,Chief Brigadier Coif,2,39,4,3
+4079,Chief Brigadier Leggings,2,40,4,3
+4080,Blackforge Cowl,,,4,3
+4083,Blackforge Gauntlets,,,4,3
+4087,Trueshot Bow,2,41,2,2
+4088,Dreadblade,2,47,2,15
+4089,Ricochet Blunderbuss,2,48,2,3
+4090,Mug O' Hurt,3,46,2,4
+4091,Widowmaker,,,2,15
+4093,Large Basilisk Tail,0,1,15,0
+4096,Coarse Gorilla Hair,1,1,15,0
+4097,Chipped Gorilla Tooth,,,15,0
+4231,Cured Light Hide,1,10,7,6
+4232,Medium Hide,1,20,7,6
+4233,Cured Medium Hide,1,20,7,6
+4234,Heavy Leather,1,30,7,6
+4235,Heavy Hide,1,30,7,6
+4236,Cured Heavy Hide,1,30,7,6
+4237,Handstitched Leather Belt,2,10,4,2
+4238,Linen Bag,1,5,1,0
+4239,Embossed Leather Gloves,2,13,4,2
+4240,Woolen Bag,1,15,1,0
+4241,Green Woolen Bag,1,15,1,0
+4242,Embossed Leather Pants,2,15,4,2
+4243,Fine Leather Tunic,2,17,4,2
+4244,Hillman's Leather Vest,2,20,4,2
+4245,Small Silk Pack,1,25,1,0
+4246,Fine Leather Belt,2,16,4,2
+4247,Hillman's Leather Gloves,2,29,4,2
+4248,Dark Leather Gloves,2,26,4,2
+4249,Dark Leather Belt,2,25,4,2
+4250,Hillman's Belt,2,25,4,2
+4251,Hillman's Shoulders,2,26,4,2
+4252,Dark Leather Shoulders,2,28,4,2
+4253,Toughened Leather Gloves,3,27,4,2
+4254,Barbaric Gloves,2,30,4,2
+4255,Green Leather Armor,2,31,4,2
+4256,Guardian Armor,2,35,4,2
+4257,Green Leather Belt,,,4,2
+4258,Guardian Belt,,,4,2
+4259,Green Leather Bracers,2,36,4,2
+4260,Guardian Leather Bracers,2,39,4,2
+4262,Gem-studded Leather Belt,,,4,2
+4263,Standard Issue Shield,1,10,4,6
+4264,Barbaric Belt,2,40,4,2
+4265,Heavy Armor Kit,1,30,0,6
+4278,Lesser Bloodstone Ore,1,1,12,0
+4289,Salt,1,10,7,6
+4290,Dust Bowl,2,18,4,6
+4291,Silken Thread,1,30,7,5
+4292,Pattern: Green Woolen Bag,2,19,9,2
+4293,Pattern: Hillman's Leather Vest,2,20,9,1
+4294,Pattern: Hillman's Belt,2,24,9,1
+4296,Pattern: Dark Leather Shoulders,2,28,9,1
+4297,Pattern: Barbaric Gloves,2,30,9,1
+4298,Pattern: Guardian Belt,3,34,9,1
+4299,Pattern: Guardian Armor,2,35,9,1
+4300,Pattern: Guardian Leather Bracers,2,39,9,1
+4301,Pattern: Barbaric Belt,3,40,9,1
+4304,Thick Leather,1,40,7,6
+4305,Bolt of Silk Cloth,1,35,7,5
+4306,Silk Cloth,1,30,7,5
+4307,Heavy Linen Gloves,2,10,4,1
+4308,Green Linen Bracers,2,12,4,1
+4309,Handstitched Linen Britches,2,14,4,1
+4310,Heavy Woolen Gloves,2,17,4,1
+4311,Heavy Woolen Cloak,2,21,4,1
+4312,Soft-soled Linen Boots,2,16,4,1
+4313,Red Woolen Boots,2,20,4,1
+4314,Double-Stitched Woolen Shoulders,2,22,4,1
+4315,Reinforced Woolen Shoulders,2,24,4,1
+4316,Heavy Woolen Pants,2,22,4,1
+4317,Phoenix Pants,2,25,4,1
+4318,Gloves of Meditation,2,26,4,1
+4319,Azure Silk Gloves,2,29,4,1
+4320,Spidersilk Boots,3,25,4,1
+4321,Spider Silk Slippers,2,28,4,1
+4322,Enchanter's Cowl,2,33,4,1
+4323,Shadow Hood,2,34,4,1
+4324,Azure Silk Vest,2,30,4,1
+4325,Boots of the Enchanter,2,35,4,1
+4326,Long Silken Cloak,2,37,4,1
+4328,Spider Belt,,,4,1
+4330,Stylish Red Shirt,1,22,4,0
+4331,Phoenix Gloves,2,25,4,1
+4332,Bright Yellow Shirt,1,27,4,0
+4333,Dark Silk Shirt,,,4,0
+4334,Formal White Shirt,1,34,4,0
+4335,Rich Purple Silk Shirt,,,4,0
+4336,Black Swashbuckler's Shirt,1,40,4,0
+4337,Thick Spider's Silk,1,35,7,5
+4338,Mageweave Cloth,1,40,7,5
+4339,Bolt of Mageweave,1,45,7,5
+4340,Gray Dye,1,25,7,11
+4341,Yellow Dye,1,25,7,11
+4342,Purple Dye,1,50,7,11
+4343,Brown Linen Pants,2,10,4,1
+4344,Brown Linen Shirt,1,7,4,0
+4345,Pattern: Red Woolen Boots,2,19,9,2
+4346,Pattern: Heavy Woolen Cloak,2,20,9,2
+4347,Pattern: Reinforced Woolen Shoulders,2,24,9,2
+4348,Pattern: Phoenix Gloves,2,25,9,2
+4349,Pattern: Phoenix Pants,2,25,9,2
+4350,Pattern: Spider Silk Slippers,2,28,9,2
+4351,Pattern: Shadow Hood,2,34,9,2
+4352,Pattern: Boots of the Enchanter,2,35,9,2
+4353,Pattern: Spider Belt,2,36,9,2
+4354,Pattern: Rich Purple Silk Shirt,3,37,9,2
+4355,Pattern: Icy Cloak,1,40,9,2
+4356,Pattern: Star Belt,2,40,9,2
+4357,Rough Blasting Powder,1,5,7,1
+4358,Rough Dynamite,1,10,0,0
+4359,Handful of Copper Bolts,1,8,7,1
+4360,Rough Copper Bomb,1,14,0,0
+4361,Copper Tube,1,10,7,1
+4362,Rough Boomstick,2,10,2,3
+4363,Copper Modulator,1,13,7,1
+4364,Coarse Blasting Powder,1,15,7,1
+4365,Coarse Dynamite,1,20,0,0
+4366,Target Dummy,1,17,0,14
+4367,Small Seaforium Charge,1,20,0,0
+4368,Flying Tiger Goggles,2,20,4,1
+4369,Deadly Blunderbuss,2,21,2,3
+4370,Large Copper Bomb,1,26,0,0
+4371,Bronze Tube,1,21,7,1
+4372,Lovingly Crafted Boomstick,2,24,2,3
+4373,Shadow Goggles,2,24,4,1
+4374,Small Bronze Bomb,1,29,0,0
+4375,Whirring Bronze Gizmo,1,25,7,1
+4376,Flame Deflector,,,7,3
+4377,Heavy Blasting Powder,1,25,7,1
+4378,Heavy Dynamite,1,30,0,0
+4379,Silver-plated Shotgun,2,26,2,3
+4380,Big Bronze Bomb,1,33,0,0
+4381,Minor Recombobulator,2,28,4,0
+4382,Bronze Framework,1,29,7,1
+4383,Moonsight Rifle,2,29,2,3
+4384,Explosive Sheep,1,30,0,0
+4385,Green Tinted Goggles,2,30,4,1
+4386,Ice Deflector,,,7,3
+4387,Iron Strut,1,32,7,1
+4388,Discombobulator Ray,,,7,3
+4389,Gyrochronatom,1,34,7,1
+4390,Iron Grenade,1,35,0,0
+4391,Compact Harvest Reaper Kit,1,35,0,14
+4392,Advanced Target Dummy,1,37,0,14
+4393,Craftsman's Monocle,2,37,4,1
+4394,Big Iron Bomb,1,43,0,0
+4395,Goblin Land Mine,1,39,0,0
+4398,Large Seaforium Charge,1,40,0,0
+4399,Wooden Stock,1,10,7,1
+4400,Heavy Stock,1,25,7,1
+4401,Mechanical Squirrel Box,1,15,15,2
+4402,Small Flame Sac,1,25,7,11
+4403,Portable Bronze Mortar,,,7,3
+4404,Silver Contact,1,18,7,1
+4405,Crude Scope,1,12,0,14
+4406,Standard Scope,1,22,0,14
+4407,Accurate Scope,1,36,0,14
+4408,Schematic: Mechanical Squirrel,2,15,9,3
+4409,Schematic: Small Seaforium Charge,2,20,9,3
+4410,Schematic: Shadow Goggles,2,24,9,3
+4412,Schematic: Moonsight Rifle,2,29,9,3
+4413,Schematic: Discombobulator Ray,2,32,9,3
+4414,Schematic: Portable Bronze Mortar,2,33,9,3
+4415,Schematic: Craftsman's Monocle,3,37,9,3
+4416,Schematic: Goblin Land Mine,2,39,9,3
+4417,Schematic: Large Seaforium Charge,2,40,9,3
+4419,Scroll of Intellect III,1,45,0,4
+4421,Scroll of Protection III,1,40,0,4
+4422,Scroll of Stamina III,1,45,0,4
+4424,Scroll of Spirit III,1,40,0,4
+4425,Scroll of Agility III,1,50,0,4
+4426,Scroll of Strength III,,,,
+4428,Spider Palp,0,1,15,0
+4434,Scarecrow Trousers,2,22,4,1
+4444,Black Husk Shield,2,26,4,6
+4446,Blackvenom Blade,3,28,2,15
+4447,Cloak of Night,2,28,4,1
+4448,Husk of Naraxis,2,29,4,3
+4449,Naraxis' Fang,2,29,2,15
+4454,Talon of Vultros,3,28,2,15
+4455,Raptor Hide Harness,2,33,4,2
+4456,Raptor Hide Belt,2,33,4,2
+4457,Barbecued Buzzard Wing,1,35,0,5
+4461,Raptor Hide,1,30,7,6
+4462,Cloak of Rot,2,33,4,1
+4463,Beaded Raptor Collar,2,33,4,1
+4464,Trouncing Boots,2,34,4,3
+4465,Bonefist Gauntlets,2,34,4,3
+4470,Simple Wood,1,5,7,11
+4471,Flint and Tinder,1,5,7,11
+4474,Ravenwood Bow,2,34,2,2
+4476,Beastwalker Robe,2,36,4,1
+4477,Nefarious Buckler,2,36,4,6
+4479,Burning Charm,1,35,0,8
+4480,Thundering Charm,1,35,0,8
+4481,Cresting Charm,1,35,0,8
+4496,Small Brown Pouch,1,5,1,0
+4497,Heavy Brown Bag,,,,
+4498,Brown Leather Satchel,1,15,1,0
+4500,Traveler's Backpack,2,55,1,0
+4536,Shiny Red Apple,1,5,0,5
+4537,Tel'Abim Banana,1,15,0,5
+4538,Snapvine Watermelon,1,25,0,5
+4539,Goldenbark Apple,1,35,0,5
+4540,Tough Hunk of Bread,1,5,0,5
+4541,Freshly Baked Bread,1,15,0,5
+4542,Moist Cornbread,1,25,0,5
+4544,Mulgore Spice Bread,1,35,0,5
+4552,Smooth Stone Chip,,,15,0
+4553,Jagged Piece of Stone,0,1,15,0
+4555,Thick Scaly Tail,0,1,15,0
+4556,Speckled Shell Fragment,0,1,15,0
+4560,Fine Scimitar,1,6,2,7
+4561,Scalping Tomahawk,2,11,2,0
+4562,Severing Axe,2,10,2,1
+4563,Billy Club,1,9,2,4
+4564,Spiked Club,2,13,2,5
+4565,Simple Dagger,1,6,2,15
+4566,Sturdy Quarterstaff,2,13,2,10
+4567,Merc Sword,2,16,2,8
+4568,Grunt Axe,2,21,2,0
+4569,Staunch Hammer,2,14,2,4
+4570,Birchwood Maul,2,15,2,5
+4571,War Knife,2,17,2,15
+4575,Medicine Staff,2,19,2,10
+4576,Light Bow,2,21,2,2
+4577,Compact Shotgun,2,13,2,3
+4582,Soft Bushy Tail,1,1,12,0
+4583,Thick Furry Mane,0,1,15,0
+4585,Dripping Spider Mandible,0,1,15,0
+4586,Smooth Raptor Skin,0,1,15,0
+4589,Long Elegant Feather,1,1,7,11
+4590,Curved Yellow Bill,0,1,15,0
+4591,Eagle Eye,0,1,15,0
+4592,Longjaw Mud Snapper,1,15,0,5
+4593,Bristle Whisker Catfish,1,25,0,5
+4594,Rockscale Cod,1,35,0,5
+4596,Minor Discolored Healing Potion,1,15,0,1
+4599,Cured Ham Steak,,,,
+4601,Soft Banana Bread,1,45,0,5
+4602,Moon Harvest Pumpkin,,,,
+4603,Raw Spotted Yellowtail,1,45,7,8
+4604,Forest Mushroom Cap,1,5,0,5
+4605,Red-speckled Mushroom,1,15,0,5
+4606,Spongy Morel,1,25,0,5
+4607,Delicious Cave Mold,1,35,0,5
+4608,Raw Black Truffle,,,,
+4611,Blue Pearl,1,1,7,11
+4623,Lesser Stoneshield Potion,1,43,0,1
+4624,Recipe: Lesser Stoneshield Potion,1,43,9,6
+4625,Firebloom,1,41,7,9
+4639,Enchanted Sea Kelp,1,1,12,0
+4655,Giant Clam Meat,1,35,7,8
+4656,Small Pumpkin,1,5,0,5
+4658,Warrior's Cloak,1,8,4,1
+4659,Warrior's Girdle,1,8,4,3
+4660,Walking Boots,2,20,4,1
+4661,Bright Mantle,2,26,4,1
+4662,Journeyman's Cloak,1,8,4,1
+4663,Journeyman's Belt,1,9,4,1
+4665,Burnt Cloak,1,8,4,1
+4666,Burnt Leather Belt,1,9,4,2
+4668,Battle Chain Cloak,1,9,4,1
+4669,Battle Chain Girdle,1,10,4,3
+4671,Ancestral Cloak,1,9,4,1
+4672,Ancestral Belt,1,10,4,1
+4674,Tribal Cloak,1,9,4,1
+4675,Tribal Belt,1,10,4,2
+4676,Skeletal Gauntlets,2,17,4,3
+4677,Veteran Cloak,1,12,4,1
+4678,Veteran Girdle,1,14,4,3
+4680,Brackwater Cloak,1,13,4,1
+4681,Brackwater Girdle,1,14,4,3
+4683,Spellbinder Cloak,1,13,4,1
+4684,Spellbinder Belt,1,13,4,1
+4686,Barbaric Cloth Cloak,1,12,4,1
+4687,Barbaric Cloth Belt,1,14,4,1
+4689,Hunting Cloak,1,13,4,1
+4690,Hunting Belt,1,13,4,2
+4692,Ceremonial Cloak,1,12,4,1
+4693,Ceremonial Leather Belt,1,14,4,2
+4694,Burnished Pauldrons,1,22,4,3
+4695,Burnished Cloak,2,18,4,1
+4697,Burnished Girdle,2,20,4,3
+4698,Seer's Mantle,1,21,4,1
+4699,Seer's Belt,2,18,4,1
+4700,Inscribed Leather Spaulders,1,21,4,2
+4701,Inscribed Cloak,2,16,4,1
+4705,Lambent Scale Pauldrons,2,27,4,3
+4706,Lambent Scale Cloak,2,24,4,1
+4707,Lambent Scale Girdle,2,26,4,3
+4708,Bright Belt,2,24,4,1
+4709,Forest Leather Mantle,2,25,4,2
+4710,Forest Cloak,2,22,4,1
+4711,Glimmering Cloak,2,28,4,1
+4712,Glimmering Mail Girdle,2,29,4,3
+4713,Silver-thread Cloak,2,26,4,1
+4714,Silver-thread Sash,2,27,4,1
+4715,Emblazoned Cloak,2,27,4,1
+4716,Combat Cloak,2,32,4,1
+4717,Mail Combat Belt,2,34,4,3
+4718,Nightsky Mantle,2,35,4,1
+4719,Nightsky Cloak,2,32,4,1
+4720,Nightsky Sash,2,33,4,1
+4721,Insignia Mantle,2,35,4,2
+4722,Insignia Cloak,2,32,4,1
+4725,Chief Brigadier Pauldrons,2,40,4,3
+4726,Chief Brigadier Cloak,2,36,4,1
+4727,Chief Brigadier Girdle,,,4,3
+4729,Aurora Mantle,2,39,4,1
+4731,Glyphed Epaulets,2,39,4,2
+4732,Glyphed Cloak,2,37,4,1
+4734,Mistscape Mantle,,,4,1
+4735,Mistscape Cloak,2,41,4,1
+4736,Mistscape Sash,2,42,4,1
+4737,Imperial Leather Spaulders,2,44,4,2
+4738,Imperial Leather Belt,,,4,2
+4757,Cracked Egg Shells,0,1,15,0
+4765,Enamelled Broadsword,2,14,2,7
+4766,Feral Blade,2,13,2,7
+4775,Cracked Bill,0,1,15,0
+4776,Ruffled Feather,0,1,15,0
+4777,Ironwood Maul,2,18,2,5
+4778,Heavy Spiked Mace,2,19,2,5
+4780,Kodo Horn Fragment,0,1,15,0
+4781,Whispering Vest,2,20,4,1
+4782,Solstice Robe,2,18,4,1
+4786,Wise Man's Belt,2,20,4,1
+4788,Agile Boots,2,20,4,2
+4789,Stable Boots,2,18,4,2
+4790,Inferno Cloak,2,25,4,1
+4791,Enchanted Water,1,35,0,5
+4792,Spirit Cloak,2,23,4,1
+4793,Sylvan Cloak,2,24,4,1
+4794,Wolf Bracers,2,25,4,2
+4795,Bear Bracers,2,25,4,2
+4796,Owl Bracers,2,25,4,2
+4797,Fiery Cloak,2,25,4,1
+4798,Heavy Runed Cloak,2,25,4,1
+4799,Antiquated Cloak,2,23,4,1
+4800,Mighty Chain Pants,2,23,4,3
+4810,Boulder Pads,2,41,4,2
+4813,Small Leather Collar,0,1,15,0
+4814,Discolored Fang,0,1,15,0
+4816,Legionnaire's Leggings,2,24,4,3
+4818,Executioner's Sword,2,24,2,8
+4820,Guardian Buckler,2,25,4,6
+4821,Bear Buckler,2,23,4,6
+4822,Owl's Disk,2,23,4,6
+4824,Blurred Axe,,,,
+4825,Callous Axe,,,,
+4826,Marauder Axe,2,26,2,0
+4827,Wizard's Belt,2,28,4,1
+4828,Nightwind Belt,2,27,4,1
+4829,Dreamer's Belt,2,29,4,1
+4830,Saber Leggings,2,28,4,2
+4831,Stalking Pants,2,26,4,2
+4832,Mystic Sarong,2,29,4,2
+4833,Glorious Shoulders,2,28,4,3
+4835,Elite Shoulders,2,30,4,3
+4836,Fireproof Orb,,,,
+4837,Strength of Will,2,30,4,0
+4838,Orb of Power,2,26,4,0
+4852,Flash Bomb,1,37,0,0
+4865,Ruined Pelt,0,1,15,0
+4873,Dry Hardened Barnacle,0,1,15,0
+4874,Clean Fishbones,0,1,15,0
+4877,Stone Arrowhead,0,1,15,0
+4949,Orcish Cleaver,2,21,2,0
+4998,Blood Ring,2,24,4,0
+4999,Azora's Will,2,27,4,0
+5001,Heart Ring,2,27,4,0
+5002,Glowing Green Talisman,2,30,4,0
+5003,Crystal Starfire Medallion,2,31,4,0
+5007,Band of Thorns,2,31,4,0
+5009,Mindbender Loop,2,36,4,0
+5011,Welken Ring,2,40,4,0
+5020,Kolkar Booty Key,1,1,13,0
+5028,Lord Sakrasis' Scepter,2,47,4,0
+5029,Talisman of the Naga Lord,2,47,4,0
+5042,Red Ribboned Wrapping Paper,1,5,0,8
+5048,Blue Ribboned Wrapping Paper,1,5,0,8
+5057,Ripe Watermelon,1,5,0,5
+5066,Fissure Plant,1,15,0,5
+5069,Fire Wand,2,12,2,19
+5071,Shadow Wand,2,14,2,19
+5075,Blood Shard,1,1,12,0
+5079,Cold Basilisk Eye,,,4,0
+5082,Thin Kodo Leather,1,10,7,6
+5095,Rainbow Fin Albacore,1,15,0,5
+5107,Deckhand's Shirt,1,14,4,0
+5108,Dark Iron Leather,1,32,4,2
+5109,Stonesplinter Rags,1,17,4,1
+5110,Dalaran Wizard's Robe,,,4,1
+5112,Ritual Blade,,,2,15
+5113,Mark of the Syndicate,0,1,15,0
+5114,Severed Talon,0,1,15,0
+5115,Broken Wishbone,0,1,15,0
+5116,Long Tail Feather,1,1,7,6
+5117,Vibrant Plume,1,1,12,0
+5120,Long Tail Hair,0,1,15,0
+5123,Steel Arrowhead,0,1,15,0
+5124,Small Raptor Tooth,0,1,15,0
+5125,Charged Scale,,,15,0
+5128,Shed Lizard Skin,0,1,15,0
+5133,Seeping Gizzard,0,1,15,0
+5134,Small Furry Paw,1,1,12,0
+5135,Thin Black Claw,0,1,15,0
+5136,Torn Furry Ear,0,1,15,0
+5137,Bright Eyeball,0,1,15,0
+5140,Flash Powder,1,20,15,1
+5165,Sunscale Feather,1,1,12,0
+5173,Deathweed,1,30,15,1
+5181,Vibrant Silk Cape,2,36,4,1
+5182,Shiver Blade,2,22,2,8
+5205,Sprouted Frond,1,15,0,8
+5206,Bogling Root,1,12,0,8
+5207,Opaque Wand,2,20,2,19
+5208,Smoldering Wand,,,,
+5211,Dusk Wand,,,,
+5212,Blazing Wand,2,17,2,19
+5213,Scorching Wand,2,35,2,19
+5214,Wand of Eventide,2,32,2,19
+5215,Ember Wand,2,41,2,19
+5216,Umbral Wand,2,45,2,19
+5237,Mind-numbing Poison,,,,
+5257,Dark Hooded Cape,3,39,4,1
+5319,Bashing Pauldrons,1,20,4,2
+5329,Cat Figurine,0,1,15,0
+5342,Raptor Punch,1,18,0,5
+5363,Folded Handkerchief,0,1,15,0
+5364,Dry Salt Lick,0,1,15,0
+5368,Empty Wallet,0,1,15,0
+5369,Gnawed Bone,0,1,15,0
+5373,Lucky Charm,1,1,15,0
+5374,Small Pocket Watch,0,1,15,0
+5376,Broken Mirror,,,15,0
+5379,Boot Knife,0,8,2,16
+5423,Boahn's Fang,3,22,2,1
+5429,A Pretty Rock,0,1,15,0
+5432,Hickory Pipe,0,1,15,0
+5439,Small Quiver,1,5,11,2
+5441,Small Shot Pouch,1,5,11,3
+5446,Broken Elemental Bracer,0,1,15,0
+5447,Damaged Elemental Bracer,,,12,0
+5448,Fractured Elemental Bracer,,,12,0
+5451,Crushed Elemental Bracer,0,1,15,0
+5465,Small Spider Leg,1,5,7,8
+5466,Scorpid Stinger,1,8,7,8
+5467,Kodo Meat,1,10,7,8
+5468,Soft Frenzy Flesh,1,15,7,8
+5469,Strider Meat,1,10,7,8
+5470,Thunder Lizard Tail,1,22,7,8
+5471,Stag Meat,1,23,7,8
+5472,Kaldorei Spider Kabob,1,10,0,5
+5474,Roasted Kodo Meat,,,0,0
+5476,Fillet of Frenzy,1,15,0,5
+5477,Strider Stew,1,10,0,5
+5480,Lean Venison,1,25,0,5
+5482,Recipe: Kaldorei Spider Kabob,1,5,9,5
+5483,Recipe: Scorpid Surprise,1,8,9,5
+5484,Recipe: Roasted Kodo Meat,1,10,9,5
+5485,Recipe: Fillet of Frenzy,1,15,9,5
+5486,Recipe: Strider Stew,1,15,9,5
+5487,Recipe: Dig Rat Stew,1,20,9,5
+5488,Recipe: Crispy Lizard Tail,1,20,9,5
+5498,Small Lustrous Pearl,2,15,7,11
+5500,Iridescent Pearl,2,25,7,11
+5503,Clam Meat,1,14,7,8
+5504,Tangy Clam Meat,1,23,7,8
+5506,Beady Eye Stalk,0,1,15,0
+5507,Ornate Spyglass,1,27,0,14
+5516,Threshadon Fang,0,16,2,15
+5525,Boiled Clams,1,10,0,5
+5526,Clam Chowder,1,15,0,5
+5527,Goblin Deviled Clams,1,25,0,5
+5528,Recipe: Clam Chowder,1,20,9,5
+5529,Tomb Dust,0,30,15,0
+5530,Blinding Powder,1,34,15,0
+5540,Pearl-handled Dagger,2,23,2,15
+5541,Iridescent Hammer,2,28,2,4
+5542,Pearl-clasped Cloak,2,19,4,1
+5543,Plans: Iridescent Hammer,2,28,9,4
+5566,Broken Antler,0,1,15,0
+5567,Silver Hook,,,15,0
+5568,Smooth Pebble,1,18,6,3
+5569,Seaweed,0,20,15,0
+5571,Small Black Pouch,1,5,1,0
+5572,Small Green Pouch,1,5,1,0
+5573,Green Leather Bag,1,15,1,0
+5574,White Leather Bag,1,15,1,0
+5575,Large Green Sack,1,25,1,0
+5576,Large Brown Sack,1,25,1,0
+5578,Plans: Silvered Bronze Breastplate,2,26,9,4
+5602,Sticky Spider Webbing,,,15,0
+5608,Living Cowl,2,44,4,1
+5631,Rage Potion,1,14,0,1
+5633,Great Rage Potion,1,35,0,1
+5634,Free Action Potion,1,30,0,1
+5635,Sharp Claw,1,15,7,11
+5636,Delicate Feather,0,25,15,0
+5637,Large Fang,1,30,7,11
+5640,Recipe: Rage Potion,1,14,9,6
+5642,Recipe: Free Action Potion,1,30,9,6
+5643,Recipe: Great Rage Potion,1,35,9,6
+5655,Chestnut Mare Bridle,,,,
+5656,Brown Horse Bridle,,,,
+5739,Barbaric Harness,2,38,4,2
+5740,Red Fireworks Rocket,1,20,0,8
+5741,Rock Chip,0,1,15,0
+5744,Pale Skinner,2,14,2,7
+5749,Scythe Axe,2,25,2,1
+5750,Warchief's Girdle,2,25,4,3
+5751,Webwing Cloak,2,27,4,1
+5752,Wyvern Tailspike,2,27,2,15
+5753,Ruffled Chaplet,2,34,4,2
+5754,Wolfpack Medallion,,,4,0
+5756,Sliverblade,,,2,15
+5762,Red Linen Bag,1,5,1,0
+5763,Red Woolen Bag,1,15,1,0
+5764,Green Silk Pack,1,25,1,0
+5765,Black Silk Pack,1,25,1,0
+5766,Lesser Wizard's Robe,2,27,4,1
+5767,Violet Robes,1,9,4,1
+5770,Robes of Arcana,2,30,4,1
+5771,Pattern: Red Linen Bag,1,14,9,2
+5772,Pattern: Red Woolen Bag,1,23,9,2
+5773,Pattern: Robes of Arcana,2,30,9,2
+5774,Pattern: Green Silk Pack,2,35,9,2
+5775,Pattern: Black Silk Pack,2,37,9,2
+5780,Murloc Scale Belt,2,18,4,2
+5781,Murloc Scale Breastplate,2,19,4,2
+5782,Thick Murloc Armor,,,4,2
+5784,Slimy Murloc Scale,1,15,7,6
+5785,Thick Murloc Scale,1,35,7,6
+5819,Sunblaze Coif,3,33,4,3
+5826,Kravel's Scheme,1,1,12,0
+5829,Razor-sharp Beak,0,1,15,0
+5833,Indurium Ore,1,1,12,0
+5864,Gray Ram,,,,
+5871,Large Hoof,0,1,15,0
+5872,Brown Ram,,,,
+5873,White Ram,3,40,15,5
+5956,Blacksmith Hammer,1,1,2,14
+5957,Handstitched Leather Vest,2,10,4,2
+5958,Fine Leather Pants,2,21,4,2
+5961,Dark Leather Pants,2,23,4,2
+5962,Guardian Pants,2,32,4,2
+5963,Barbaric Leggings,2,34,4,2
+5964,Barbaric Shoulders,2,35,4,2
+5965,Guardian Cloak,2,37,4,1
+5966,Guardian Gloves,2,38,4,2
+5967,Girdle of Nobility,2,20,4,1
+5971,Feathered Cape,2,28,4,1
+5972,Pattern: Fine Leather Pants,2,21,9,1
+5974,Pattern: Guardian Cloak,2,37,9,1
+5996,Draught of Water Breathing,1,18,0,2
+5997,Elixir of Minor Defense,1,5,0,2
+6037,Truesilver Bar,2,50,7,7
+6038,Giant Clam Scorcho,,,0,0
+6039,Recipe: Giant Clam Scorcho,1,35,9,5
+6040,Golden Scale Bracers,2,37,4,3
+6041,Steel Weapon Chain,,,7,0
+6042,Iron Shield Spike,1,30,0,6
+6043,Iron Counterweight,1,33,0,6
+6044,Plans: Iron Shield Spike,2,30,9,4
+6045,Plans: Iron Counterweight,2,33,9,4
+6048,Shadow Protection Potion,1,27,0,1
+6049,Fire Protection Potion,1,33,0,1
+6050,Frost Protection Potion,1,38,0,1
+6051,Holy Protection Potion,1,20,0,1
+6052,Nature Protection Potion,1,38,0,1
+6096,Apprentice's Shirt,1,1,4,0
+6097,Acolyte's Shirt,1,1,4,0
+6098,Neophyte's Robe,0,1,4,1
+6117,Squire's Shirt,1,1,4,0
+6147,Ratty Old Belt,2,12,4,2
+6148,Web-covered Boots,1,10,4,1
+6149,Greater Mana Potion,1,41,0,1
+6150,A Frayed Knot,0,1,15,0
+6179,Privateer's Cape,2,21,4,1
+6180,Slarkskin,2,17,4,3
+6195,Wax-polished Armor,2,17,4,3
+6197,Loch Croc Hide Vest,2,24,4,2
+6198,Jurassic Wristguards,2,33,4,2
+6199,Black Widow Band,2,26,4,0
+6200,Garneg's War Belt,2,31,4,3
+6201,Lithe Boots,2,12,4,2
+6202,Fingerless Gloves,2,13,4,1
+6203,Thuggish Shield,2,13,4,6
+6204,Tribal Worg Helm,2,34,4,2
+6205,Burrowing Shovel,2,17,2,5
+6206,Rock Chipper,1,17,2,1
+6211,Recipe: Elixir of Ogre's Strength,1,30,9,6
+6214,Heavy Copper Maul,2,16,2,5
+6217,Copper Rod,1,5,7,12
+6219,Arclight Spanner,1,10,2,14
+6238,Brown Linen Robe,2,10,4,1
+6239,Red Linen Vest,2,12,4,1
+6240,Blue Linen Vest,2,12,4,1
+6241,White Linen Robe,2,10,4,1
+6242,Blue Linen Robe,2,14,4,1
+6256,Fishing Pole,1,1,2,20
+6260,Blue Dye,1,10,7,11
+6261,Orange Dye,1,35,7,11
+6263,Blue Overalls,2,20,4,1
+6264,Greater Adept's Robe,2,23,4,1
+6266,Disciple's Vest,2,13,4,1
+6267,Disciple's Pants,2,12,4,1
+6268,Pioneer Tunic,2,13,4,2
+6269,Pioneer Trousers,2,12,4,2
+6270,Pattern: Blue Linen Vest,1,12,9,2
+6271,Pattern: Red Linen Vest,2,12,9,2
+6272,Pattern: Blue Linen Robe,1,14,9,2
+6274,Pattern: Blue Overalls,1,20,9,2
+6275,Pattern: Greater Adept's Robe,1,23,9,2
+6289,Raw Longjaw Mud Snapper,1,15,7,8
+6290,Brilliant Smallfish,1,10,0,5
+6291,Raw Brilliant Smallfish,1,5,7,8
+6292,10 Pound Mud Snapper,1,15,15,0
+6293,Dried Bat Blood,0,1,15,0
+6294,12 Pound Mud Snapper,1,15,15,0
+6295,15 Pound Mud Snapper,1,15,15,0
+6297,Old Skull,0,1,15,0
+6298,Bloody Bat Fang,0,1,15,0
+6299,Sickly Looking Fish,1,5,0,5
+6303,Raw Slitherskin Mackerel,1,5,7,8
+6304,Damp Diary Page (Day 4),0,1,15,0
+6308,Raw Bristle Whisker Catfish,1,25,7,8
+6309,17 Pound Catfish,1,15,15,0
+6310,19 Pound Catfish,1,15,15,0
+6311,22 Pound Catfish,1,15,15,0
+6315,Steelarrow Crossbow,2,27,2,18
+6316,Loch Frenzy Delight,1,15,0,5
+6317,Raw Loch Frenzy,1,15,7,8
+6325,Recipe: Brilliant Smallfish,1,5,9,5
+6326,Recipe: Slitherskin Mackerel,1,5,9,5
+6327,The Pacifier,3,41,2,5
+6328,Recipe: Longjaw Mud Snapper,1,15,9,5
+6329,Recipe: Loch Frenzy Delight,1,15,9,5
+6330,Recipe: Bristle Whisker Catfish,1,25,9,5
+6332,Black Pearl Ring,3,24,4,0
+6333,Spikelash Dagger,2,24,2,15
+6336,Infantry Tunic,2,13,4,3
+6337,Infantry Leggings,2,12,4,3
+6338,Silver Rod,1,20,7,12
+6342,Formula: Enchant Chest - Minor Intellect,2,12,9,8
+6344,Formula: Enchant Bracer - Minor Spirit,2,17,9,8
+6346,Formula: Enchant Chest - Lesser Intellect,2,19,9,8
+6347,Formula: Enchant Bracer - Minor Strength,2,19,9,8
+6348,Formula: Enchant Weapon - Minor Beastslayer,2,20,9,8
+6349,Formula: Enchant 2H Weapon - Lesser Intellect,1,20,9,8
+6350,Rough Bronze Boots,2,18,4,3
+6358,Oily Blackmouth,1,15,7,11
+6359,Firefin Snapper,1,25,7,11
+6360,Steelscale Crushfish,2,25,2,4
+6361,Raw Rainbow Fin Albacore,1,15,7,8
+6362,Raw Rockscale Cod,1,35,7,8
+6363,26 Pound Catfish,1,25,15,0
+6364,32 Pound Catfish,1,25,15,0
+6365,Strong Fishing Pole,1,10,2,20
+6367,Big Iron Fishing Pole,1,30,2,20
+6368,Recipe: Rainbow Fin Albacore,1,15,9,5
+6369,Recipe: Rockscale Cod,1,30,9,5
+6370,Blackmouth Oil,1,15,7,11
+6371,Fire Oil,1,25,7,11
+6372,Swim Speed Potion,1,20,0,1
+6373,Elixir of Fire Power,1,28,0,2
+6375,Formula: Enchant Bracer - Lesser Spirit,2,24,9,8
+6377,Formula: Enchant Boots - Minor Agility,2,25,9,8
+6378,Seer's Cape,2,17,4,1
+6379,Inscribed Leather Belt,2,17,4,2
+6380,Inscribed Buckler,2,18,4,6
+6381,Bright Cloak,2,23,4,1
+6382,Forest Leather Belt,2,23,4,2
+6383,Forest Buckler,2,24,4,6
+6384,Stylish Blue Shirt,1,25,4,0
+6385,Stylish Green Shirt,1,25,4,0
+6386,Glimmering Mail Legguards,2,30,4,3
+6387,Glimmering Mail Bracers,2,29,4,3
+6388,Glimmering Mail Pauldrons,2,30,4,3
+6389,Glimmering Mail Coif,2,31,4,3
+6390,Pattern: Stylish Blue Shirt,2,24,9,2
+6391,Pattern: Stylish Green Shirt,2,24,9,2
+6393,Silver-thread Gloves,2,28,4,1
+6394,Silver-thread Boots,2,27,4,1
+6395,Silver-thread Amice,2,29,4,1
+6396,Emblazoned Chestpiece,2,32,4,2
+6397,Emblazoned Gloves,2,29,4,2
+6398,Emblazoned Belt,2,29,4,2
+6399,Emblazoned Shoulders,2,30,4,2
+6400,Glimmering Shield,2,31,4,6
+6402,Mail Combat Leggings,2,36,4,3
+6403,Mail Combat Armguards,2,33,4,3
+6404,Mail Combat Spaulders,2,35,4,3
+6405,Nightsky Trousers,2,36,4,1
+6406,Nightsky Boots,2,34,4,1
+6407,Nightsky Wristbands,2,33,4,1
+6408,Insignia Gloves,2,34,4,2
+6409,Insignia Belt,2,34,4,2
+6410,Insignia Bracers,2,33,4,2
+6411,Chief Brigadier Armor,,,4,3
+6412,Chief Brigadier Boots,2,39,4,3
+6413,Chief Brigadier Bracers,2,37,4,3
+6415,Aurora Robe,2,41,4,1
+6416,Aurora Boots,2,38,4,1
+6417,Aurora Cloak,2,37,4,1
+6418,Aurora Sash,2,37,4,1
+6419,Glyphed Mitts,2,38,4,2
+6420,Glyphed Boots,2,39,4,2
+6421,Glyphed Belt,2,38,4,2
+6422,Glyphed Helm,2,39,4,2
+6423,Blackforge Greaves,2,45,4,3
+6424,Blackforge Cape,,,4,1
+6425,Blackforge Girdle,,,4,3
+6426,Blackforge Bracers,,,4,3
+6428,Mistscape Gloves,2,43,4,1
+6429,Mistscape Wizard Hat,2,44,4,1
+6431,Imperial Leather Boots,,,4,2
+6432,Imperial Cloak,2,41,4,1
+6433,Imperial Leather Helm,,,4,2
+6438,Dull Elemental Bracer,0,1,15,0
+6439,Broken Binding Bracer,0,1,15,0
+6444,Forked Tongue,0,1,15,0
+6445,Brittle Molting,0,1,15,0
+6450,Silk Bandage,1,1,0,7
+6451,Heavy Silk Bandage,1,1,0,7
+6452,Anti-Venom,1,16,0,8
+6453,Strong Anti-Venom,1,26,0,8
+6454,Manual: Strong Anti-Venom,2,26,9,7
+6457,Rusted Engineering Parts,,,15,0
+6458,Oil Covered Fish,1,15,0,8
+6466,Deviate Scale Cloak,2,18,4,1
+6467,Deviate Scale Gloves,2,21,4,2
+6468,Deviate Scale Belt,3,23,4,2
+6470,Deviate Scale,1,1,7,6
+6471,Perfect Deviate Scale,1,1,7,6
+6474,Pattern: Deviate Scale Cloak,1,18,9,1
+6475,Pattern: Deviate Scale Gloves,1,21,9,1
+6476,Pattern: Deviate Scale Belt,2,23,9,1
+6506,Infantry Boots,1,11,4,3
+6507,Infantry Bracers,1,10,4,3
+6508,Infantry Cloak,1,9,4,1
+6509,Infantry Belt,1,10,4,3
+6510,Infantry Gauntlets,1,11,4,3
+6511,Journeyman's Robe,2,11,4,1
+6512,Disciple's Robe,2,13,4,1
+6513,Disciple's Sash,1,10,4,1
+6514,Disciple's Cloak,1,10,4,1
+6515,Disciple's Gloves,1,11,4,1
+6517,Pioneer Belt,1,10,4,2
+6518,Pioneer Boots,1,11,4,2
+6519,Pioneer Bracers,1,10,4,2
+6520,Pioneer Cloak,1,9,4,1
+6521,Pioneer Gloves,1,11,4,2
+6522,Deviate Fish,1,15,0,5
+6527,Ancestral Robe,2,13,4,1
+6528,Spellbinder Robe,2,17,4,1
+6529,Shiny Bauble,1,10,0,8
+6530,Nightcrawlers,1,20,0,8
+6531,Barbaric Cloth Robe,2,18,4,1
+6532,Bright Baubles,1,30,0,8
+6533,Aquadynamic Fish Attractor,1,30,0,14
+6536,Willow Vest,2,19,4,1
+6537,Willow Boots,2,15,4,1
+6538,Willow Robe,2,19,4,1
+6539,Willow Belt,2,16,4,1
+6540,Willow Pants,2,18,4,1
+6541,Willow Gloves,2,16,4,1
+6542,Willow Cape,2,15,4,1
+6543,Willow Bracers,2,15,4,1
+6545,Soldier's Armor,2,18,4,3
+6546,Soldier's Leggings,2,17,4,3
+6547,Soldier's Gauntlets,2,17,4,3
+6548,Soldier's Girdle,2,16,4,3
+6549,Soldier's Cloak,1,14,4,1
+6550,Soldier's Wristguards,2,15,4,3
+6551,Soldier's Boots,2,17,4,3
+6552,Bard's Tunic,2,19,4,2
+6553,Bard's Trousers,2,18,4,2
+6554,Bard's Gloves,2,17,4,2
+6555,Bard's Cloak,1,14,4,1
+6556,Bard's Bracers,2,15,4,2
+6557,Bard's Boots,2,16,4,2
+6558,Bard's Belt,2,15,4,2
+6559,Bard's Buckler,2,16,4,6
+6560,Soldier's Shield,2,17,4,6
+6561,Seer's Padded Armor,2,21,4,1
+6562,Shimmering Boots,2,21,4,1
+6563,Shimmering Bracers,2,20,4,1
+6564,Shimmering Cloak,2,21,4,1
+6565,Shimmering Gloves,2,22,4,1
+6566,Shimmering Amice,1,24,4,1
+6567,Shimmering Armor,2,25,4,1
+6568,Shimmering Trousers,2,24,4,1
+6569,Shimmering Robe,2,25,4,1
+6570,Shimmering Sash,2,22,4,1
+6571,Scouting Buckler,2,22,4,6
+6572,Defender Shield,2,23,4,6
+6573,Defender Boots,2,23,4,3
+6574,Defender Bracers,2,22,4,3
+6575,Defender Cloak,2,20,4,1
+6576,Defender Girdle,2,22,4,3
+6577,Defender Gauntlets,2,23,4,3
+6578,Defender Leggings,2,23,4,3
+6579,Defender Spaulders,1,24,4,3
+6580,Defender Tunic,2,23,4,3
+6581,Scouting Belt,2,21,4,2
+6582,Scouting Boots,2,22,4,2
+6583,Scouting Bracers,2,21,4,2
+6584,Scouting Tunic,2,25,4,2
+6585,Scouting Cloak,2,20,4,1
+6586,Scouting Gloves,2,23,4,2
+6587,Scouting Trousers,2,24,4,2
+6588,Scouting Spaulders,1,23,4,2
+6590,Battleforge Boots,2,29,4,3
+6591,Battleforge Wristguards,2,27,4,3
+6592,Battleforge Armor,2,29,4,3
+6593,Battleforge Cloak,2,26,4,1
+6594,Battleforge Girdle,2,28,4,3
+6595,Battleforge Gauntlets,2,28,4,3
+6596,Battleforge Legguards,2,28,4,3
+6597,Battleforge Shoulderguards,2,28,4,3
+6598,Dervish Buckler,2,28,4,6
+6599,Battleforge Shield,2,29,4,6
+6600,Dervish Belt,2,27,4,2
+6601,Dervish Boots,2,28,4,2
+6602,Dervish Bracers,2,27,4,2
+6603,Dervish Tunic,2,30,4,2
+6604,Dervish Cape,2,26,4,1
+6605,Dervish Gloves,2,28,4,2
+6607,Dervish Leggings,2,30,4,2
+6608,Bright Armor,2,27,4,1
+6609,Sage's Cloth,2,32,4,1
+6610,Sage's Robe,2,32,4,1
+6611,Sage's Sash,2,29,4,1
+6612,Sage's Boots,2,28,4,1
+6613,Sage's Bracers,2,28,4,1
+6614,Sage's Cloak,2,28,4,1
+6615,Sage's Gloves,2,29,4,1
+6616,Sage's Pants,2,32,4,1
+6617,Sage's Mantle,2,30,4,1
+6657,Savory Deviate Delight,1,10,0,5
+6661,Recipe: Savory Deviate Delight,2,18,9,5
+6662,Elixir of Giant Growth,1,18,0,2
+6663,Recipe: Elixir of Giant Growth,2,18,9,6
+6672,Schematic: Flash Bomb,2,37,9,3
+6709,Moonglow Vest,2,18,4,2
+6710,Pattern: Moonglow Vest,2,18,9,1
+6712,Practice Lock,1,20,15,0
+6714,Ez-Thro Dynamite,1,25,0,0
+6716,Schematic: EZ-Thro Dynamite,2,20,9,3
+6731,Ironforge Breastplate,2,20,4,3
+6735,Plans: Ironforge Breastplate,2,20,9,4
+6786,Simple Dress,1,10,4,0
+6787,White Woolen Dress,2,22,4,1
+6795,White Swashbuckler's Shirt,1,32,4,0
+6796,Red Swashbuckler's Shirt,1,35,4,0
+6807,Frog Leg Stew,1,35,0,5
+6811,Aquadynamic Fish Lens,1,20,0,8
+6826,Brilliant Scale,0,1,15,0
+6887,Spotted Yellowtail,1,45,0,5
+6888,Herb Baked Egg,1,10,0,5
+6889,Small Egg,1,5,7,8
+6890,Smoked Bear Meat,1,10,0,5
+6892,Recipe: Smoked Bear Meat,1,13,9,5
+6947,Instant Poison,1,20,0,8
+6949,Instant Poison II,1,28,0,8
+6950,Instant Poison III,1,36,0,8
+6986,Crimson Lotus,0,40,15,0
+7005,Skinning Knife,1,4,2,14
+7026,Linen Belt,1,9,4,1
+7046,Azure Silk Pants,2,28,4,1
+7047,Hands of Darkness,2,29,4,1
+7048,Azure Silk Hood,2,29,4,1
+7049,Truefaith Gloves,2,30,4,1
+7050,Silk Headband,2,32,4,1
+7051,Earthen Vest,2,34,4,1
+7052,Azure Silk Belt,2,35,4,1
+7053,Azure Silk Cloak,2,35,4,1
+7055,Crimson Silk Belt,2,35,4,1
+7056,Crimson Silk Cloak,,,4,1
+7057,Green Silken Shoulders,2,36,4,1
+7058,Crimson Silk Vest,2,37,4,1
+7059,Crimson Silk Shoulders,2,38,4,1
+7060,Azure Shoulders,2,38,4,1
+7062,Crimson Silk Pantaloons,2,39,4,1
+7065,Green Silk Armor,2,33,4,1
+7067,Elemental Earth,1,25,7,10
+7068,Elemental Fire,1,25,7,10
+7069,Elemental Air,1,25,7,10
+7070,Elemental Water,1,25,7,10
+7071,Iron Buckle,1,30,7,1
+7072,Naga Scale,1,25,7,11
+7073,Broken Fang,0,1,15,0
+7074,Chipped Claw,0,1,15,0
+7075,Core of Earth,1,45,7,10
+7077,Heart of Fire,1,45,7,10
+7078,Essence of Fire,,,5,0
+7079,Globe of Water,,,5,0
+7080,Essence of Water,,,5,0
+7081,Breath of Wind,1,45,7,10
+7084,Pattern: Crimson Silk Shoulders,2,38,9,2
+7085,Pattern: Azure Shoulders,2,38,9,2
+7086,Pattern: Earthen Silk Belt,2,39,9,2
+7090,Pattern: Green Silk Armor,2,33,9,2
+7091,Pattern: Truefaith Gloves,2,30,9,2
+7092,Pattern: Hands of Darkness,2,29,9,2
+7094,Driftwood Branch,1,10,2,10
+7095,Bog Boots,1,9,4,1
+7096,Plucked Feather,0,1,15,0
+7097,Leg Meat,1,5,0,5
+7098,Splintered Tusk,0,1,15,0
+7100,Sticky Ichor,0,1,15,0
+7101,Bug Eye,0,1,15,0
+7108,Infantry Shield,2,11,4,6
+7109,Pioneer Buckler,1,9,4,6
+7110,Silver-thread Armor,2,31,4,1
+7111,Nightsky Armor,2,37,4,1
+7112,Aurora Armor,2,41,4,1
+7148,Goblin Jumper Cables,,,7,3
+7166,Copper Dagger,2,11,2,15
+7191,Fused Wiring,1,26,7,1
+7192,Schematic: Goblin Rocket Boots,2,26,9,3
+7276,Handstitched Leather Cloak,1,9,4,1
+7277,Handstitched Leather Bracers,1,9,4,2
+7278,Light Leather Quiver,1,5,11,2
+7279,Small Leather Ammo Pouch,1,5,11,3
+7280,Rugged Leather Pants,2,11,4,2
+7281,Light Leather Bracers,2,14,4,2
+7282,Light Leather Pants,2,19,4,2
+7283,Black Whelp Cloak,2,20,4,1
+7284,Red Whelp Gloves,2,24,4,2
+7285,Nimble Leather Gloves,2,24,4,2
+7286,Black Whelp Scale,1,1,7,6
+7287,Red Whelp Scale,1,1,7,6
+7288,Pattern: Rugged Leather Pants,2,11,9,1
+7289,Pattern: Black Whelp Cloak,1,20,9,1
+7290,Pattern: Red Whelp Gloves,1,24,9,1
+7307,Flesh Eating Worm,1,30,0,8
+7330,Infiltrator Buckler,2,33,4,6
+7331,Phalanx Shield,2,34,4,6
+7332,Regal Armor,,,4,1
+7348,Fletcher's Gloves,2,25,4,2
+7349,Herbalist's Gloves,2,27,4,2
+7350,Disciple's Bracers,1,10,4,1
+7351,Disciple's Boots,1,11,4,1
+7352,Earthen Leather Shoulders,2,27,4,2
+7353,Elder's Padded Armor,2,35,4,1
+7354,Elder's Boots,2,33,4,1
+7355,Elder's Bracers,2,31,4,1
+7356,Elder's Cloak,2,30,4,1
+7357,Elder's Hat,2,34,4,1
+7358,Pilferer's Gloves,2,28,4,2
+7360,Pattern: Dark Leather Gloves,2,25,9,1
+7361,Pattern: Herbalist's Gloves,2,26,9,1
+7363,Pattern: Pilferer's Gloves,2,28,9,1
+7364,Pattern: Heavy Earthen Gloves,2,29,9,1
+7366,Elder's Gloves,2,32,4,1
+7367,Elder's Mantle,2,33,4,1
+7368,Elder's Pants,2,34,4,1
+7369,Elder's Robe,2,35,4,1
+7370,Elder's Sash,2,31,4,1
+7371,Heavy Quiver,2,35,11,2
+7372,Heavy Leather Ammo Pouch,2,35,11,3
+7373,Dusky Leather Leggings,2,33,4,2
+7374,Dusky Leather Armor,2,35,4,2
+7375,Green Whelp Armor,2,35,4,2
+7377,Frost Leather Cloak,,,4,1
+7378,Dusky Bracers,,,4,2
+7386,Green Whelp Bracers,2,38,4,2
+7387,Dusky Belt,2,39,4,2
+7390,Dusky Boots,,,4,2
+7391,Swift Boots,2,40,4,2
+7392,Green Whelp Scale,1,1,7,6
+7406,Infiltrator Cord,2,32,4,2
+7407,Infiltrator Armor,2,35,4,2
+7408,Infiltrator Shoulders,2,33,4,2
+7409,Infiltrator Boots,2,33,4,2
+7410,Infiltrator Bracers,2,31,4,2
+7411,Infiltrator Cloak,2,31,4,1
+7412,Infiltrator Gloves,2,32,4,2
+7413,Infiltrator Cap,2,33,4,2
+7414,Infiltrator Pants,2,34,4,2
+7415,Dervish Spaulders,2,29,4,2
+7416,Phalanx Bracers,2,31,4,3
+7417,Phalanx Boots,2,34,4,3
+7418,Phalanx Breastplate,2,35,4,3
+7419,Phalanx Cloak,2,30,4,1
+7420,Phalanx Headguard,2,33,4,3
+7421,Phalanx Gauntlets,2,33,4,3
+7422,Phalanx Girdle,2,32,4,3
+7423,Phalanx Leggings,2,34,4,3
+7424,Phalanx Spaulders,2,33,4,3
+7428,Shadowcat Hide,1,30,7,6
+7429,Twilight Armor,2,40,4,1
+7430,Twilight Robe,2,40,4,1
+7431,Twilight Pants,2,39,4,1
+7432,Twilight Cowl,2,38,4,1
+7433,Twilight Gloves,2,37,4,1
+7434,Twilight Boots,2,37,4,1
+7435,Twilight Mantle,2,38,4,1
+7436,Twilight Cape,2,35,4,1
+7437,Twilight Cuffs,2,36,4,1
+7438,Twilight Belt,2,36,4,1
+7439,Sentinel Breastplate,2,40,4,2
+7440,Sentinel Trousers,2,39,4,2
+7441,Sentinel Cap,2,38,4,2
+7443,Sentinel Gloves,2,37,4,2
+7444,Sentinel Boots,2,37,4,2
+7445,Sentinel Shoulders,2,38,4,2
+7446,Sentinel Cloak,2,36,4,1
+7447,Sentinel Bracers,2,36,4,2
+7448,Sentinel Girdle,2,36,4,2
+7449,Pattern: Dusky Leather Leggings,2,33,9,1
+7450,Pattern: Green Whelp Armor,2,35,9,1
+7452,Pattern: Dusky Boots,,,9,1
+7453,Pattern: Swift Boots,2,40,9,1
+7454,Knight's Breastplate,2,39,4,3
+7455,Knight's Legguards,2,39,4,3
+7456,Knight's Headguard,2,38,4,3
+7457,Knight's Gauntlets,2,37,4,3
+7458,Knight's Boots,2,37,4,3
+7459,Knight's Pauldrons,2,38,4,3
+7460,Knight's Cloak,2,34,4,1
+7461,Knight's Bracers,2,36,4,3
+7462,Knight's Girdle,2,37,4,3
+7463,Sentinel Buckler,2,38,4,6
+7465,Knight's Crest,2,39,4,6
+7468,Regal Robe,,,4,1
+7469,Regal Leggings,2,44,4,1
+7470,Regal Wizard Hat,2,42,4,1
+7471,Regal Gloves,2,42,4,1
+7472,Regal Boots,2,41,4,1
+7473,Regal Mantle,2,42,4,1
+7474,Regal Cloak,2,40,4,1
+7475,Regal Cuffs,2,41,4,1
+7476,Regal Sash,2,40,4,1
+7477,Ranger Tunic,2,45,4,2
+7478,Ranger Leggings,,,4,2
+7479,Ranger Helm,2,42,4,2
+7480,Ranger Gloves,2,41,4,2
+7481,Ranger Boots,2,42,4,2
+7482,Ranger Shoulders,2,42,4,2
+7483,Ranger Cloak,2,40,4,1
+7484,Ranger Wristguards,2,41,4,2
+7485,Ranger Cord,2,41,4,2
+7486,Captain's Breastplate,2,44,4,3
+7487,Captain's Leggings,2,43,4,3
+7488,Captain's Circlet,2,42,4,3
+7489,Captain's Gauntlets,2,41,4,3
+7490,Captain's Boots,2,42,4,3
+7491,Captain's Shoulderguards,2,43,4,3
+7492,Captain's Cloak,2,39,4,1
+7493,Captain's Bracers,2,40,4,3
+7494,Captain's Waistguard,2,41,4,3
+7496,Field Plate Shield,,,4,6
+7506,Gnomish Universal Remote,2,25,4,0
+7519,Gossamer Pants,2,47,4,1
+7520,Gossamer Headpiece,,,4,1
+7521,Gossamer Gloves,2,46,4,1
+7522,Gossamer Boots,2,45,4,1
+7523,Gossamer Shoulderpads,,,4,1
+7524,Gossamer Cape,2,44,4,1
+7525,Gossamer Bracers,2,45,4,1
+7526,Gossamer Belt,,,4,1
+7528,Cabalist Leggings,2,48,4,2
+7529,Cabalist Helm,2,47,4,2
+7530,Cabalist Gloves,,,4,2
+7531,Cabalist Boots,,,4,2
+7533,Cabalist Cloak,2,44,4,1
+7534,Cabalist Bracers,2,45,4,2
+7535,Cabalist Belt,2,46,4,2
+7538,Champion's Armor,,,4,3
+7539,Champion's Leggings,2,48,4,3
+7541,Champion's Gauntlets,2,46,4,3
+7542,Champion's Greaves,2,46,4,3
+7544,Champion's Cape,,,4,1
+7545,Champion's Bracers,2,45,4,3
+7546,Champion's Girdle,,,4,3
+7552,Falcon's Hook,2,44,4,0
+7553,Band of the Unicorn,2,48,4,0
+7554,Willow Branch,2,19,4,0
+7555,Regal Star,,,4,0
+7556,Twilight Orb,2,40,4,0
+7558,Shimmering Stave,2,25,4,0
+7559,Runic Cane,2,19,4,0
+7608,Seer's Fine Stein,2,21,4,0
+7609,Elder's Amber Stave,2,35,4,0
+7610,Aurora Sphere,2,41,4,0
+7676,Thistle Tea,1,15,0,5
+7727,Watchman Pauldrons,3,32,4,2
+7728,Beguiler Robes,3,34,4,1
+7729,Chesterfall Musket,,,2,3
+7730,Cobalt Crusher,3,34,2,5
+7734,Six Demon Bag,,,4,0
+7752,Dreamslayer,3,33,2,4
+7753,Bloodspiller,3,32,2,1
+7754,Harbinger Boots,3,30,4,2
+7757,Windweaver Staff,3,37,2,10
+7761,Steelclaw Reaver,3,38,2,0
+7786,Headsplitter,3,30,2,0
+7787,Resplendent Guardian,3,31,4,6
+7909,Aquamarine,2,45,7,11
+7910,Star Ruby,2,50,7,11
+7911,Truesilver Ore,2,40,7,7
+7912,Solid Stone,1,35,7,7
+7918,Heavy Mithril Shoulder,2,41,4,4
+7919,Heavy Mithril Gauntlet,2,41,4,4
+7920,Mithril Plate Pants,2,42,4,3
+7921,Heavy Mithril Pants,2,42,4,4
+7922,Steel Plate Helm,2,43,4,4
+7931,Mithril Coif,,,4,3
+7941,Heavy Mithril Axe,,,2,0
+7942,Blue Glittering Axe,,,2,0
+7943,Wicked Mithril Blade,,,2,7
+7955,Copper Claymore,2,11,2,8
+7956,Bronze Warhammer,2,25,2,5
+7957,Bronze Greatsword,2,26,2,8
+7958,Bronze Battle Axe,2,27,2,1
+7963,Steel Breastplate,,,4,3
+7964,Solid Sharpening Stone,1,35,0,8
+7965,Solid Weightstone,1,35,0,8
+7966,Solid Grinding Stone,1,35,7,7
+7967,Mithril Shield Spike,,,7,0
+7969,Mithril Spurs,2,43,0,6
+7971,Black Pearl,2,40,7,11
+7972,Ichor of Undeath,1,45,7,10
+7974,Zesty Clam Meat,1,45,7,8
+7975,Plans: Heavy Mithril Pants,2,42,9,4
+7976,Plans: Mithril Shield Spike,3,43,9,4
+7989,Plans: Mithril Spurs,2,47,9,4
+7990,Plans: Heavy Mithril Helm,2,49,9,4
+7991,Plans: Mithril Scale Shoulders,,,9,4
+7992,Plans: Blue Glittering Axe,2,44,9,4
+7993,Plans: Dazzling Mithril Rapier,2,48,9,4
+8006,The Ziggler,3,39,2,15
+8067,Crafted Light Shot,1,10,6,3
+8068,Crafted Heavy Shot,1,20,6,3
+8069,Crafted Solid Shot,1,35,6,3
+8107,Hibernal Boots,2,47,4,1
+8110,Hibernal Gloves,,,4,1
+8111,Hibernal Mantle,2,48,4,1
+8112,Hibernal Pants,,,4,1
+8114,Hibernal Sash,,,4,1
+8116,Heraldic Belt,2,47,4,2
+8117,Heraldic Boots,2,47,4,2
+8118,Heraldic Bracers,,,4,2
+8120,Heraldic Cloak,2,45,4,1
+8122,Heraldic Headpiece,2,48,4,2
+8123,Heraldic Leggings,2,49,4,2
+8124,Heraldic Spaulders,,,4,2
+8134,Myrmidon's Defender,2,51,4,6
+8137,Chromite Bracers,2,43,4,4
+8139,Chromite Gauntlets,2,44,4,4
+8140,Chromite Girdle,2,43,4,4
+8141,Chromite Greaves,2,44,4,4
+8142,Chromite Barbute,2,44,4,4
+8146,Wicked Claw,1,45,7,11
+8150,Deeprock Salt,1,40,7,6
+8151,Flask of Mojo,1,40,7,11
+8152,Flask of Big Mojo,1,40,7,11
+8153,Wildvine,1,40,7,9
+8154,Scorpid Scale,1,45,7,6
+8156,Jouster's Wristguards,2,40,4,4
+8157,Jouster's Chestplate,2,42,4,4
+8158,Jouster's Gauntlets,2,40,4,4
+8159,Jouster's Girdle,2,40,4,4
+8160,Jouster's Greaves,2,40,4,4
+8161,Jouster's Visor,2,40,4,4
+8162,Jouster's Legplates,2,41,4,4
+8163,Jouster's Pauldrons,2,41,4,4
+8165,Worn Dragonscale,1,45,7,6
+8167,Turtle Scale,1,35,7,6
+8168,Jet Black Feather,,,5,0
+8169,Thick Hide,1,40,7,6
+8170,Rugged Leather,1,50,7,6
+8171,Rugged Hide,,,7,0
+8172,Cured Thick Hide,1,40,7,6
+8173,Thick Armor Kit,1,40,0,6
+8174,Comfortable Leather Hat,2,40,4,2
+8175,Nightscape Tunic,2,41,4,2
+8176,Nightscape Headband,2,41,4,2
+8177,Practice Sword,1,7,2,8
+8178,Training Sword,2,10,2,8
+8179,Cadet's Bow,1,6,2,2
+8180,Hunting Bow,2,11,2,2
+8181,Hunting Rifle,1,9,2,3
+8182,Pellet Rifle,1,7,2,3
+8183,Precision Bow,2,27,2,2
+8184,Firestarter,2,29,2,19
+8186,Dire Wand,2,26,2,19
+8187,Turtle Scale Gloves,,,4,3
+8188,Explosive Shotgun,2,37,2,3
+8189,Turtle Scale Breastplate,2,42,4,3
+8190,Hanzo Sword,3,55,2,7
+8192,Nightscape Shoulders,2,42,4,2
+8193,Nightscape Pants,2,46,4,2
+8194,Goblin Nutcracker,2,43,2,4
+8196,Ebon Scimitar,2,43,2,7
+8197,Nightscape Boots,,,4,2
+8198,Turtle Scale Bracers,2,42,4,3
+8199,Battlefield Destroyer,2,47,2,8
+8200,Big Voodoo Robe,2,43,4,2
+8201,Big Voodoo Mask,2,44,4,2
+8205,Tough Scorpid Bracers,2,44,4,3
+8210,Wild Leather Shoulders,2,44,4,2
+8211,Wild Leather Vest,,,4,2
+8214,Wild Leather Helmet,,,4,2
+8216,Big Voodoo Cloak,,,4,1
+8217,Quickdraw Quiver,2,45,11,2
+8218,Thick Leather Ammo Pouch,2,45,11,3
+8225,Tainted Pierce,3,36,2,7
+8226,The Butcher,3,31,2,7
+8244,Flawless Draenethyst Sphere,,,12,0
+8247,Imperial Red Bracers,,,4,1
+8255,Serpentskin Girdle,2,50,4,2
+8256,Serpentskin Boots,,,4,2
+8259,Serpentskin Cloak,2,50,4,1
+8260,Serpentskin Gloves,2,52,4,2
+8262,Serpentskin Leggings,2,54,4,2
+8276,Valorous Gauntlets,2,47,4,4
+8277,Valorous Girdle,2,46,4,4
+8279,Valorous Helm,2,48,4,4
+8280,Valorous Legguards,,,4,4
+8281,Valorous Pauldrons,2,48,4,4
+8282,Valorous Shield,2,51,4,6
+8302,Hero's Bracers,,,4,3
+8315,Alabaster Plate Girdle,2,52,4,4
+8343,Heavy Silken Thread,1,40,7,5
+8350,The 1 Ring,2,15,4,0
+8364,Mithril Head Trout,1,35,0,5
+8365,Raw Mithril Head Trout,1,35,7,8
+8368,Thick Wolfhide,1,40,7,6
+8384,Pattern: Comfortable Leather Hat,,,9,1
+8386,Pattern: Big Voodoo Robe,2,43,9,1
+8387,Pattern: Big Voodoo Mask,2,44,9,1
+8388,Pattern: Nightscape Cloak,2,46,9,1
+8389,Pattern: Big Voodoo Pants,2,48,9,1
+8390,Pattern: Big Voodoo Cloak,2,48,9,1
+8391,Snickerfang Jowl,1,1,12,0
+8392,Blasted Boar Lung,1,1,12,0
+8393,Scorpok Pincer,1,1,12,0
+8394,Basilisk Brain,1,1,12,0
+8395,Pattern: Tough Scorpid Breastplate,2,44,9,1
+8396,Vulture Gizzard,1,1,12,0
+8397,Pattern: Tough Scorpid Bracers,2,44,9,1
+8398,Pattern: Tough Scorpid Gloves,2,45,9,1
+8399,Pattern: Tough Scorpid Boots,2,47,9,1
+8400,Pattern: Tough Scorpid Shoulders,,,9,1
+8401,Pattern: Tough Scorpid Leggings,2,49,9,1
+8402,Pattern: Tough Scorpid Helm,2,50,9,1
+8483,Wastewander Water Pouch,1,1,12,0
+8485,Cat Carrier (Bombay),1,20,15,2
+8486,Cat Carrier (Cornish Rex),1,20,15,2
+8487,Cat Carrier (Orange Tabby),1,20,15,2
+8488,Cat Carrier (Silver Tabby),1,20,15,2
+8489,Cat Carrier (White Kitten),1,20,15,2
+8490,Cat Carrier (Siamese),1,20,15,2
+8492,Parrot Cage (Green Wing Macaw),1,20,15,2
+8495,Parrot Cage (Senegal),1,20,15,2
+8496,Parrot Cage (Cockatiel),1,20,15,2
+8497,Rabbit Crate (Snowshoe),1,20,15,2
+8498,Tiny Emerald Whelpling,,,15,0
+8499,Tiny Crimson Whelpling,1,30,15,2
+8500,Great Horned Owl,1,30,15,2
+8501,Hawk Owl,1,30,15,2
+8544,Mageweave Bandage,1,1,0,7
+8629,Reins of the Striped Nightsaber,,,,
+8631,Reins of the Striped Frostsaber,3,40,15,5
+8632,Reins of the Spotted Frostsaber,,,,
+8746,Interlaced Cowl,0,33,4,1
+8747,Hardened Leather Helm,0,35,4,2
+8748,Double Mail Coif,0,30,4,3
+8766,Morning Glory Dew,,,,
+8831,Purple Lotus,1,42,7,9
+8836,Arthas' Tears,,,7,9
+8838,Sungrass,1,46,7,9
+8839,Blindweed,1,47,7,9
+8845,Ghost Mushroom,,,,
+8846,Gromsblood,1,50,7,9
+8923,Essence of Agony,1,50,15,1
+8924,Dust of Deterioration,1,30,15,1
+8925,Crystal Vial,1,35,7,11
+8932,Alterac Swiss,1,55,0,5
+8949,Elixir of Agility,1,37,0,2
+8950,Homemade Cherry Pie,,,,
+8951,Elixir of Defense,1,39,0,2
+8952,Roasted Quail,,,,
+8953,Deep Fried Plantains,,,,
+8956,Oil of Immolation,1,41,0,8
+8959,Raw Spinefin Halibut,1,55,7,8
+9036,Magic Resistance Potion,1,42,0,1
+9061,Goblin Rocket Fuel,,,5,0
+9144,Wildvine Potion,,,0,3
+9154,Elixir of Detect Undead,,,0,3
+9155,Arcane Elixir,1,47,0,2
+9179,Elixir of Greater Intellect,1,47,0,2
+9187,Elixir of Greater Agility,1,48,0,2
+9249,Captain's Key,2,1,13,0
+9251,Upper Map Fragment,1,1,12,0
+9252,Lower Map Fragment,1,1,12,0
+9253,Middle Map Fragment,1,1,12,0
+9254,Cuergo's Treasure Map,,,12,0
+9259,Troll Tribal Necklace,1,1,15,0
+9260,Volatile Rum,1,1,0,1
+9261,Lead Ore,0,30,15,0
+9262,Black Vitriol,1,40,7,11
+9285,Field Plate Vambraces,2,41,4,4
+9286,Field Plate Armor,2,44,4,4
+9287,Field Plate Gauntlets,2,41,4,4
+9288,Field Plate Girdle,2,41,4,4
+9289,Field Plate Boots,2,41,4,4
+9290,Field Plate Helmet,2,42,4,4
+9291,Field Plate Leggings,2,43,4,4
+9292,Field Plate Pauldrons,,,4,4
+9293,Recipe: Magic Resistance Potion,2,42,9,6
+9294,Recipe: Wildvine Potion,2,45,9,6
+9295,Recipe: Invisibility Potion,2,47,9,6
+9296,Recipe: Gift of Arthas,,,9,6
+9297,Recipe: Draught of Dream Vision,2,48,9,6
+9298,Recipe: Elixir of Giants,2,49,9,6
+9301,Recipe: Elixir of Shadow Power,2,50,9,6
+9303,Recipe: Philosopher's Stone,1,45,9,6
+9304,Recipe: Transmute Iron to Gold,,,,
+9308,Grime-Encrusted Object,1,1,12,0
+9313,Green Firework,,,,
+9327,Security DELTA Data Access Card,2,1,12,0
+9359,Southsea Lamp,3,45,2,4
+9383,Obsidian Cleaver,,,2,1
+9384,Stonevault Shiv,3,36,2,15
+9385,Archaic Defender,3,36,2,8
+9391,The Shoveler,,,2,5
+9393,Beacon of Hope,3,38,4,0
+9395,Gloves of Old,3,34,4,1
+9396,Legguards of the Vault,,,4,3
+9397,Energy Cloak,,,4,1
+9405,Girdle of Golem Strength,3,33,4,3
+9406,Spirewind Fetter,,,4,2
+9422,Shadowforge Bushmaster,,,2,3
+9432,Skullplate Bracers,,,4,4
+9433,Forgotten Wraps,3,46,4,1
+9434,Elemental Raiment,3,41,4,1
+9435,Reticulated Bone Gauntlets,3,36,4,3
+9444,Techbot CPU Shell,1,26,4,6
+9451,Bubbling Water,1,25,0,5
+9485,Vibroblade,3,30,2,0
+9486,Supercharger Battle Axe,3,28,2,1
+9487,Hi-Tech Supergun,3,29,2,3
+9488,Oscillating Power Hammer,3,28,2,4
+9490,Gizmotron Megachopper,3,29,2,8
+9491,Hotshot Pilot's Gloves,3,32,4,1
+9508,Mechbuilder's Overalls,3,31,4,1
+9509,Petrolspill Leggings,3,30,4,2
+9510,Caverndeep Trudgers,3,32,4,3
+9718,Reforged Blade of Heroes,3,38,2,7
+9719,Broken Blade of Heroes,3,38,15,4
+9742,Simple Cord,1,12,4,1
+9743,Simple Shoes,1,12,4,1
+9744,Simple Bands,1,12,4,1
+9745,Simple Cape,1,11,4,1
+9746,Simple Gloves,1,13,4,1
+9747,Simple Britches,2,14,4,1
+9748,Simple Robe,2,15,4,1
+9749,Simple Blouse,2,15,4,1
+9750,Nomad Sash,1,12,4,2
+9751,Nomad Sandals,1,12,4,2
+9752,Nomad Bands,1,12,4,2
+9753,Nomad Buckler,2,12,4,6
+9754,Nomad Cloak,1,11,4,1
+9755,Nomad Gloves,1,13,4,2
+9756,Nomad Trousers,2,14,4,2
+9757,Nomad Tunic,2,15,4,2
+9758,Cadet Belt,1,12,4,3
+9759,Cadet Boots,1,13,4,3
+9760,Cadet Bracers,1,12,4,3
+9761,Cadet Cloak,1,11,4,1
+9762,Cadet Gauntlets,1,13,4,3
+9763,Cadet Leggings,2,14,4,3
+9764,Cadet Shield,2,13,4,6
+9765,Cadet Vest,2,15,4,3
+9766,Greenweave Sash,2,22,4,1
+9767,Greenweave Sandals,2,23,4,1
+9768,Greenweave Bracers,2,21,4,1
+9769,Greenweave Branch,2,27,4,0
+9770,Greenweave Cloak,2,20,4,1
+9771,Greenweave Gloves,2,25,4,1
+9772,Greenweave Leggings,2,27,4,1
+9773,Greenweave Robe,2,27,4,1
+9774,Greenweave Vest,2,27,4,1
+9775,Bandit Cinch,2,19,4,2
+9776,Bandit Boots,2,20,4,2
+9777,Bandit Bracers,2,19,4,2
+9778,Bandit Buckler,2,20,4,6
+9779,Bandit Cloak,2,18,4,1
+9780,Bandit Gloves,2,20,4,2
+9781,Bandit Pants,2,22,4,2
+9782,Bandit Jerkin,2,23,4,2
+9783,Raider's Chestpiece,2,20,4,3
+9784,Raider's Boots,2,19,4,3
+9785,Raider's Bracers,2,17,4,3
+9786,Raider's Cloak,2,16,4,1
+9787,Raider's Gauntlets,2,19,4,3
+9788,Raider's Belt,2,18,4,3
+9789,Raider's Legguards,2,19,4,3
+9790,Raider's Shield,2,19,4,6
+9791,Ivycloth Tunic,2,29,4,1
+9792,Ivycloth Boots,2,25,4,1
+9793,Ivycloth Bracelets,2,25,4,1
+9794,Ivycloth Cloak,2,25,4,1
+9795,Ivycloth Gloves,2,26,4,1
+9796,Ivycloth Mantle,2,27,4,1
+9797,Ivycloth Pants,2,28,4,1
+9798,Ivycloth Robe,2,29,4,1
+9799,Ivycloth Sash,2,26,4,1
+9800,Ivy Orb,2,29,4,0
+9801,Superior Belt,2,25,4,2
+9802,Superior Boots,2,26,4,2
+9803,Superior Bracers,2,26,4,2
+9804,Superior Buckler,2,26,4,6
+9805,Superior Cloak,2,24,4,1
+9806,Superior Gloves,2,27,4,2
+9807,Superior Shoulders,2,27,4,2
+9808,Superior Leggings,2,28,4,2
+9809,Superior Tunic,2,28,4,2
+9810,Fortified Boots,2,25,4,3
+9811,Fortified Bracers,2,24,4,3
+9812,Fortified Cloak,2,22,4,1
+9813,Fortified Gauntlets,2,25,4,3
+9814,Fortified Belt,2,24,4,3
+9815,Fortified Leggings,2,25,4,3
+9816,Fortified Shield,2,25,4,6
+9817,Fortified Spaulders,2,26,4,3
+9818,Fortified Chain,2,25,4,3
+9819,Durable Tunic,2,34,4,1
+9820,Durable Boots,2,31,4,1
+9821,Durable Bracers,2,30,4,1
+9822,Durable Cape,2,29,4,1
+9823,Durable Gloves,2,31,4,1
+9824,Durable Shoulders,2,32,4,1
+9825,Durable Pants,2,33,4,1
+9826,Durable Robe,2,34,4,1
+9827,Scaled Leather Belt,2,30,4,2
+9828,Scaled Leather Boots,2,31,4,2
+9829,Scaled Leather Bracers,2,29,4,2
+9830,Scaled Shield,2,32,4,6
+9831,Scaled Cloak,2,29,4,1
+9832,Scaled Leather Gloves,2,31,4,2
+9833,Scaled Leather Leggings,2,33,4,2
+9834,Scaled Leather Shoulders,2,32,4,2
+9835,Scaled Leather Tunic,2,33,4,2
+9836,Banded Armor,2,33,4,3
+9837,Banded Bracers,2,30,4,3
+9838,Banded Cloak,2,29,4,1
+9839,Banded Gauntlets,2,31,4,3
+9840,Banded Girdle,2,31,4,3
+9841,Banded Leggings,2,32,4,3
+9842,Banded Pauldrons,2,32,4,3
+9843,Banded Shield,2,33,4,6
+9844,Conjurer's Vest,2,38,4,1
+9845,Conjurer's Shoes,2,35,4,1
+9846,Conjurer's Bracers,2,35,4,1
+9847,Conjurer's Cloak,2,33,4,1
+9848,Conjurer's Gloves,2,36,4,1
+9849,Conjurer's Hood,2,36,4,1
+9850,Conjurer's Mantle,2,36,4,1
+9851,Conjurer's Breeches,2,37,4,1
+9852,Conjurer's Robe,2,38,4,1
+9853,Conjurer's Cinch,2,34,4,1
+9854,Archer's Jerkin,2,38,4,2
+9855,Archer's Belt,2,35,4,2
+9856,Archer's Boots,2,36,4,2
+9857,Archer's Bracers,2,34,4,2
+9858,Archer's Buckler,2,36,4,6
+9859,Archer's Cap,2,36,4,2
+9860,Archer's Cloak,2,34,4,1
+9861,Archer's Gloves,2,35,4,2
+9862,Archer's Trousers,2,37,4,2
+9863,Archer's Shoulderpads,2,37,4,2
+9864,Renegade Boots,2,36,4,3
+9865,Renegade Bracers,2,34,4,3
+9866,Renegade Chestguard,2,38,4,3
+9867,Renegade Cloak,2,33,4,1
+9868,Renegade Gauntlets,2,35,4,3
+9869,Renegade Belt,2,35,4,3
+9870,Renegade Circlet,2,36,4,3
+9871,Renegade Leggings,2,37,4,3
+9872,Renegade Pauldrons,2,37,4,3
+9873,Renegade Shield,2,37,4,6
+9874,Sorcerer Drape,2,43,4,1
+9875,Sorcerer Sash,2,39,4,1
+9876,Sorcerer Slippers,2,40,4,1
+9877,Sorcerer Cloak,2,38,4,1
+9878,Sorcerer Hat,2,41,4,1
+9879,Sorcerer Bracelets,2,39,4,1
+9880,Sorcerer Gloves,2,40,4,1
+9881,Sorcerer Mantle,2,41,4,1
+9882,Sorcerer Sphere,,,4,0
+9883,Sorcerer Pants,2,42,4,1
+9884,Sorcerer Robe,2,43,4,1
+9885,Huntsman's Boots,2,40,4,2
+9886,Huntsman's Bands,2,39,4,2
+9887,Huntsman's Armor,2,43,4,2
+9889,Huntsman's Cap,2,40,4,2
+9890,Huntsman's Cape,2,38,4,1
+9891,Huntsman's Belt,2,39,4,2
+9892,Huntsman's Gloves,2,40,4,2
+9893,Huntsman's Leggings,2,42,4,2
+9894,Huntsman's Shoulders,2,41,4,2
+9895,Jazeraint Boots,2,40,4,3
+9896,Jazeraint Bracers,2,39,4,3
+9897,Jazeraint Chestguard,,,4,3
+9898,Jazeraint Cloak,2,38,4,1
+9899,Jazeraint Shield,2,42,4,6
+9900,Jazeraint Gauntlets,,,4,3
+9901,Jazeraint Belt,2,40,4,3
+9902,Jazeraint Helm,,,4,3
+9903,Jazeraint Leggings,2,42,4,3
+9904,Jazeraint Pauldrons,2,41,4,3
+9905,Royal Blouse,,,4,1
+9906,Royal Sash,,,4,1
+9907,Royal Boots,2,44,4,1
+9908,Royal Cape,2,43,4,1
+9909,Royal Bands,2,43,4,1
+9910,Royal Gloves,2,44,4,1
+9912,Royal Amice,,,4,1
+9913,Royal Gown,,,4,1
+9914,Royal Scepter,,,4,0
+9915,Royal Headband,2,45,4,1
+9916,Tracker's Belt,2,44,4,2
+9917,Tracker's Boots,2,44,4,2
+9918,Brigade Defender,,,4,6
+9919,Tracker's Cloak,2,43,4,1
+9920,Tracker's Gloves,2,44,4,2
+9921,Tracker's Headband,2,45,4,2
+9922,Tracker's Leggings,,,4,2
+9923,Tracker's Shoulderpads,2,45,4,2
+9924,Tracker's Tunic,2,48,4,2
+9925,Tracker's Wristguards,2,44,4,2
+9926,Brigade Boots,2,43,4,3
+9927,Brigade Bracers,2,42,4,3
+9928,Brigade Breastplate,2,45,4,3
+9929,Brigade Cloak,2,41,4,1
+9930,Brigade Gauntlets,2,43,4,3
+9931,Brigade Girdle,2,43,4,3
+9932,Brigade Circlet,2,44,4,3
+9933,Brigade Leggings,2,45,4,3
+9934,Brigade Pauldrons,2,44,4,3
+9938,Abjurer's Cloak,2,48,4,1
+9940,Abjurer's Hood,,,4,1
+9941,Abjurer's Mantle,2,49,4,1
+9943,Abjurer's Robe,2,53,4,1
+9945,Abjurer's Sash,,,4,1
+9948,Chieftain's Boots,2,49,4,2
+9951,Chieftain's Cloak,,,4,1
+9952,Chieftain's Gloves,,,4,2
+9953,Chieftain's Headdress,2,50,4,2
+9954,Chieftain's Leggings,,,4,2
+9959,Warmonger's Cloak,2,45,4,1
+9960,Warmonger's Gauntlets,,,4,3
+9962,Warmonger's Greaves,,,4,3
+9963,Warmonger's Circlet,2,48,4,3
+9966,Embossed Plate Armor,2,45,4,4
+9967,Embossed Plate Gauntlets,,,4,4
+9968,Embossed Plate Girdle,2,42,4,4
+9969,Embossed Plate Helmet,2,43,4,4
+9970,Embossed Plate Leggings,2,44,4,4
+9971,Embossed Plate Pauldrons,2,43,4,4
+9972,Embossed Plate Bracers,2,42,4,4
+9973,Embossed Plate Boots,2,42,4,4
+9998,Black Mageweave Vest,2,41,4,1
+9999,Black Mageweave Leggings,2,41,4,1
+10001,Black Mageweave Robe,2,42,4,1
+10002,Shadoweave Pants,,,4,1
+10003,Black Mageweave Gloves,2,43,4,1
+10004,Shadoweave Robe,,,4,1
+10008,White Bandit Mask,2,43,4,1
+10009,Red Mageweave Pants,,,4,1
+10019,Dreamweave Gloves,3,45,4,1
+10021,Dreamweave Vest,3,45,4,1
+10023,Shadoweave Gloves,,,4,1
+10024,Black Mageweave Headband,,,4,1
+10028,Shadoweave Shoulders,,,4,1
+10033,Red Mageweave Headband,,,4,1
+10041,Dreamweave Circlet,3,50,4,1
+10045,Simple Linen Pants,1,7,4,1
+10046,Simple Linen Boots,1,9,4,1
+10047,Simple Kilt,2,15,4,1
+10048,Colorful Kilt,2,19,4,1
+10050,Mageweave Bag,1,35,1,0
+10052,Orange Martial Shirt,,,4,0
+10056,Orange Mageweave Shirt,1,43,4,0
+10058,Duskwoven Sandals,2,50,4,1
+10060,Duskwoven Cape,2,49,4,1
+10061,Duskwoven Turban,2,51,4,1
+10064,Duskwoven Pants,2,53,4,1
+10067,Righteous Waistguard,2,49,4,2
+10069,Righteous Bracers,2,49,4,2
+10071,Righteous Cloak,,,4,1
+10072,Righteous Gloves,2,51,4,2
+10073,Righteous Helmet,2,52,4,2
+10074,Righteous Leggings,2,53,4,2
+10076,Lord's Armguards,2,49,4,3
+10079,Lord's Cape,,,4,1
+10080,Lord's Gauntlets,2,50,4,3
+10081,Lord's Girdle,2,50,4,3
+10082,Lord's Boots,,,4,3
+10083,Lord's Crown,,,4,3
+10084,Lord's Legguards,,,4,3
+10085,Lord's Pauldrons,,,4,3
+10087,Gothic Plate Gauntlets,,,4,4
+10088,Gothic Plate Girdle,2,45,4,4
+10089,Gothic Sabatons,,,4,4
+10090,Gothic Plate Helmet,2,46,4,4
+10091,Gothic Plate Leggings,2,47,4,4
+10092,Gothic Plate Spaulders,,,4,4
+10093,Revenant Deflector,2,54,4,6
+10094,Gothic Plate Vambraces,2,45,4,4
+10103,Councillor's Sash,,,4,1
+10107,Wanderer's Bracers,,,4,2
+10108,Wanderer's Cloak,2,53,4,1
+10110,Wanderer's Gloves,,,4,2
+10120,Ornate Cloak,2,53,4,1
+10129,Revenant Gauntlets,2,50,4,4
+10134,Revenant Shoulders,,,4,4
+10173,Mystical Bracers,,,4,1
+10175,Mystical Headwrap,,,4,1
+10184,Swashbuckler's Bracers,,,4,2
+10193,Crusader's Armor,2,55,4,3
+10198,Crusader's Helm,,,4,3
+10200,Crusader's Pauldrons,2,53,4,3
+10201,Overlord's Greaves,2,48,4,4
+10207,Overlord's Crown,2,49,4,4
+10208,Overlord's Legplates,2,50,4,4
+10209,Overlord's Spaulders,2,50,4,4
+10241,Heavy Lamellar Helm,2,53,4,4
+10243,Heavy Lamellar Girdle,,,4,4
+10244,Heavy Lamellar Leggings,,,4,4
+10245,Heavy Lamellar Pauldrons,2,53,4,4
+10280,Emerald Legplates,,,4,4
+10284,Simple Flour,1,30,7,8
+10285,Shadow Silk,1,40,7,5
+10286,Heart of the Wild,1,45,7,10
+10287,Greenweave Mantle,2,26,4,1
+10288,Sage's Circlet,2,31,4,1
+10289,Durable Hat,2,32,4,1
+10290,Pink Dye,1,50,7,11
+10300,Pattern: Red Mageweave Vest,2,43,9,2
+10301,Pattern: White Bandit Mask,2,43,9,2
+10302,Pattern: Red Mageweave Pants,2,43,9,2
+10311,Pattern: Orange Martial Shirt,,,,
+10312,Pattern: Red Mageweave Gloves,2,45,9,2
+10315,Pattern: Red Mageweave Shoulders,2,47,9,2
+10316,Pattern: Colorful Kilt,2,24,9,2
+10317,Pattern: Pink Mageweave Shirt,,,,
+10318,Pattern: Admiral's Hat,1,48,9,2
+10320,Pattern: Red Mageweave Headband,2,48,9,2
+10321,Pattern: Tuxedo Shirt,1,48,9,2
+10323,Pattern: Tuxedo Pants,1,49,9,2
+10325,Pattern: White Wedding Dress,1,50,9,2
+10326,Pattern: Tuxedo Jacket,1,50,9,2
+10329,Scarlet Belt,3,37,4,3
+10331,Scarlet Gauntlets,3,38,4,3
+10333,Scarlet Wristguards,3,36,4,3
+10393,Cockroach,,,,
+10401,Blackened Defias Gloves,3,19,4,2
+10404,Durable Belt,2,30,4,1
+10405,Bandit Shoulders,1,22,4,2
+10406,Scaled Leather Headband,2,32,4,2
+10407,Raider's Shoulderpads,1,21,4,3
+10408,Banded Helm,2,32,4,3
+10409,Banded Boots,2,32,4,3
+10413,Gloves of the Fang,3,19,4,2
+10421,Rough Copper Vest,2,10,4,3
+10423,Silvered Bronze Leggings,2,31,4,3
+10424,Plans: Silvered Bronze Leggings,2,31,9,4
+10450,Undamaged Hippogryph Feather,1,1,12,0
+10498,Gyromatic Micro-Adjustor,1,35,7,1
+10499,Bright-Eye Goggles,,,4,1
+10501,Catseye Ultra Goggles,,,4,1
+10502,Spellpower Goggles Xtreme,2,43,4,1
+10505,Solid Blasting Powder,1,35,7,1
+10507,Solid Dynamite,1,35,0,0
+10508,Mithril Blunderbuss,2,41,2,3
+10510,Mithril Heavy-bore Rifle,2,44,2,3
+10512,Hi-Impact Mithril Slugs,2,42,6,3
+10514,Mithril Frag Bomb,,,7,2
+10518,Parachute Cloak,2,45,4,1
+10546,Deadly Scope,1,42,0,14
+10548,Sniper Scope,,,7,3
+10553,Foreman Vest,2,13,4,1
+10554,Foreman Pants,2,13,4,1
+10558,Gold Power Core,1,30,7,1
+10559,Mithril Tube,1,39,7,1
+10560,Unstable Trigger,1,40,7,1
+10561,Mithril Casing,,,7,1
+10562,Hi-Explosive Bomb,1,47,0,0
+10567,Quillshooter,,,2,2
+10571,Ebony Boneclub,,,2,4
+10572,Freezing Shard,3,39,2,19
+10573,Boneslasher,,,2,8
+10574,Corpseshroud,,,4,1
+10578,Thoughtcast Boots,3,38,4,1
+10581,Death's Head Vestment,,,4,1
+10582,Briar Tredders,,,4,2
+10584,Stormgale Fists,3,36,4,3
+10592,Catseye Draught,1,40,0,2
+10593,Imperfect Draenethyst Fragment,2,1,12,0
+10601,Schematic: Bright-Eye Goggles,2,35,9,3
+10603,Schematic: Catseye Ultra Goggles,2,44,9,3
+10604,Schematic: Mithril Heavy-bore Rifle,2,44,9,3
+10605,Schematic: Spellpower Goggles Xtreme,3,45,9,3
+10606,Schematic: Parachute Cloak,2,45,9,3
+10608,Schematic: Sniper Scope,3,48,9,3
+10620,Thorium Ore,,,7,0
+10644,Recipe: Goblin Rocket Fuel,,,9,6
+10647,Engineer's Ink,1,50,7,1
+10648,Blank Parchment,1,40,7,11
+10822,Dark Whelpling,,,15,0
+10841,Goldthorn Tea,,,0,0
+10938,Lesser Magic Essence,2,10,7,12
+10939,Greater Magic Essence,2,15,7,12
+10940,Strange Dust,1,10,7,12
+10978,Small Glimmering Shard,3,20,7,12
+10998,Lesser Astral Essence,2,20,7,12
+11018,Un'Goro Soil,1,1,12,0
+11023,Ancona Chicken,,,,
+11026,Tree Frog Box,,,,
+11027,Wood Frog Box,,,,
+11038,Formula: Enchant 2H Weapon - Lesser Spirit,2,22,9,8
+11081,Formula: Enchant Shield - Lesser Protection,2,22,9,8
+11082,Greater Astral Essence,2,25,7,12
+11083,Soul Dust,1,25,7,12
+11084,Large Glimmering Shard,3,25,7,12
+11098,Formula: Enchant Cloak - Lesser Shadow Resistance,2,27,9,8
+11101,Formula: Enchant Bracer - Lesser Strength,2,28,9,8
+11109,Special Chicken Feed,1,5,0,5
+11128,Golden Rod,1,30,7,12
+11134,Lesser Mystic Essence,2,30,7,12
+11135,Greater Mystic Essence,2,35,7,12
+11137,Vision Dust,1,35,7,12
+11138,Small Glowing Shard,3,30,7,12
+11139,Large Glowing Shard,3,35,7,12
+11144,Truesilver Rod,1,40,7,12
+11150,Formula: Enchant Gloves - Mining,2,29,9,8
+11151,Formula: Enchant Gloves - Herbalism,2,29,9,8
+11152,Formula: Enchant Gloves - Fishing,2,29,9,8
+11164,Formula: Enchant Weapon - Lesser Beastslayer,2,35,9,8
+11165,Formula: Enchant Weapon - Lesser Elemental Slayer,2,35,9,8
+11166,Formula: Enchant Gloves - Skinning,2,40,9,8
+11167,Formula: Enchant Boots - Lesser Spirit,2,38,9,8
+11168,Formula: Enchant Shield - Lesser Block,2,39,9,8
+11174,Lesser Nether Essence,2,40,7,12
+11175,Greater Nether Essence,2,45,7,12
+11176,Dream Dust,1,45,7,12
+11177,Small Radiant Shard,3,40,7,12
+11178,Large Radiant Shard,3,45,7,12
+11184,Blue Power Crystal,,,15,0
+11185,Green Power Crystal,1,1,12,0
+11186,Red Power Crystal,1,1,12,0
+11188,Yellow Power Crystal,1,1,12,0
+11202,Formula: Enchant Shield - Stamina,2,42,9,8
+11203,Formula: Enchant Gloves - Advanced Mining,2,43,9,8
+11204,Formula: Enchant Bracer - Greater Spirit,2,44,9,8
+11205,Formula: Enchant Gloves - Advanced Herbalism,2,45,9,8
+11206,Formula: Enchant Cloak - Lesser Agility,2,45,9,8
+11208,Formula: Enchant Weapon - Demonslaying,2,46,9,8
+11223,Formula: Enchant Bracer - Deflection,2,47,9,8
+11225,Formula: Enchant Bracer - Greater Stamina,2,49,9,8
+11226,Formula: Enchant Gloves - Riding Skill,2,50,9,8
+11242,Evoroot,,,12,0
+11284,Accurate Slugs,1,45,6,3
+11285,Jagged Arrow,1,45,6,2
+11287,Lesser Magic Wand,2,15,2,19
+11288,Greater Magic Wand,2,23,2,19
+11289,Lesser Mystic Wand,2,31,2,19
+11291,Star Wood,1,30,7,11
+11302,Uther's Strength,,,4,0
+11303,Fine Shortbow,2,16,2,2
+11304,Fine Longbow,2,19,2,2
+11306,Sturdy Recurve,2,32,2,2
+11307,Massive Longbow,,,,
+11362,Medium Quiver,1,15,11,2
+11370,Dark Iron Ore,,,7,0
+11382,Blood of the Mountain,,,7,0
+11384,Broken Basilisk Teeth,0,1,15,0
+11385,Basilisk Scale,0,1,15,0
+11386,Squishy Basilisk Eye,,,15,0
+11390,Broken Bat Fang,0,1,15,0
+11391,Spined Bat Wing,0,1,15,0
+11392,Severed Bat Claw,0,1,15,0
+11393,Small Bat Skull,0,1,15,0
+11394,Bat Heart,0,1,15,0
+11406,Rotting Bear Carcass,0,1,15,0
+11407,Torn Bear Pelt,1,1,12,0
+11416,Delicate Ribcage,,,15,0
+11418,Hollow Wing Bone,0,1,15,0
+11590,Mechanical Repair Kit,1,40,0,14
+11732,Libram of Rumination,,,9,0
+11734,Libram of Tenacity,,,9,0
+11737,Libram of Voracity,,,9,0
+11846,Wizbang's Special Brew,1,15,0,5
+11965,Quartz Ring,2,20,4,0
+11967,Zircon Band,2,23,4,0
+11968,Amber Hoop,2,26,4,0
+11969,Jacinth Circle,2,29,4,0
+11970,Spinel Ring,2,34,4,0
+11971,Amethyst Band,2,37,4,0
+11972,Carnelian Loop,2,40,4,0
+11973,Hematite Link,2,43,4,0
+11974,Aquamarine Ring,,,4,0
+11975,Topaz Ring,2,49,4,0
+11977,Serpentine Loop,2,55,4,0
+11981,Lead Band,2,20,4,0
+11982,Viridian Band,2,23,4,0
+11983,Chrome Ring,2,26,4,0
+11984,Cobalt Ring,2,29,4,0
+11985,Cerulean Ring,2,35,4,0
+11986,Thallium Hoop,2,39,4,0
+11987,Iridium Circle,2,43,4,0
+11988,Tellurium Band,,,4,0
+11989,Vanadium Loop,,,4,0
+11990,Selenium Loop,2,55,4,0
+11993,Clay Ring,2,22,4,0
+11994,Coral Band,2,25,4,0
+11995,Ivory Band,2,28,4,0
+11996,Basalt Ring,2,34,4,0
+11997,Greenstone Circle,2,38,4,0
+11998,Jet Loop,2,42,4,0
+11999,Lodestone Hoop,2,46,4,0
+12001,Onyx Ring,2,50,4,0
+12006,Meadow Ring,2,22,4,0
+12007,Prairie Ring,2,25,4,0
+12008,Savannah Ring,2,28,4,0
+12009,Tundra Ring,2,33,4,0
+12010,Fen Ring,2,37,4,0
+12011,Forest Hoop,2,41,4,0
+12012,Marsh Ring,,,4,0
+12013,Desert Ring,2,49,4,0
+12014,Arctic Ring,,,4,0
+12019,Cerulean Talisman,2,32,4,0
+12020,Thallium Choker,2,36,4,0
+12022,Iridium Chain,2,41,4,0
+12023,Tellurium Necklace,2,45,4,0
+12024,Vanadium Talisman,2,50,4,0
+12028,Basalt Necklace,2,32,4,0
+12029,Greenstone Talisman,2,35,4,0
+12030,Jet Chain,2,39,4,0
+12031,Lodestone Necklace,2,44,4,0
+12032,Onyx Choker,2,48,4,0
+12037,Mystery Meat,1,30,7,8
+12039,Tundra Necklace,2,33,4,0
+12040,Forest Pendant,2,38,4,0
+12042,Marsh Chain,2,42,4,0
+12047,Spectral Necklace,2,30,4,0
+12052,Ring of the Moon,2,21,4,0
+12053,Volcanic Rock Ring,2,21,4,0
+12054,Demon Band,2,24,4,0
+12055,Stardust Band,,,4,0
+12162,Plans: Hardened Iron Shortsword,1,32,9,4
+12184,Raptor Flesh,1,30,7,8
+12190,Dreamless Sleep Potion,,,0,3
+12202,Tiger Meat,1,30,7,8
+12203,Red Wolf Meat,1,30,7,8
+12204,Heavy Kodo Meat,1,35,7,8
+12205,White Spider Meat,1,40,7,8
+12206,Tender Crab Meat,1,40,7,8
+12207,Giant Egg,1,45,7,8
+12208,Tender Wolf Meat,1,40,7,8
+12210,Roast Raptor,1,25,0,5
+12212,Jungle Stew,1,45,0,5
+12213,Carrion Surprise,,,0,0
+12214,Mystery Stew,,,0,0
+12217,Dragonbreath Chili,,,0,0
+12223,Meaty Bat Wing,1,5,7,8
+12226,Recipe: Crispy Bat Wing,1,5,9,5
+12238,Darkshore Grouper,1,15,0,5
+12239,Recipe: Dragonbreath Chili,,,,
+12249,Merciless Axe,2,31,2,1
+12259,Glinting Steel Dagger,2,36,2,15
+12260,Searing Golden Blade,2,39,2,15
+12261,Plans: Searing Golden Blade,2,38,9,4
+12282,Worn Battleaxe,1,2,2,1
+12359,Thorium Bar,,,7,0
+12361,Blue Sapphire,2,55,7,11
+12363,Arcane Crystal,,,7,0
+12365,Dense Stone,,,7,0
+12682,Plans: Thorium Armor,,,9,4
+12683,Plans: Thorium Belt,,,9,4
+12684,Plans: Thorium Bracers,2,51,9,4
+12685,Plans: Radiant Belt,2,52,9,4
+12689,Plans: Radiant Breastplate,,,9,4
+12691,Pattern: Wildthorn Mail,2,54,9,1
+12713,Plans: Radiant Leggings,,,9,4
+12799,Large Opal,,,7,0
+12803,Living Essence,,,5,0
+12810,Enchanted Leather,,,,
+12820,Winterfall Firewater,1,50,0,2
+12836,Plans: Frostguard,,,9,4
+12958,Recipe: Transmute Arcanite,1,55,9,6
+12974,The Black Knight,3,31,2,7
+12975,Prospector Axe,3,20,2,1
+12976,Ironpatch Blade,3,20,2,7
+12977,Magefist Gloves,3,20,4,1
+12978,Stormbringer Belt,3,20,4,3
+12979,Firebane Cloak,3,21,4,1
+12982,Silver-linked Footguards,3,21,4,3
+12983,Rakzur Club,3,21,2,5
+12984,Skycaller,3,21,2,19
+12985,Ring of Defense,3,22,4,0
+12987,Darkweave Breeches,3,22,4,1
+12988,Starsight Tunic,3,22,4,2
+12989,Gargoyle's Bite,3,22,2,6
+12990,Razor's Edge,3,23,2,0
+12992,Searing Blade,3,23,2,8
+12994,Thorbia's Gauntlets,3,23,4,3
+12996,Band of Purification,3,23,4,0
+12997,Redbeard Crest,3,24,4,6
+12998,Magician's Mantle,3,25,4,1
+12999,Drakewing Bands,3,25,4,2
+13001,Maiden's Circle,,,4,0
+13005,Amy's Blanket,3,28,4,1
+13009,Cow King's Hide,,,4,2
+13010,Dreamsinger Legguards,3,26,4,3
+13011,Silver-lined Belt,3,27,4,2
+13012,Yorgen Bracers,3,27,4,3
+13016,Killmaim,3,26,2,1
+13017,Hellslayer Battle Axe,3,40,2,1
+13018,Executioner's Cleaver,,,2,1
+13019,Harpyclaw Short Bow,3,32,2,2
+13020,Skystriker Bow,3,39,2,2
+13021,Needle Threader,3,47,2,2
+13024,Beazel's Basher,3,29,2,4
+13025,Deadwood Sledge,3,37,2,4
+13026,Heaven's Light,3,45,2,4
+13029,Umbral Crystal,3,43,4,0
+13031,Orb of Mistmantle,3,28,4,0
+13032,Sword of Corruption,3,27,2,7
+13033,Zealot Blade,3,34,2,7
+13034,Speedsteel Rapier,3,41,2,7
+13035,Serpent Slicer,,,2,7
+13037,Crystalpine Stinger,3,32,2,18
+13038,Swiftwind,3,40,2,18
+13039,Skull Splitting Crossbow,,,2,18
+13041,Guardian Blade,3,26,2,8
+13042,Sword of the Magistrate,3,41,2,8
+13045,Viscous Hammer,3,35,2,5
+13046,Blanchard's Stout,,,2,5
+13048,Looming Gavel,3,31,2,4
+13049,Deanship Claymore,3,29,2,8
+13051,Witchfury,,,2,8
+13054,Grim Reaper,3,40,2,6
+13057,Bloodpike,3,28,2,6
+13058,Khoo's Point,,,2,6
+13062,Thunderwood,3,27,2,19
+13063,Starfaller,3,34,2,19
+13064,Jaina's Firestarter,3,42,2,19
+13065,Wand of Allistarj,,,2,19
+13068,Obsidian Greaves,3,42,4,4
+13071,Plated Fist of Hakoo,3,45,4,4
+13073,Mugthol's Helm,,,4,4
+13074,Golem Shard Leggings,3,46,4,4
+13076,Giantslayer Bracers,,,4,4
+13079,Shield of Thorsen,3,30,4,6
+13081,Skullance Shield,3,38,4,6
+13082,Mountainside Buckler,3,46,4,6
+13084,Kaleidoscope Chain,3,35,4,0
+13087,River Pride Choker,3,33,4,0
+13088,Gazlowe's Charm,3,41,4,0
+13089,Skibi's Pendant,3,49,4,0
+13093,Blush Ember Ring,3,37,4,0
+13094,The Queen's Jewel,3,30,4,0
+13095,Assault Band,3,44,4,0
+13097,Thunderbrow Ring,3,29,4,0
+13099,Moccasins of the White Hare,3,29,4,1
+13100,Furen's Boots,3,44,4,1
+13102,Cassandra's Grace,,,4,1
+13103,Pads of the Venom Spider,3,38,4,1
+13105,Sutarn's Ring,3,37,4,1
+13106,Glowing Magical Bracelets,3,31,4,1
+13108,Tigerstrike Mantle,3,34,4,1
+13110,Wolffear Harness,3,36,4,2
+13112,Winged Helm,,,4,2
+13114,Troll's Bane Leggings,3,30,4,2
+13115,Sheepshear Mantle,3,45,4,2
+13117,Ogron's Sash,3,42,4,2
+13119,Enchanted Kodo Bracers,3,39,4,2
+13121,Wing of the Whelpling,,,4,1
+13124,Ravasaur Scale Boots,3,35,4,3
+13126,Battlecaller Gauntlets,,,4,3
+13127,Frostreaver Crown,3,32,4,3
+13128,High Bergg Helm,3,47,4,3
+13129,Firemane Leggings,3,39,4,3
+13131,Sparkleshell Mantle,3,29,4,3
+13132,Skeletal Shoulders,3,43,4,3
+13136,Lil Timmy's Peashooter,3,21,2,3
+13137,Ironweaver,3,34,2,3
+13138,The Silencer,3,42,2,3
+13145,Enormous Ogre Belt,3,40,4,4
+13199,Crushridge Bindings,3,41,4,3
+13287,Pattern: Raptor Hide Harness,2,33,9,1
+13288,Pattern: Raptor Hide Belt,2,33,9,1
+13311,Schematic: Mechanical Dragonling,1,40,9,3
+13362,Letter from the Front,,,15,0
+13422,Stonescale Eel,1,45,7,11
+13423,Stonescale Oil,,,5,0
+13443,Superior Mana Potion,1,51,0,1
+13445,Elixir of Superior Defense,,,0,3
+13446,Major Healing Potion,,,0,3
+13463,Dreamfoil,1,54,7,9
+13464,Golden Sansam,1,52,7,9
+13465,Mountain Silversage,,,7,9
+13466,Plaguebloom,,,7,9
+13467,Icecap,,,7,9
+13476,Recipe: Mighty Rage Potion,,,9,6
+13477,Recipe: Superior Mana Potion,1,52,9,6
+13478,Recipe: Elixir of Superior Defense,1,53,9,6
+13489,Recipe: Transmute Earth to Life,2,55,9,6
+13491,Recipe: Elixir of the Mongoose,,,9,6
+13518,Recipe: Flask of Petrification,2,60,9,6
+13545,Shellfish,1,1,12,0
+13754,Raw Glossy Mightfish,1,45,7,8
+13755,Raw Winter Squid,1,45,0,5
+13757,Lightning Eel,1,45,7,11
+13758,Raw Redgill,1,45,7,8
+13759,Raw Nightfin Snapper,1,45,7,8
+13760,Raw Sunscale Salmon,1,45,7,8
+13851,Hot Wolf Ribs,1,35,0,5
+13876,40 Pound Yellowtail,1,45,15,0
+13877,47 Pound Yellowtail,1,45,15,0
+13879,59 Pound Yellowtail,1,45,15,0
+13882,42 Pound Redgill,1,45,15,0
+13885,34 Pound Redgill,,,15,0
+13886,37 Pound Redgill,1,45,15,0
+13888,Darkclaw Lobster,1,55,7,8
+13897,White Traditional Hanbok,,,,
+13926,Golden Pearl,2,40,7,11
+13927,Cooked Glossy Mightfish,1,45,0,5
+13930,Filet of Redgill,1,45,0,5
+13931,Nightfin Soup,,,0,0
+13939,Recipe: Spotted Yellowtail,,,,
+13940,Recipe: Cooked Glossy Mightfish,1,45,9,5
+13941,Recipe: Filet of Redgill,1,45,9,5
+13942,Recipe: Grilled Squid,,,,
+13943,Recipe: Hot Smoked Bass,1,48,9,5
+13946,Recipe: Poached Sunscale Salmon,,,,
+13947,Recipe: Lobster Stew,1,55,9,5
+13948,Recipe: Mightfish Steak,1,55,9,5
+13949,Recipe: Baked Salmon,1,55,9,5
+14025,Mystic's Belt,2,17,4,1
+14046,Runecloth Bag,1,52,1,0
+14047,Runecloth,1,50,7,5
+14048,Bolt of Runecloth,1,55,7,5
+14086,Beaded Sandals,1,10,4,1
+14087,Beaded Cuffs,1,8,4,1
+14088,Beaded Cloak,1,8,4,1
+14089,Beaded Gloves,1,10,4,1
+14090,Beaded Britches,2,11,4,1
+14091,Beaded Robe,2,11,4,1
+14093,Beaded Cord,1,9,4,1
+14094,Beaded Wraps,2,11,4,1
+14095,Native Bands,1,11,4,1
+14096,Native Vest,2,16,4,1
+14097,Native Pants,2,14,4,1
+14098,Native Cloak,1,10,4,1
+14099,Native Sash,1,12,4,1
+14102,Native Handwraps,1,13,4,1
+14109,Native Robe,2,16,4,1
+14110,Native Sandals,1,13,4,1
+14113,Aboriginal Sash,2,15,4,1
+14114,Aboriginal Footwraps,2,16,4,1
+14115,Aboriginal Bands,1,14,4,1
+14116,Aboriginal Cape,1,14,4,1
+14117,Aboriginal Gloves,2,16,4,1
+14119,Aboriginal Loincloth,2,17,4,1
+14120,Aboriginal Robe,2,20,4,1
+14121,Aboriginal Vest,2,20,4,1
+14122,Ritual Bands,2,18,4,1
+14123,Ritual Cape,2,17,4,1
+14124,Ritual Gloves,2,20,4,1
+14125,Ritual Leggings,2,21,4,1
+14126,Ritual Amice,1,23,4,1
+14127,Ritual Shroud,2,24,4,1
+14129,Ritual Sandals,2,20,4,1
+14131,Ritual Belt,2,19,4,1
+14133,Ritual Tunic,2,24,4,1
+14157,Pagan Mantle,1,24,4,1
+14158,Pagan Vest,2,26,4,1
+14159,Pagan Shoes,2,22,4,1
+14160,Pagan Bands,2,19,4,1
+14161,Pagan Cape,2,18,4,1
+14162,Pagan Mitts,2,23,4,1
+14163,Pagan Wraps,2,26,4,1
+14164,Pagan Belt,2,21,4,1
+14165,Pagan Britches,2,25,4,1
+14166,Buccaneer's Bracers,2,19,4,1
+14167,Buccaneer's Cape,2,19,4,1
+14168,Buccaneer's Gloves,2,20,4,1
+14169,Aboriginal Shoulder Pads,1,21,4,1
+14170,Buccaneer's Mantle,1,22,4,1
+14171,Buccaneer's Pants,2,22,4,1
+14172,Buccaneer's Robes,2,23,4,1
+14173,Buccaneer's Cord,2,20,4,1
+14174,Buccaneer's Boots,2,19,4,1
+14175,Buccaneer's Vest,2,23,4,1
+14176,Watcher's Boots,2,26,4,1
+14177,Watcher's Cuffs,2,26,4,1
+14178,Watcher's Cap,2,31,4,1
+14179,Watcher's Cape,2,24,4,1
+14180,Watcher's Jerkin,2,30,4,1
+14181,Watcher's Handwraps,2,28,4,1
+14182,Watcher's Mantle,2,28,4,1
+14183,Watcher's Leggings,2,30,4,1
+14184,Watcher's Robes,2,30,4,1
+14185,Watcher's Cinch,2,27,4,1
+14186,Raincaller Mantle,2,29,4,1
+14187,Raincaller Cuffs,2,28,4,1
+14188,Raincaller Cloak,2,27,4,1
+14189,Raincaller Cap,2,32,4,1
+14190,Raincaller Vest,2,31,4,1
+14191,Raincaller Mitts,2,30,4,1
+14192,Raincaller Robes,2,31,4,1
+14193,Raincaller Pants,2,31,4,1
+14194,Raincaller Cord,2,28,4,1
+14195,Raincaller Boots,2,29,4,1
+14196,Thistlefur Sandals,2,32,4,1
+14197,Thistlefur Bands,2,30,4,1
+14198,Thistlefur Cloak,2,31,4,1
+14199,Thistlefur Gloves,2,33,4,1
+14200,Thistlefur Cap,2,35,4,1
+14201,Thistlefur Mantle,2,34,4,1
+14202,Thistlefur Jerkin,2,36,4,1
+14203,Thistlefur Pants,2,35,4,1
+14204,Thistlefur Robe,2,36,4,1
+14205,Thistlefur Belt,2,32,4,1
+14206,Vital Bracelets,2,32,4,1
+14207,Vital Leggings,2,36,4,1
+14208,Vital Headband,2,36,4,1
+14209,Vital Sash,2,33,4,1
+14210,Vital Cape,2,32,4,1
+14211,Vital Handwraps,2,34,4,1
+14212,Vital Shoulders,2,35,4,1
+14213,Vital Raiment,2,37,4,1
+14214,Vital Boots,2,34,4,1
+14215,Vital Tunic,2,37,4,1
+14217,Geomancer's Cord,2,36,4,1
+14218,Geomancer's Boots,2,37,4,1
+14219,Geomancer's Cloak,2,34,4,1
+14220,Geomancer's Cap,2,40,4,1
+14221,Geomancer's Bracers,2,35,4,1
+14222,Geomancer's Gloves,2,37,4,1
+14223,Geomancer's Spaulders,2,38,4,1
+14224,Geomancer's Trousers,2,39,4,1
+14226,Embersilk Bracelets,2,37,4,1
+14227,Ironweb Spider Silk,1,50,7,5
+14228,Embersilk Coronet,2,41,4,1
+14229,Embersilk Cloak,2,36,4,1
+14231,Embersilk Mitts,2,38,4,1
+14232,Embersilk Mantle,,,4,1
+14233,Embersilk Leggings,,,4,1
+14235,Embersilk Cord,2,37,4,1
+14236,Embersilk Boots,2,38,4,1
+14237,Darkmist Armor,,,4,1
+14238,Darkmist Boots,,,4,1
+14239,Darkmist Cape,2,39,4,1
+14240,Darkmist Bands,,,4,1
+14241,Darkmist Handguards,,,4,1
+14243,Darkmist Mantle,,,4,1
+14244,Darkmist Wraps,,,4,1
+14245,Darkmist Girdle,,,4,1
+14246,Darkmist Wizard Hat,,,4,1
+14247,Lunar Mantle,2,44,4,1
+14248,Lunar Bindings,,,4,1
+14249,Lunar Vest,2,47,4,1
+14251,Lunar Cloak,,,4,1
+14252,Lunar Coronet,,,4,1
+14253,Lunar Handwraps,,,4,1
+14254,Lunar Raiment,,,4,1
+14255,Lunar Belt,,,4,1
+14256,Felcloth,1,50,7,5
+14257,Lunar Leggings,,,4,1
+14258,Bloodwoven Cord,,,4,1
+14259,Bloodwoven Boots,,,4,1
+14260,Bloodwoven Bracers,,,4,1
+14261,Bloodwoven Cloak,,,4,1
+14269,Gaea's Slippers,2,47,4,1
+14270,Gaea's Cloak,,,4,1
+14272,Gaea's Handwraps,,,4,1
+14273,Gaea's Amice,,,4,1
+14276,Gaea's Belt,,,4,1
+14280,Opulent Cape,,,4,1
+14283,Opulent Leggings,,,4,1
+14289,Arachnidian Girdle,,,4,1
+14341,Rune Thread,1,50,7,5
+14344,Large Brilliant Shard,3,55,7,12
+14364,Mystic's Slippers,2,18,4,1
+14365,Mystic's Cape,2,15,4,1
+14366,Mystic's Bracelets,2,17,4,1
+14367,Mystic's Gloves,2,19,4,1
+14368,Mystic's Shoulder Pads,1,22,4,1
+14369,Mystic's Wrap,2,23,4,1
+14370,Mystic's Woolies,2,19,4,1
+14371,Mystic's Robe,2,23,4,1
+14372,Sanguine Armor,2,28,4,1
+14373,Sanguine Belt,2,25,4,1
+14374,Sanguine Sandals,2,24,4,1
+14375,Sanguine Cuffs,2,25,4,1
+14376,Sanguine Cape,2,22,4,1
+14377,Sanguine Handwraps,2,26,4,1
+14378,Sanguine Mantle,2,27,4,1
+14379,Sanguine Trousers,2,29,4,1
+14380,Sanguine Robe,2,28,4,1
+14397,Resilient Mantle,2,32,4,1
+14398,Resilient Tunic,2,33,4,1
+14399,Resilient Boots,2,31,4,1
+14400,Resilient Cape,2,29,4,1
+14401,Resilient Cap,,,4,1
+14402,Resilient Bands,2,29,4,1
+14403,Resilient Handgrips,2,31,4,1
+14404,Resilient Leggings,2,33,4,1
+14405,Resilient Robe,2,33,4,1
+14406,Resilient Cord,2,30,4,1
+14407,Stonecloth Vest,,,4,1
+14408,Stonecloth Boots,2,35,4,1
+14409,Stonecloth Cape,2,33,4,1
+14410,Stonecloth Circlet,2,38,4,1
+14411,Stonecloth Gloves,2,35,4,1
+14412,Stonecloth Epaulets,2,36,4,1
+14413,Stonecloth Robe,,,4,1
+14414,Stonecloth Belt,2,34,4,1
+14415,Stonecloth Britches,2,37,4,1
+14416,Stonecloth Bindings,2,34,4,1
+14417,Silksand Tunic,,,4,1
+14418,Silksand Boots,2,39,4,1
+14419,Silksand Bracers,2,38,4,1
+14420,Silksand Cape,2,38,4,1
+14421,Silksand Circlet,2,42,4,1
+14422,Silksand Gloves,,,4,1
+14423,Silksand Shoulder Pads,2,40,4,1
+14424,Silksand Legwraps,2,42,4,1
+14425,Silksand Wraps,,,4,1
+14426,Silksand Girdle,,,4,1
+14428,Windchaser Footpads,2,44,4,1
+14429,Windchaser Cuffs,2,43,4,1
+14430,Windchaser Cloak,,,4,1
+14431,Windchaser Handguards,2,44,4,1
+14432,Windchaser Amice,2,45,4,1
+14435,Windchaser Cinch,2,43,4,1
+14436,Windchaser Coronet,,,4,1
+14466,Pattern: Frostweave Tunic,,,9,2
+14470,Pattern: Runecloth Tunic,2,52,9,2
+14471,Pattern: Cindercloth Vest,,,9,2
+14474,Pattern: Frostweave Gloves,,,9,2
+14478,Pattern: Brightcloth Robe,2,54,9,2
+14479,Pattern: Brightcloth Gloves,2,54,9,2
+14484,Pattern: Brightcloth Cloak,,,9,2
+14489,Pattern: Frostweave Pants,,,9,2
+14492,Pattern: Felcloth Boots,,,9,2
+14496,Pattern: Felcloth Hood,,,9,2
+14508,Pattern: Felcloth Shoulders,,,9,2
+14549,Boots of Avoidance,,,4,4
+14551,Edgemaster's Handguards,,,4,3
+14559,Prospector's Sash,2,18,4,2
+14560,Prospector's Boots,2,19,4,2
+14561,Prospector's Cuffs,2,17,4,2
+14562,Prospector's Chestpiece,2,23,4,2
+14563,Prospector's Cloak,2,17,4,1
+14564,Prospector's Mitts,2,19,4,2
+14565,Prospector's Woolies,2,21,4,2
+14566,Prospector's Pads,2,25,4,2
+14567,Bristlebark Belt,2,23,4,2
+14568,Bristlebark Boots,2,23,4,2
+14569,Bristlebark Bindings,2,22,4,2
+14570,Bristlebark Blouse,2,28,4,2
+14571,Bristlebark Cape,2,21,4,1
+14572,Bristlebark Gloves,2,24,4,2
+14573,Bristlebark Amice,2,27,4,2
+14574,Bristlebark Britches,2,26,4,2
+14578,Dokebi Cord,,,4,2
+14579,Dokebi Boots,2,31,4,2
+14580,Dokebi Bracers,2,27,4,2
+14581,Dokebi Chestguard,2,33,4,2
+14582,Dokebi Cape,2,28,4,1
+14583,Dokebi Gloves,2,32,4,2
+14584,Dokebi Hat,2,35,4,2
+14585,Dokebi Leggings,2,32,4,2
+14587,Dokebi Mantle,2,32,4,2
+14588,Hawkeye's Cord,2,36,4,2
+14589,Hawkeye's Shoes,,,4,2
+14590,Hawkeye's Bracers,2,35,4,2
+14591,Hawkeye's Helm,2,40,4,2
+14592,Hawkeye's Tunic,2,40,4,2
+14593,Hawkeye's Cloak,2,35,4,1
+14594,Hawkeye's Gloves,2,37,4,2
+14595,Hawkeye's Breeches,2,38,4,2
+14596,Hawkeye's Epaulets,2,38,4,2
+14598,Warden's Waistband,,,4,2
+14600,Warden's Wristbands,2,40,4,2
+14601,Warden's Wraps,2,44,4,2
+14602,Warden's Cloak,2,39,4,1
+14603,Warden's Mantle,2,41,4,2
+14605,Warden's Woolies,,,4,2
+14606,Warden's Gloves,,,4,2
+14607,Hawkeye's Buckler,2,37,4,6
+14608,Dokebi Buckler,2,31,4,6
+14635,Pattern: Gem-studded Leather Belt,1,37,9,1
+14639,Schematic: Minor Recombobulator,1,28,9,3
+14652,Scorpashi Sash,,,4,2
+14653,Scorpashi Slippers,,,4,2
+14654,Scorpashi Wristbands,,,4,2
+14656,Scorpashi Cape,,,4,1
+14659,Scorpashi Leggings,,,4,2
+14660,Scorpashi Shoulder Pads,2,47,4,2
+14667,Keeper's Wreath,2,53,4,2
+14672,Pridelord Bands,,,4,2
+14722,War Paint Anklewraps,2,17,4,3
+14723,War Paint Bindings,2,17,4,3
+14724,War Paint Cloak,2,16,4,1
+14725,War Paint Waistband,2,17,4,3
+14726,War Paint Gloves,2,18,4,3
+14727,War Paint Legguards,2,19,4,3
+14728,War Paint Shoulder Pads,1,22,4,3
+14729,War Paint Shield,2,20,4,6
+14730,War Paint Chestpiece,2,23,4,3
+14742,Hulking Boots,2,24,4,3
+14743,Hulking Bands,2,22,4,3
+14744,Hulking Chestguard,2,28,4,3
+14745,Hulking Cloak,2,20,4,1
+14746,Hulking Belt,2,22,4,3
+14747,Hulking Gauntlets,2,23,4,3
+14748,Hulking Leggings,2,25,4,3
+14749,Hulking Spaulders,2,26,4,3
+14750,Slayer's Cuffs,2,28,4,3
+14751,Slayer's Surcoat,2,33,4,3
+14752,Slayer's Cape,2,27,4,1
+14753,Slayer's Skullcap,2,33,4,3
+14754,Slayer's Gloves,2,29,4,3
+14755,Slayer's Sash,2,28,4,3
+14756,Slayer's Slippers,2,29,4,3
+14757,Slayer's Pants,2,32,4,3
+14758,Slayer's Shoulder Pads,2,31,4,3
+14759,Enduring Bracers,2,34,4,3
+14760,Enduring Breastplate,,,4,3
+14761,Enduring Belt,2,34,4,3
+14762,Enduring Boots,2,37,4,3
+14763,Enduring Cape,2,32,4,1
+14764,Enduring Gauntlets,2,35,4,3
+14765,Enduring Circlet,2,38,4,3
+14766,Enduring Breeches,2,37,4,3
+14767,Enduring Pauldrons,2,38,4,3
+14769,Ravager's Sandals,,,4,3
+14770,Ravager's Armguards,,,4,3
+14771,Ravager's Cloak,2,39,4,1
+14772,Ravager's Handwraps,,,4,3
+14773,Ravager's Cord,,,4,3
+14774,Ravager's Crown,,,4,3
+14775,Ravager's Woolies,,,4,3
+14777,Ravager's Shield,2,44,4,6
+14778,Khan's Bindings,2,45,4,3
+14781,Khan's Cloak,,,4,1
+14783,Khan's Belt,,,4,3
+14786,Khan's Legguards,,,4,3
+14827,Symbolic Belt,,,4,4
+14833,Tyrant's Gauntlets,2,44,4,4
+14838,Tyrant's Belt,2,43,4,4
+14839,Tyrant's Greaves,,,4,4
+14841,Tyrant's Epaulets,2,44,4,4
+14843,Tyrant's Helm,2,46,4,4
+14851,Sunscale Spaulders,2,51,4,4
+14853,Sunscale Wristguards,,,4,4
+14896,Saltstone Sabatons,,,4,4
+14897,Saltstone Gauntlets,2,40,4,4
+14898,Saltstone Girdle,,,4,4
+14899,Saltstone Helm,2,41,4,4
+14900,Saltstone Legplates,2,40,4,4
+14903,Saltstone Armsplints,2,40,4,4
+14909,Brutish Shoulders,,,4,4
+14910,Brutish Armguards,,,4,4
+14914,Jade Bracers,,,4,4
+14940,Warbringer's Sabatons,2,43,4,4
+14942,Warbringer's Gauntlets,,,4,4
+14943,Warbringer's Belt,2,42,4,4
+14944,Warbringer's Crown,,,4,4
+14945,Warbringer's Legguards,,,4,4
+14951,Bloodforged Sabatons,,,4,4
+14955,Bloodforged Shoulder Pads,,,4,4
+14956,Bloodforged Bindings,,,4,4
+15003,Primal Belt,1,8,4,2
+15004,Primal Boots,1,9,4,2
+15005,Primal Bands,1,9,4,2
+15006,Primal Buckler,1,9,4,6
+15007,Primal Cape,1,8,4,1
+15008,Primal Mitts,1,10,4,2
+15009,Primal Leggings,2,11,4,2
+15010,Primal Wraps,2,11,4,2
+15011,Lupine Cord,2,15,4,2
+15012,Lupine Slippers,2,16,4,2
+15013,Lupine Cuffs,1,14,4,2
+15014,Lupine Buckler,2,17,4,6
+15015,Lupine Cloak,1,13,4,1
+15016,Lupine Handwraps,2,16,4,2
+15017,Lupine Leggings,2,19,4,2
+15018,Lupine Vest,2,20,4,2
+15019,Lupine Mantle,1,21,4,2
+15083,Wicked Leather Gauntlets,,,4,2
+15110,Rigid Belt,2,20,4,2
+15111,Rigid Moccasins,2,21,4,2
+15112,Rigid Bracelets,2,20,4,2
+15113,Rigid Buckler,2,23,4,6
+15114,Rigid Cape,2,19,4,1
+15115,Rigid Gloves,2,22,4,2
+15116,Rigid Shoulders,2,26,4,2
+15117,Rigid Leggings,2,24,4,2
+15118,Rigid Tunic,2,26,4,2
+15120,Robust Girdle,2,26,4,2
+15121,Robust Boots,2,28,4,2
+15122,Robust Bracers,2,25,4,2
+15123,Robust Buckler,2,28,4,6
+15124,Robust Cloak,2,25,4,1
+15125,Robust Gloves,2,29,4,2
+15126,Robust Leggings,2,29,4,2
+15127,Robust Shoulders,2,30,4,2
+15128,Robust Tunic,2,31,4,2
+15129,Robust Helm,2,31,4,2
+15130,Cutthroat's Vest,2,34,4,2
+15131,Cutthroat's Boots,2,32,4,2
+15132,Cutthroat's Armguards,2,29,4,2
+15133,Cutthroat's Buckler,2,33,4,6
+15134,Cutthroat's Hat,2,37,4,2
+15135,Cutthroat's Cape,2,30,4,1
+15136,Cutthroat's Belt,2,31,4,2
+15137,Cutthroat's Mitts,2,33,4,2
+15139,Cutthroat's Pants,2,33,4,2
+15140,Cutthroat's Mantle,2,34,4,2
+15142,Ghostwalker Boots,2,35,4,2
+15143,Ghostwalker Bindings,2,33,4,2
+15144,Ghostwalker Rags,2,37,4,2
+15145,Ghostwalker Buckler,2,36,4,6
+15146,Ghostwalker Crown,2,39,4,2
+15147,Ghostwalker Cloak,,,4,1
+15148,Ghostwalker Belt,,,4,2
+15149,Ghostwalker Gloves,2,36,4,2
+15150,Ghostwalker Pads,2,36,4,2
+15151,Ghostwalker Legguards,2,36,4,2
+15152,Nocturnal Shoes,2,41,4,2
+15153,Nocturnal Cloak,,,4,1
+15154,Nocturnal Sash,2,38,4,2
+15155,Nocturnal Gloves,,,4,2
+15157,Nocturnal Leggings,,,4,2
+15158,Nocturnal Shoulder Pads,,,4,2
+15160,Nocturnal Wristbands,2,39,4,2
+15161,Imposing Belt,,,4,2
+15162,Imposing Boots,,,4,2
+15164,Imposing Vest,,,4,2
+15165,Imposing Cape,2,42,4,1
+15168,Imposing Pants,,,4,2
+15169,Imposing Shoulders,,,4,2
+15173,Potent Cape,,,4,1
+15177,Potent Shoulders,,,4,2
+15210,Raider Shortsword,2,16,2,7
+15211,Militant Shortsword,2,22,2,7
+15212,Fighter Broadsword,2,27,2,7
+15213,Mercenary Blade,2,36,2,7
+15214,Nobles Brand,2,40,2,7
+15215,Furious Falchion,,,2,7
+15216,Rune Sword,,,2,7
+15217,Widow Blade,,,2,7
+15218,Crystal Sword,,,2,7
+15222,Barbed Club,2,19,2,4
+15223,Jagged Star,2,24,2,4
+15224,Battlesmasher,2,25,2,4
+15225,Sequoia Hammer,2,33,2,4
+15226,Giant Club,2,37,2,4
+15230,Ridge Cleaver,2,25,2,0
+15231,Splitting Hatchet,2,31,2,0
+15232,Hacking Cleaver,2,33,2,0
+15233,Savage Axe,2,39,2,0
+15234,Greater Scythe,2,40,2,0
+15235,Crescent Edge,2,48,2,0
+15236,Moon Cleaver,,,2,0
+15241,Battle Knife,2,26,2,15
+15242,Honed Stiletto,2,30,2,15
+15243,Deadly Kris,2,36,2,15
+15244,Razor Blade,2,42,2,15
+15248,Gleaming Claymore,2,20,2,8
+15249,Polished Zweihander,2,26,2,8
+15250,Glimmering Flamberge,2,32,2,8
+15251,Headstriker Sword,2,43,2,8
+15252,Tusker Sword,2,49,2,8
+15255,Gallant Flamberge,,,2,8
+15259,Hefty Battlehammer,2,25,2,5
+15260,Stone Hammer,2,38,2,5
+15261,Sequoia Branch,2,40,2,5
+15262,Greater Maul,,,2,5
+15268,Twin-bladed Axe,2,16,2,1
+15269,Massive Battle Axe,2,24,2,1
+15270,Gigantic War Axe,,,2,1
+15274,Diviner Long Staff,,,2,10
+15279,Ivory Wand,2,51,2,19
+15280,Wizard's Hand,2,53,2,19
+15284,Long Battle Bow,2,29,2,2
+15285,Archer's Longbow,2,32,2,2
+15286,Long Redwood Bow,2,35,2,2
+15287,Crusader Bow,,,2,2
+15294,Siege Bow,,,2,2
+15297,Grizzly Bracers,1,11,4,2
+15298,Grizzly Buckler,2,13,4,6
+15299,Grizzly Cape,1,10,4,1
+15300,Grizzly Gloves,1,14,4,2
+15301,Grizzly Slippers,1,13,4,2
+15302,Grizzly Belt,1,11,4,2
+15303,Grizzly Pants,2,14,4,2
+15304,Grizzly Jerkin,2,16,4,2
+15305,Feral Shoes,2,18,4,2
+15306,Feral Bindings,2,16,4,2
+15307,Feral Buckler,2,19,4,6
+15308,Feral Cord,2,17,4,2
+15309,Feral Cloak,2,15,4,1
+15310,Feral Gloves,2,18,4,2
+15311,Feral Harness,2,22,4,2
+15312,Feral Leggings,2,20,4,2
+15313,Feral Shoulder Pads,1,24,4,2
+15322,Smoothbore Gun,2,39,2,3
+15323,Percussion Shotgun,,,2,3
+15329,Wrangler's Belt,2,24,4,2
+15330,Wrangler's Boots,2,25,4,2
+15331,Wrangler's Wristbands,2,23,4,2
+15332,Wrangler's Buckler,2,27,4,6
+15333,Wrangler's Cloak,2,22,4,1
+15334,Wrangler's Gloves,2,27,4,2
+15336,Wrangler's Leggings,2,27,4,2
+15337,Wrangler's Wraps,2,29,4,2
+15338,Wrangler's Mantle,2,28,4,2
+15339,Pathfinder Hat,2,34,4,2
+15340,Pathfinder Cloak,2,27,4,1
+15341,Pathfinder Footpads,2,30,4,2
+15342,Pathfinder Guard,2,30,4,6
+15343,Pathfinder Gloves,2,30,4,2
+15344,Pathfinder Pants,2,31,4,2
+15345,Pathfinder Shoulder Pads,2,31,4,2
+15346,Pathfinder Vest,2,32,4,2
+15347,Pathfinder Belt,2,28,4,2
+15348,Pathfinder Bracers,2,26,4,2
+15349,Headhunter's Belt,2,33,4,2
+15350,Headhunter's Slippers,2,34,4,2
+15351,Headhunter's Bands,2,30,4,2
+15352,Headhunter's Buckler,,,4,6
+15353,Headhunter's Headdress,2,38,4,2
+15354,Headhunter's Cloak,2,32,4,1
+15355,Headhunter's Mitts,2,34,4,2
+15356,Headhunter's Armor,2,36,4,2
+15357,Headhunter's Spaulders,2,35,4,2
+15358,Headhunter's Woolies,2,35,4,2
+15359,Trickster's Vest,,,4,2
+15360,Trickster's Bindings,2,38,4,2
+15361,Trickster's Sash,2,37,4,2
+15362,Trickster's Boots,2,39,4,2
+15363,Trickster's Headdress,,,4,2
+15364,Trickster's Cloak,2,36,4,1
+15365,Trickster's Handwraps,2,38,4,2
+15366,Trickster's Leggings,,,4,2
+15367,Trickster's Protector,2,39,4,6
+15368,Trickster's Pauldrons,2,39,4,2
+15369,Wolf Rider's Belt,2,42,4,2
+15370,Wolf Rider's Boots,2,44,4,2
+15371,Wolf Rider's Cloak,2,41,4,1
+15373,Wolf Rider's Headgear,,,4,2
+15374,Wolf Rider's Leggings,2,44,4,2
+15375,Wolf Rider's Shoulder Pads,,,4,2
+15377,Wolf Rider's Wristbands,2,42,4,2
+15378,Rageclaw Belt,,,4,2
+15382,Rageclaw Cloak,2,45,4,1
+15412,Green Dragonscale,1,50,7,6
+15416,Black Dragonscale,,,15,0
+15417,Devilsaur Leather,,,7,0
+15420,Ironfeather,,,5,0
+15472,Charger's Belt,1,9,4,3
+15473,Charger's Boots,1,10,4,3
+15474,Charger's Bindings,1,8,4,3
+15475,Charger's Cloak,1,8,4,1
+15476,Charger's Handwraps,1,10,4,3
+15477,Charger's Pants,2,11,4,3
+15478,Charger's Shield,1,8,4,6
+15479,Charger's Armor,2,11,4,3
+15480,War Torn Girdle,1,13,4,3
+15481,War Torn Greaves,1,13,4,3
+15482,War Torn Bands,1,11,4,3
+15483,War Torn Cape,1,10,4,1
+15484,War Torn Handgrips,1,12,4,3
+15485,War Torn Pants,2,14,4,3
+15486,War Torn Shield,2,12,4,6
+15487,War Torn Tunic,2,16,4,3
+15488,Bloodspattered Surcoat,2,21,4,3
+15489,Bloodspattered Sabatons,2,16,4,3
+15490,Bloodspattered Cloak,1,14,4,1
+15491,Bloodspattered Gloves,2,15,4,3
+15492,Bloodspattered Sash,2,15,4,3
+15493,Bloodspattered Loincloth,2,18,4,3
+15494,Bloodspattered Shield,2,18,4,6
+15495,Bloodspattered Wristbands,2,15,4,3
+15496,Bloodspattered Shoulder Pads,1,21,4,3
+15497,Outrunner's Cord,2,19,4,3
+15498,Outrunner's Slippers,2,20,4,3
+15499,Outrunner's Cuffs,2,18,4,3
+15500,Outrunner's Chestguard,2,24,4,3
+15501,Outrunner's Cloak,2,17,4,1
+15502,Outrunner's Gloves,2,20,4,3
+15503,Outrunner's Legguards,2,22,4,3
+15504,Outrunner's Shield,2,22,4,6
+15505,Outrunner's Pauldrons,1,23,4,3
+15506,Grunt's AnkleWraps,2,21,4,3
+15507,Grunt's Bracers,2,19,4,3
+15508,Grunt's Cape,2,19,4,1
+15509,Grunt's Handwraps,2,21,4,3
+15510,Grunt's Belt,2,20,4,3
+15511,Grunt's Legguards,2,24,4,3
+15512,Grunt's Shield,2,24,4,6
+15513,Grunt's Pauldrons,2,25,4,3
+15514,Grunt's Chestpiece,2,26,4,3
+15515,Spiked Chain Belt,2,25,4,3
+15516,Spiked Chain Slippers,2,27,4,3
+15517,Spiked Chain Wristbands,2,25,4,3
+15518,Spiked Chain Breastplate,2,30,4,3
+15519,Spiked Chain Cloak,2,23,4,1
+15520,Spiked Chain Gauntlets,2,26,4,3
+15521,Spiked Chain Leggings,2,27,4,3
+15522,Spiked Chain Shield,2,29,4,6
+15523,Spiked Chain Shoulder Pads,2,27,4,3
+15524,Sentry's Surcoat,2,31,4,3
+15525,Sentry's Slippers,2,28,4,3
+15526,Sentry's Cape,2,24,4,1
+15527,Sentry's Gloves,2,27,4,3
+15528,Sentry's Sash,2,26,4,3
+15529,Sentry's Leggings,2,29,4,3
+15532,Sentry's Armsplints,2,26,4,3
+15533,Sentry's Headdress,2,31,4,3
+15534,Wicked Chain Boots,2,31,4,3
+15535,Wicked Chain Bracers,2,29,4,3
+15536,Wicked Chain Chestpiece,2,34,4,3
+15537,Wicked Chain Cloak,2,28,4,1
+15538,Wicked Chain Gauntlets,2,30,4,3
+15539,Wicked Chain Waistband,2,30,4,3
+15540,Wicked Chain Helmet,2,34,4,3
+15541,Wicked Chain Legguards,2,33,4,3
+15542,Wicked Chain Shoulder Pads,2,32,4,3
+15543,Wicked Chain Shield,,,4,6
+15544,Thick Scale Sabatons,2,32,4,3
+15545,Thick Scale Bracelets,2,30,4,3
+15546,Thick Scale Breastplate,2,36,4,3
+15547,Thick Scale Cloak,2,29,4,1
+15548,Thick Scale Gauntlets,2,32,4,3
+15549,Thick Scale Belt,2,31,4,3
+15550,Thick Scale Crown,2,35,4,3
+15551,Thick Scale Legguards,2,35,4,3
+15552,Thick Scale Shield,2,36,4,6
+15553,Thick Scale Shoulder Pads,2,34,4,3
+15554,Pillager's Girdle,2,33,4,3
+15555,Pillager's Boots,2,33,4,3
+15556,Pillager's Bracers,2,32,4,3
+15557,Pillager's Chestguard,2,37,4,3
+15558,Pillager's Crown,2,37,4,3
+15559,Pillager's Cloak,2,31,4,1
+15560,Pillager's Gloves,2,34,4,3
+15561,Pillager's Leggings,2,36,4,3
+15562,Pillager's Pauldrons,2,36,4,3
+15563,Pillager's Shield,2,37,4,6
+15564,Rugged Armor Kit,,,0,0
+15565,Marauder's Boots,,,4,3
+15566,Marauder's Bracers,2,35,4,3
+15567,Marauder's Tunic,,,4,3
+15568,Marauder's Cloak,2,33,4,1
+15570,Marauder's Gauntlets,2,36,4,3
+15571,Marauder's Belt,2,35,4,3
+15572,Marauder's Circlet,,,4,3
+15573,Marauder's Leggings,2,38,4,3
+15574,Marauder's Shoulder Pads,2,40,4,3
+15575,Sparkleshell Belt,2,36,4,3
+15576,Sparkleshell Sabatons,2,39,4,3
+15577,Sparkleshell Bracers,2,36,4,3
+15578,Sparkleshell Breastplate,,,4,3
+15579,Sparkleshell Cloak,2,35,4,1
+15581,Sparkleshell Gauntlets,2,38,4,3
+15582,Sparkleshell Legguards,,,4,3
+15583,Sparkleshell Shoulder Pads,2,41,4,3
+15590,Steadfast Bracelets,2,37,4,3
+15591,Steadfast Breastplate,2,43,4,3
+15592,Steadfast Buckler,2,43,4,6
+15594,Steadfast Cloak,2,37,4,1
+15595,Steadfast Gloves,,,4,3
+15596,Steadfast Legplates,,,4,3
+15597,Steadfast Shoulders,,,4,3
+15598,Steadfast Girdle,2,38,4,3
+15599,Ancient Greaves,,,4,3
+15602,Ancient Crown,,,4,3
+15603,Ancient Cloak,2,41,4,1
+15606,Ancient Belt,2,41,4,3
+15607,Ancient Legguards,,,4,3
+15608,Ancient Pauldrons,,,4,3
+15610,Bonelink Bracers,2,43,4,3
+15611,Bonelink Cape,,,4,1
+15613,Bonelink Belt,,,4,3
+15614,Bonelink Sabatons,,,4,3
+15616,Bonelink Legplates,,,4,3
+15617,Bonelink Epaulets,2,45,4,3
+15624,Gryphon Cloak,,,4,1
+15636,Formidable Belt,2,49,4,3
+15641,Ironhide Belt,,,4,3
+15654,Merciless Belt,2,54,4,3
+15727,Pattern: Heavy Scorpid Vest,,,9,1
+15731,Pattern: Runic Leather Gauntlets,2,54,9,1
+15732,Pattern: Volcanic Leggings,2,54,9,1
+15737,Pattern: Chimeric Boots,,,9,1
+15752,Pattern: Living Leggings,,,9,1
+15755,Pattern: Chimeric Vest,,,9,1
+15761,Pattern: Frostsaber Gloves,,,9,1
+15772,Pattern: Devilsaur Leggings,3,60,9,1
+15807,Light Crossbow,1,8,2,18
+15808,Fine Light Crossbow,1,21,2,18
+15869,Silver Skeleton Key,2,20,0,8
+15870,Golden Skeleton Key,2,30,0,8
+15871,Truesilver Skeleton Key,,,7,0
+15891,Hulking Shield,2,26,4,6
+15892,Slayer's Shield,2,32,4,6
+15893,Prospector's Buckler,2,21,4,6
+15894,Bristlebark Buckler,2,25,4,6
+15895,Burnt Buckler,1,8,4,6
+15906,Left-Handed Brass Knuckles,,,,
+15912,Buccaneer's Orb,2,23,4,0
+15918,Conjurer's Sphere,2,38,4,0
+15925,Journeyman's Stave,2,10,4,0
+15926,Spellbinder Orb,2,17,4,0
+15927,Bright Sphere,2,27,4,0
+15928,Silver-thread Rod,2,31,4,0
+15929,Nightsky Orb,2,37,4,0
+15932,Disciple's Stein,2,12,4,0
+15933,Simple Branch,2,15,4,0
+15934,Sage's Stave,2,32,4,0
+15935,Durable Rod,2,34,4,0
+15944,Ancestral Orb,2,12,4,0
+15945,Runic Stave,2,18,4,0
+15946,Mystic's Sphere,2,23,4,0
+15947,Sanguine Star,2,28,4,0
+15962,Satyr's Rod,2,33,4,0
+15964,Silksand Star,2,44,4,0
+15969,Beaded Orb,2,10,4,0
+15970,Native Branch,2,15,4,0
+15971,Aboriginal Rod,2,20,4,0
+15972,Ritual Stein,2,24,4,0
+15973,Watcher's Star,2,30,4,0
+15974,Pagan Rod,2,26,4,0
+15975,Raincaller Scepter,2,31,4,0
+15976,Thistlefur Branch,,,4,0
+15977,Vital Orb,2,37,4,0
+15978,Geomancer's Rod,2,41,4,0
+15979,Embersilk Stave,,,4,0
+15981,Lunar Sphere,,,4,0
+15990,Enduring Shield,2,39,4,6
+16041,Schematic: Thorium Grenade,1,52,9,3
+16042,Schematic: Thorium Widget,1,52,9,3
+16043,Schematic: Thorium Rifle,2,52,9,3
+16045,Schematic: Spellpower Goggles Xtreme Plus,,,9,3
+16051,Schematic: Thorium Shells,,,9,3
+16059,Common Brown Shirt,1,20,4,0
+16060,Common White Shirt,1,20,4,0
+16072,Expert Cookbook,1,30,9,5
+16083,Expert Fishing - The Bass and You,1,30,9,9
+16084,Expert First Aid - Under Wraps,1,30,9,7
+16111,Recipe: Spiced Chili Crab,1,45,9,5
+16112,Manual: Heavy Silk Bandage,1,36,9,7
+16113,Manual: Mageweave Bandage,1,42,9,7
+16166,Bean Soup,,,,
+16167,Versicolor Treat,1,15,0,5
+16170,Steamed Mandu,1,25,0,5
+16202,Lesser Eternal Essence,2,50,7,12
+16203,Greater Eternal Essence,,,7,0
+16204,Illusion Dust,,,7,0
+16215,Formula: Enchant Boots - Greater Stamina,,,9,8
+16218,Formula: Enchant Bracer - Superior Spirit,2,54,9,8
+16220,Formula: Enchant Boots - Spirit,2,55,9,8
+16245,Formula: Enchant Boots - Greater Agility,2,59,9,8
+16251,Formula: Enchant Bracer - Superior Stamina,,,9,8
+16652,Shredder Operating Manual - Page 8,1,1,12,0
+16655,Shredder Operating Manual - Page 11,1,1,12,0
+16766,Undermine Clam Chowder,1,45,0,5
+16971,Clamlette Surprise,1,45,0,5
+17020,Arcane Powder,1,56,15,1
+17021,Wild Berries,,,,
+17026,Wild Thornroot,,,,
+17028,Holy Candle,1,48,15,1
+17029,Sacred Candle,,,,
+17030,Ankh,1,30,5,0
+17031,Rune of Teleportation,1,20,15,1
+17032,Rune of Portals,1,40,15,1
+17033,Symbol of Divinity,1,30,15,1
+17034,Maple Seed,1,20,15,1
+17035,Stranglethorn Seed,1,30,15,1
+17036,Ashwood Seed,1,40,15,1
+17037,Hornbeam Seed,,,,
+17038,Ironwood Seed,,,,
+17056,Light Feather,1,1,15,1
+17057,Shiny Fish Scales,1,1,15,1
+17058,Fish Oil,1,1,15,1
+17062,Recipe: Mithril Head Trout,1,30,9,5
+17119,Deeprun Rat Kabob,1,15,0,5
+17188,Ringed Buckler,1,19,4,6
+17222,Spider Sausage,1,45,0,5
+17781,The Pariah's Instructions,1,1,12,0
+18045,Tender Wolf Steak,1,45,0,5
+18046,Recipe: Tender Wolf Steak,1,45,9,5
+18238,Shadowskin Gloves,,,4,2
+18239,Pattern: Shadowskin Gloves,1,40,9,1
+18256,Imbued Vial,1,55,7,11
+18294,Elixir of Greater Water Breathing,,,0,3
+18512,Larval Acid,,,5,0
+18610,Keen Machete,2,10,2,7
+18611,Gnarlpine Leggings,2,9,4,2
+18612,Bloody Chain Boots,2,10,4,3
+18649,Schematic: Blue Firework,1,30,9,3
+18662,Heavy Leather Ball,1,1,0,8
+18709,Arena Wristguards,3,50,4,1
+18710,Arena Bracers,3,50,4,2
+18711,Arena Bands,3,50,4,3
+18712,Arena Vambraces,3,50,4,4
+18731,Pattern: Heavy Leather Ball,1,30,9,1
+18945,Dark Iron Residue,,,15,0
+18948,Barbaric Bracers,3,32,4,2
+18949,Pattern: Barbaric Bracers,1,31,9,1
+19221,Darkmoon Special Reserve,,,,
+19222,Cheap Beer,,,,
+19269,Two of Elementals,,,15,0
+19270,Three of Elementals,,,15,0
+19278,Two of Portals,,,15,0
+19291,Darkmoon Storage Box,,,1,0
+19295,Darkmoon Flower,,,4,0
+19441,Huge Venom Sac,1,1,7,11
+19484,The Frostwolf Artichoke,,,,
+19933,Glowing Scorpid Blood,,,15,0
+19937,Small Scorpid Claw,,,15,0
+19938,Heavy Scorpid Leg,,,15,0
+20074,Heavy Crocolisk Stew,,,0,0
+20075,Recipe: Heavy Crocolisk Stew,,,,
+20575,Black Whelp Tunic,2,20,4,2
+20576,Pattern: Black Whelp Tunic,1,20,9,1
+20709,Rumsey Rum Light,1,1,0,5
+20744,Minor Wizard Oil,1,15,0,8
+20745,Minor Mana Oil,1,30,0,8
+20746,Lesser Wizard Oil,1,40,7,12
+20747,Lesser Mana Oil,,,7,0
+20752,Formula: Minor Mana Oil,1,30,9,8
+20753,Formula: Lesser Wizard Oil,1,40,9,8
+20758,Formula: Minor Wizard Oil,1,15,9,8
+20763,Broken Weapon,,,15,0
+21071,Raw Sagefish,1,20,7,8
+21072,Smoked Sagefish,1,20,0,5
+21099,Recipe: Smoked Sagefish,1,15,9,5
+21114,Rumsey Rum Dark,1,1,0,5
+21151,Rumsey Rum Black Label,1,1,0,5
+21153,Raw Greater Sagefish,1,40,7,8
+21177,Symbol of Kings,1,60,15,1
+21217,Sagefish Delight,1,55,0,5
+21219,Recipe: Sagefish Delight,1,35,9,5
+21358,Pattern: Soul Pouch,1,52,9,2
+21547,Recipe: Elixir of Greater Firepower,2,50,9,6
+22246,Enchanted Mageweave Pouch,2,45,1,3
+22250,Herb Pouch,2,20,1,2
+22307,Pattern: Enchanted Mageweave Pouch,1,45,9,2
+24282,Rogue's Diary,,,15,0
+211780,Scroll: KWYJIBO,1,10,0,4
+211784,Scroll: WUBBA WUBBA,1,20,0,4
+211785,Scroll: CWAL,1,10,0,4
+211786,Scroll: CHAP BALK WELLES,1,10,0,4
+211787,Scroll: LOWER PING WHOMEVER,1,10,0,4
+211853,Scroll: VOCE WELL,1,20,0,4
+211854,Scroll: OMIT KESA,1,20,0,4
+211855,Scroll: STHENIC LUNATE,1,20,0,4
+213543,Scroll: UPDOG,1,30,0,4
+213544,Scroll: TOPAZ YORAK,1,30,0,4
+213545,Scroll: PEATCHY ATTAX,1,30,0,4
+213546,Scroll: SHOOBEEDOOP,1,30,0,4
+213547,Scroll: THAW WORDS,1,30,0,4
+213548,Scroll of Liminal Passage,1,40,0,4
+213564,Scroll of Minor Evocation,1,15,0,4
+215365,Invoker's Mantle,2,30,4,1
+215366,Invoker's Cord,2,30,4,1
+215369,Pattern: Invoker's Cord,2,30,9,2
+215370,Pattern: Invoker's Mantle,2,30,9,2
+215373,Silver Hand Training Hammer,1,31,2,5
+215374,Ancestral Sword,1,31,2,8
+215375,Tactician's Staff,1,31,2,10
+215376,Crusader's Mace,1,31,2,4
+216483,Witherbark Mallet,1,1,0,8
+217287,Greater Mystic Wand,2,35,2,19
+217495,Scroll of Cryoblast,1,25,0,4
+247239,Lesser Discolored Healing Potion,1,13,0,1
+247240,Discolored Healing Potion,1,22,0,1
+247241,Greater Discolored Healing Potion,1,31,0,1
+247242,,,,,
+247754,Minor Arcane Elixir,1,5,0,2
+247755,Elixir of Minor Force,1,5,0,2
+247786,Mote of Magic,1,5,7,12
+247789,Novice's Practice Wand,1,6,2,19
+247824,Thunder Applejack,1,1,0,5
+247883,Crude Wax Effigy,2,10,7,12
+247884,Luminous Residue,1,5,7,12
+248613,Lightning in a Bottle,1,25,0,5
+248682,Waylaid Crate: Apprentice Herbs,1,1,0,8
+248683,Waylaid Crate: Apprentice Ore,1,1,0,8
+248684,Waylaid Crate: Apprentice Textiles,1,1,0,8
+248685,Waylaid Crate: Apprentice Curiosities,1,1,0,8
+248686,Waylaid Crate: Journeyman Herbs,1,1,0,8
+248687,Waylaid Crate: Journeyman Ore,1,1,0,8
+248688,Waylaid Crate: Journeyman Textiles,1,1,0,8
+248689,Waylaid Crate: Journeyman Curiosities,1,1,0,8
+248690,Waylaid Crate: Earthly Expert Herbs,1,1,0,8
+248691,Waylaid Crate: Flowering Expert Herbs,1,1,0,8
+248692,Waylaid Crate: Expert Ore,1,1,0,8
+248693,Waylaid Crate: Expert Textiles,1,1,0,8
+248694,Waylaid Crate: Expert Curiosities,1,1,0,8
+248695,Waylaid Crate: Earthly Artisan Herbs,1,1,0,8
+248696,Waylaid Crate: Flowering Artisan Herbs,1,1,0,8
+248697,Waylaid Crate: Artisan Ore,1,1,0,8
+248698,Waylaid Crate: Artisan Textiles,1,1,0,8
+248699,,,,,
+248702,Waylaid Crate: Apprentice Fabrics,2,1,0,8
+248703,Waylaid Crate: Apprentice Ingots,2,1,0,8
+248704,Waylaid Crate: Apprentice Parts,2,1,0,8
+248705,Waylaid Crate: Journeyman Fabrics,2,1,0,8
+248706,Waylaid Crate: Journeyman Ingots,2,1,0,8
+248707,Waylaid Crate: Journeyman Parts,2,1,0,8
+248708,Waylaid Crate: Expert Fabrics,2,1,0,8
+248709,Waylaid Crate: Expert Ingots,2,1,0,8
+248710,Waylaid Crate: Expert Parts,2,1,0,8
+248711,Waylaid Crate: Artisan Fabrics,2,1,0,8
+248712,,,,,
+248713,Waylaid Crate: Artisan Parts,2,1,0,8
+249274,Stranglevine,2,60,7,9
+249391,Pyrite,2,25,7,7
+249399,Frilled Lichen,2,25,7,9
+249409,Cerulean Dye,2,25,7,11
+249410,Sulfuric Acid,2,25,7,11
+249424,Rosecap,2,45,7,9
+249425,Bauxite,2,45,7,7
+249426,,,,,
+249427,Pristine Leather,2,25,7,6
+249428,Pristine Hide,2,45,7,6
+249429,,,,,
+249430,Magenta Dye,2,45,7,11
+249431,,,,,
+249432,Sandpaper,2,45,7,1
+249695,Fel-Tainted Flesh,1,1,12,0
+249865,Peace Tea,1,5,0,5
+249866,Royal Tea,1,15,0,5
+249867,Root Tea,1,25,0,5
+249871,Venomous Smoothie,1,5,0,5
+249872,Slimy Smoothie,1,15,0,5
+249873,Mrrggl Smrrthle,1,25,0,5
+250065,Savory Stag Sliders,1,45,0,5
+250074,Bear Brisket,1,35,0,5
+250076,Raptor Rouladen,1,45,0,5
+250079,Tasty Raptor Bites,1,10,0,5
+250080,Breakfast Omelette,1,15,0,5
+250330,Minor Cleric's Elixir,1,5,0,2
+250331,Lesser Cleric's Elixir,1,25,0,2
+250334,Elixir of Fortitude,1,45,0,2
+250339,Minor Mageblood Elixir,1,5,0,2
+250340,Lesser Mageblood Elixir,1,25,0,2
+250342,Lesser Arcane Elixir,1,25,0,2
+250344,Elixir of Minor Spirit,1,5,0,2
+250345,Elixir of Lesser Spirit,1,25,0,2
+250346,Elixir of Spirit,1,45,0,2
+250349,,,,,
+250353,Elixir of Lesser Intellect,1,25,0,2
+250363,,,,,
+250366,Recipe: Minor Cleric's Elixir,1,1,9,6
+250368,Recipe: Cleric's Elixir,1,1,9,6
+250370,Recipe: Elixir of Fortitude,1,1,9,6
+250375,Recipe: Minor Mageblood Elixir,1,1,9,6
+250380,Recipe: Elixir of Minor Spirit,1,1,9,6
+250382,Recipe: Elixir of Spirit,1,1,9,6
+250385,Recipe: Elixir of Strength,1,1,9,6
+250389,Recipe: Elixir of Intellect,1,1,9,6
+250483,,,,,
+250484,Sterling Silver Leggings,2,26,4,3
+250485,Sterling Silver Gauntlet,2,26,4,3
+250486,Sterling Silver Shoulders,2,27,4,3
+250536,Hard Gold Leggings,2,38,4,3
+250539,Hard Gold Pauldrons,2,40,4,3
+250603,Bronze Dory,2,25,2,6
+250607,,,,,
+250608,Mithril Warhammer,2,43,2,5
+250932,Minor Spellblasting Potion,1,45,0,1
+250933,Lesser Spellblasting Potion,1,5,0,1
+250934,Spellblasting Potion,1,5,0,1
+250935,,,,,
+250938,Minor Frenzy Potion,1,25,0,1
+250940,Frenzy Potion,1,55,0,1
+250941,,,,,
+250944,Minor Mender's Potion,1,55,0,1
+250945,Lesser Mender's Potion,1,55,0,1
+250947,Greater Mender's Potion,1,25,0,1
+250955,,,,,
+250976,Recipe: Minor Spellblasting Potion,1,1,9,6
+250977,Recipe: Lesser Spellblasting Potion,1,1,9,6
+250982,Recipe: Minor Frenzy Potion,1,1,9,6
+250983,,,,,
+250988,Recipe: Minor Mender's Potion,1,1,9,6
+250989,Recipe: Lesser Mender's Potion,1,1,9,6
+251524,Whimsyfin,1,15,7,11
+251525,Savory Whimsyfin Delight,1,10,0,8
+251526,Recipe: Savory Whimsyfin Delight,2,18,9,5
+251925,Tattered Ursera Feather,0,1,15,0
+251931,Depleted Windstone,0,1,15,0
+251932,Sharpened Cirrusfly Stinger,1,4,2,15
+252022,Galestrider Jerky,1,5,0,5
+252027,Gustberry Juice,1,15,0,5
+252028,Fresh Gustberry Bread,1,5,0,5
+252030,Pungent Skycheddar,1,15,0,5
+252031,Crisp Spring Water,1,5,0,5
+252032,Red Delicious Stormapple,1,15,0,5
+252436,Mystic Medium Armor Kit,2,15,0,6
+252437,Forceful Medium Armor Kit,2,15,0,6
+252449,Hillman's Leather Boots,2,27,4,2
+252452,Mystic Heavy Armor Kit,2,30,0,6
+252453,Forceful Heavy Armor Kit,2,30,0,6
+252462,Mystic Thick Armor Kit,2,40,0,6
+252463,Forceful Thick Armor Kit,2,40,0,6
+252671,Hoarder's Foot,0,5,15,0
+252761,Pattern: Black Whelp Slippers,3,15,9,1
+252762,Pattern: Dark Leather Boots,3,15,9,1
+252763,Pattern: Murloc Scale Shoes,3,15,9,1
+252764,Pattern: Moonglow Boots,3,15,9,1
+252771,Pattern: Brawler's Leather Armor,3,20,9,1
+252772,Pattern: Trapper's Leather Armor,3,20,9,1
+252773,Pattern: Defender's Leather Armor,3,20,9,1
+252774,Pattern: Totemic Leather Armor,3,20,9,1
+252775,Pattern: Stormrider's Leather Armor,3,20,9,1
+252776,Pattern: Wisdom's Leather Armor,3,20,9,1
+252783,Pattern: Mystic Medium Armor Kit,2,15,9,1
+252784,Pattern: Forceful Medium Armor Kit,2,15,9,1
+252792,Pattern: Brawler's Leather Pants,3,25,9,1
+252793,Pattern: Trapper's Leather Pants,3,25,9,1
+252794,Pattern: Defender's Leather Pants,3,25,9,1
+252795,Pattern: Totemic Leather Pants,3,25,9,1
+252796,Pattern: Stormrider's Leather Pants,3,25,9,1
+252797,Pattern: Wisdom's Leather Pants,3,25,9,1
+252804,Pattern: Hillman's Leather Boots,2,27,9,1
+252811,Pattern: Mystic Heavy Armor Kit,2,30,9,1
+252812,Pattern: Forceful Heavy Armor Kit,2,30,9,1
+252814,Pattern: Brawler's Leather Helm,3,30,9,1
+252815,Pattern: Trapper's Leather Helm,3,30,9,1
+252816,Pattern: Defender's Leather Helm,3,30,9,1
+252817,Pattern: Totemic Leather Helm,3,30,9,1
+252818,Pattern: Stormrider's Leather Helm,3,30,9,1
+252819,Pattern: Wisdom's Leather Helm,3,30,9,1
+252826,Pattern: Prowler's Leather Belt,3,35,9,1
+252827,Pattern: Skulker's Leather Belt,3,35,9,1
+252828,Pattern: Stalker's Leather Belt,3,35,9,1
+252829,Pattern: Warden's Leather Belt,3,35,9,1
+252830,Pattern: Skirmisher's Leather Belt,3,35,9,1
+252831,Pattern: Skycaller's Leather Belt,3,35,9,1
+252832,Pattern: Mender's Leather Belt,3,35,9,1
+252843,Pattern: Prowler's Leather Shoes,3,45,9,1
+252844,Pattern: Skulker's Leather Shoes,3,45,9,1
+252845,Pattern: Warden's Leather Shoes,3,45,9,1
+252846,,,,,
+252847,,,,,
+252859,Pattern: Blue Suede Shoes,2,52,9,1
+252866,,,,,
+252867,,,,,
+252868,,,,,
+252871,Pattern: Mender's Leather Gauntlets,3,55,9,1
+252896,Pattern: Stalker's Mail Boots,3,45,9,1
+252897,Pattern: Skycaller's Mail Boots,3,45,9,1
+252898,Pattern: Skirmisher's Mail Boots,3,45,9,1
+252899,Pattern: Mender's Mail Boots,3,45,9,1
+252908,,,,,
+252909,,,,,
+252915,,,,,
+252916,,,,,
+252918,,,,,
+252919,,,,,
+252920,,,,,
+252921,,,,,
+252929,,,,,
+252930,,,,,
+252931,,,,,
+252932,,,,,
+252942,Pattern: Forceful Rugged Armor Kit,2,50,9,1
+253664,Linen Reagent Bag,1,5,1,11
+253665,Pattern: Linen Reagent Bag,2,5,9,2
+253667,Woolen Reagent Bag,1,15,1,11
+253668,Pattern: Woolen Reagent Bag,2,10,9,2
+253902,Pattern: Filigreed Pristine Gown,3,20,9,2
+253904,Pattern: Filigreed Silky Gown,3,20,9,2
+253906,Pattern: Filigreed Flame Gown,3,20,9,2
+253908,Pattern: Filigreed Shadow Gown,3,20,9,2
+253910,Pattern: Filigreed Pearly Gown,3,20,9,2
+253912,Pattern: Filigreed Shining Gown,3,20,9,2
+253938,Pattern: Filigreed Pristine Leggings,3,25,9,2
+253940,Pattern: Filigreed Silky Leggings,3,25,9,2
+253942,Pattern: Filigreed Flame Leggings,3,25,9,2
+253944,Pattern: Filigreed Shadow Leggings,3,25,9,2
+253946,Pattern: Filigreed Pearly Leggings,3,25,9,2
+253948,Pattern: Filigreed Shining Leggings,3,25,9,2
+253973,Silk Reagent Bag,1,25,1,11
+253976,Pattern: Filigreed Pristine Circlet,3,30,9,2
+253978,Pattern: Filigreed Silky Circlet,3,30,9,2
+253980,Pattern: Filigreed Flame Circlet,3,30,9,2
+253982,Pattern: Filigreed Shadow Circlet,3,30,9,2
+253984,Pattern: Filigreed Pearly Circlet,3,30,9,2
+253986,Pattern: Filigreed Shining Circlet,3,30,9,2
+254013,Earthen Silk Slippers,2,36,4,1
+254015,,,,,
+254016,Pattern: Earthen Silk Hood,2,37,9,2
+254018,Pattern: Earthen Silk Gloves,2,39,9,2
+254019,Earthen Silk Cuffs,2,40,4,1
+254020,Pattern: Earthen Silk Cuffs,2,40,9,2
+254022,Pattern: Gilded Handwraps,3,40,9,2
+254034,Pattern: Earthen Silk Shoulders,2,41,9,2
+254035,Mageweave Reagent Bag,1,35,1,11
+254038,Pattern: Gilded Cord,3,45,9,2
+254040,Pattern: Frothing Cord,3,45,9,2
+254042,Pattern: Fiery Cord,3,45,9,2
+254044,Pattern: Black Cord,3,45,9,2
+254046,Pattern: Golden Cord,3,45,9,2
+254048,Pattern: Radiant Cord,3,45,9,2
+254074,,,,,
+254078,,,,,
+254079,,,,,
+254096,Pattern: Gilded Gloves,3,55,9,2
+254098,Pattern: Frothing Gloves,3,55,9,2
+254100,,,,,
+254104,,,,,
+254120,,,,,
+254432,Carved Centaur Totem,2,1,15,0
+254685,,,,,
+254686,Pattern: Stormcloth Boots,2,50,9,2
+255007,Golem Isospring,1,1,7,1
+255154,Ruined Gyrostabilizer,0,1,15,0
+255645,,,,,
+255663,Windstone,1,1,0,8
+255715,,,,,
+255716,Simple Poultice,1,16,7,11
+255717,Clever Poultice,1,26,7,11
+255718,Superior Poultice,1,36,7,11
+255720,Woolen Tourniquet,1,21,7,11
+255721,,,,,
+255723,Manual: Greater Healing Potion,2,31,9,7
+255724,Manual: Clever Poultice,2,26,9,7
+255725,,,,,
+255726,Manual: Leather Tourniquet,2,36,9,7
+255727,Manual: Superior Poultice,2,36,9,7
+255728,Manual: Potent Anti-Venom,2,36,9,7
+255730,Manual: Surgical Tourniquet,2,58,9,7
+257224,Cracked Windstone,0,1,15,0
+257226,Lesser Essence of the Four Winds,0,1,15,0
+258882,Worn Greatsword,1,5,2,8
+260792,SAF-T Dynamite,1,25,0,0
+260793,SAF-T Copper Bomb,1,19,0,0
+260794,EZ-Thro Wrap,1,15,7,1
+260795,EZ-Thro Copper Bomb XL,1,31,0,0
+262888,Sealed Journeyman's Writ,3,1,0,8
+262889,Sealed Expert's Writ,3,1,0,8
+262890,Sealed Artisan's Writ,3,1,0,8
+263015,Skyseer's Pants,2,14,4,1
+263016,Scout Ranger's Leggings,2,14,4,2
+263017,Thendal Watcher's Leggings,2,14,4,3
+263509,Skywall Souffle,1,15,0,5
+263511,Recipe: Skywall Souffle,1,15,9,5
+263512,Pincer Bites,1,15,0,5
+263513,Recipe: Pincer Bites,1,15,9,5
+263935,Elunar Longstaff,2,15,2,10
+263936,Windforged Shortblade,2,15,2,15
+263937,Skyseeker's Greatstaff,2,15,2,10
+264011,Craftsman's Writ: Elixir of Ogre's Strength,3,1,0,8
+264012,Craftsman's Writ: Elixir of Wisdom,3,1,0,8
+264013,Craftsman's Writ: Lesser Mana Potion,3,1,0,8
+264014,Craftsman's Writ: Shadow Protection Potion,3,1,0,8
+264015,Craftsman's Writ: Free Action Potion,3,1,0,8
+264016,Craftsman's Writ: Elixir of Lesser Agility,3,1,0,8
+264017,Craftsman's Writ: Lesser Troll's Blood Elixir,3,1,0,8
+264018,Craftsman's Writ: Elixir of Defense,3,1,0,8
+264019,Craftsman's Writ: Draught of Water Breathing,3,1,0,8
+264020,Craftsman's Writ: Pearl-Handled Dagger,3,1,0,8
+264021,Craftsman's Writ: Golden Rod,3,1,0,8
+264022,Craftsman's Writ: Iridescent Hammer,3,1,0,8
+264023,Craftsman's Writ: Silver Skeleton Key,3,1,0,8
+264024,Craftsman's Writ: Heavy Bronze Mace,3,1,0,8
+264025,Craftsman's Writ: Rough Bronze Leggings,3,1,0,8
+264026,Craftsman's Writ: Green Iron Gauntlets,3,1,0,8
+264027,Craftsman's Writ: Big Bronze Knife,3,1,0,8
+264028,Craftsman's Writ: Green Iron Boots,3,1,0,8
+264029,Craftsman's Writ: Ornate Spyglass,3,1,0,8
+264030,Craftsman's Writ: Explosive Sheep,3,1,0,8
+264031,Craftsman's Writ: Moonsight Rifle,3,1,0,8
+264032,Craftsman's Writ: Minor Recombobulator,3,1,0,8
+264033,Craftsman's Writ: Practice Lock,3,1,0,8
+264034,Craftsman's Writ: Shadow Goggles,3,1,0,8
+264035,Craftsman's Writ: Gnomish Universal Remote,3,1,0,8
+264036,Craftsman's Writ: Big Bronze Bomb,3,1,0,8
+264037,Craftsman's Writ: Crafted Solid Shot,3,1,0,8
+264038,Craftsman's Writ: Heavy Leather Ball,3,1,0,8
+264039,Craftsman's Writ: Fine Leather Pants,3,1,0,8
+264040,Craftsman's Writ: Herbalist's Gloves,3,1,0,8
+264041,Craftsman's Writ: Dark Leather Tunic,3,1,0,8
+264042,Craftsman's Writ: Pilferer's Gloves,3,1,0,8
+264043,Craftsman's Writ: Heavy Quiver,3,1,0,8
+264044,Craftsman's Writ: Dark Leather Shoulders,3,1,0,8
+264045,Craftsman's Writ: Barbaric Gloves,3,1,0,8
+264046,Craftsman's Writ: Red Whelp Gloves,3,1,0,8
+264047,Craftsman's Writ: Lesser Wizard's Robe,3,1,0,8
+264048,Craftsman's Writ: Blue Overalls,3,1,0,8
+264049,Craftsman's Writ: Azure Silk Hood,3,1,0,8
+264050,Craftsman's Writ: Small Silk Pack,3,1,0,8
+264051,Craftsman's Writ: Phoenix Pants,3,1,0,8
+264052,Craftsman's Writ: Red Woolen Boots,3,1,0,8
+264053,Craftsman's Writ: Colorful Kilt,3,1,0,8
+264054,Craftsman's Writ: Greater Adept's Robe,3,1,0,8
+264055,Craftsman's Writ: Spider Silk Slippers,3,1,0,8
+264056,Craftsman's Writ: Frost Protection Potion,3,1,0,8
+264057,Craftsman's Writ: Lesser Invisibility Potion,3,1,0,8
+264058,Craftsman's Writ: Lesser Stoneshield Potion,3,1,0,8
+264059,Craftsman's Writ: Nature Protection Potion,3,1,0,8
+264060,Craftsman's Writ: Catseye Draught,3,1,0,8
+264061,Craftsman's Writ: Great Rage Potion,3,1,0,8
+264062,,,,,
+264063,Craftsman's Writ: Fire Protection Potion,3,1,0,8
+264064,Craftsman's Writ: Shadow Oil,3,1,0,8
+264065,Craftsman's Writ: Goblin Rocket Fuel,3,1,0,8
+264066,,,,,
+264067,,,,,
+264068,Craftsman's Writ: Steel Plate Helm,3,1,0,8
+264069,Craftsman's Writ: Inlaid Mithril Cylinder,3,1,0,8
+264070,Craftsman's Writ: Steel Weapon Chain,3,1,0,8
+264071,Craftsman's Writ: Ornate Mithril Shoulders,3,1,0,8
+264072,Craftsman's Writ: Blue Glittering Axe,3,1,0,8
+264073,,,,,
+264074,Craftsman's Writ: Golden Scale Coif,3,1,0,8
+264075,Craftsman's Writ: Solid Sharpening Stone,3,1,0,8
+264076,Craftsman's Writ: Wicked Mithril Blade,3,1,0,8
+264077,Craftsman's Writ: Truesilver Rod,3,1,0,8
+264078,Craftsman's Writ: Golden Scale Gauntlets,3,1,0,8
+264079,Craftsman's Writ: Heavy Mithril Axe,3,1,0,8
+264080,Craftsman's Writ: Mechanical Dragonling,3,1,0,8
+264081,Craftsman's Writ: Advanced Target Dummy,3,1,0,8
+264082,Craftsman's Writ: Craftsman's Monocle,3,1,0,8
+264083,Craftsman's Writ: Goblin Land Mine,3,1,0,8
+264084,Craftsman's Writ: Catseye Ultra Goggles,3,1,0,8
+264085,Craftsman's Writ: Unstable Trigger,3,1,0,8
+264086,Craftsman's Writ: Flash Bomb,3,1,0,8
+264087,Craftsman's Writ: Fire Goggles,3,1,0,8
+264088,Craftsman's Writ: Mithril Frag Bomb,3,1,0,8
+264089,Craftsman's Writ: Gyromatic Micro-Adjuster,3,1,0,8
+264090,Craftsman's Writ: Mechanical Repair Kit,3,1,0,8
+264091,Craftsman's Writ: Dark Iron Bomb,3,1,0,8
+264092,Craftsman's Writ: Comfortable Leather Hat,3,1,0,8
+264093,Craftsman's Writ: Guardian Cloak,3,1,0,8
+264094,Craftsman's Writ: Dusky Bracers,3,1,0,8
+264095,Craftsman's Writ: Wild Leather Helmet,3,1,0,8
+264096,Craftsman's Writ: Wild Leather Shoulders,3,1,0,8
+264097,Craftsman's Writ: Quickdraw Quiver,3,1,0,8
+264098,Craftsman's Writ: Swift Boots,3,1,0,8
+264099,Craftsman's Writ: Nightscape Shoulders,3,1,0,8
+264100,Craftsman's Writ: Big Voodoo Mask,3,1,0,8
+264101,Craftsman's Writ: Big Voodoo Robe,3,1,0,8
+264102,Craftsman's Writ: Turtle Scale Breastplate,3,1,0,8
+264103,Craftsman's Writ: Thick Leather Ammo Pouch,3,1,0,8
+264104,,,,,
+264105,Craftsman's Writ: Shadoweave Gloves,3,1,0,8
+264106,Craftsman's Writ: Crimson Silk Robe,3,1,0,8
+264107,Craftsman's Writ: Shadoweave Robe,3,1,0,8
+264108,Craftsman's Writ: Enchanted Mageweave Pouch,3,1,0,8
+264109,Craftsman's Writ: Star Belt,3,1,0,8
+264110,Craftsman's Writ: Black Mageweave Vest,3,1,0,8
+264111,Craftsman's Writ: Red Mageweave Pants,3,1,0,8
+264112,Craftsman's Writ: Orange Martial Shirt,3,1,0,8
+264113,Craftsman's Writ: White Bandit Mask,3,1,0,8
+264114,Craftsman's Writ: Cindercloth Robe,3,1,0,8
+264115,Craftsman's Writ: Earthen Silk Belt,3,1,0,8
+264118,,,,,
+264135,,,,,
+264159,,,,,
+264207,Schematic: SAF-T Bronze Bomb,1,29,9,3
+264208,Schematic: SAF-T Jumbo Dynamite,1,30,9,3
+264210,Schematic: Shafety Sheep,1,35,9,3
+264212,Schematic: EZ-Thro Bronze Mortar,1,38,9,3
+264213,,,,,
+264214,Schematic: SAF-T Casing,1,43,9,3
+264215,Schematic: SAF-T Bomb,1,43,9,3
+264218,Schematic: EZ-Thro Tru-Trigger,1,48,9,3
+264219,Schematic: Tru-Trigger Frag Bomb,1,48,9,3
+264224,,,,,
+267474,Galeswept Forestshroom,1,5,0,5
+268109,Musical Gustjumper,1,1,15,2
+268415,Commonplace Herb Seeds,2,5,7,9
+268416,Uncommon Herb Seeds,2,20,7,9
+268417,Unusual Herb Seeds,2,36,7,9
+268418,Scarce Herb Seeds,2,46,7,9
+269681,Empyrean Galestrider,3,40,15,5
+271655,Thendal Apprentice's Shirt,1,1,4,0
+271659,Thendal Apprentice's Boots,1,1,4,1
+271665,Thendal Survivalist's Boots,1,1,4,1
+271668,Thendal Survivalist's Shirt,1,1,4,0
+271669,Thendal Warrior's Shirt,1,1,4,0
+271675,Grove Scoundrel's Shirt,1,1,4,0
+272124,Translated Tale of I'lalai,1,1,15,0
+273085,Blueprint: Fermenter,2,25,9,6
+273086,Blueprint: Anvil,2,25,9,4
+273087,Blueprint: Journeyman Campfire,2,25,9,5
+273092,Blueprint: Repair Bot,2,25,9,3
+273096,Blueprint: Tanning Rack,2,25,9,1
+273097,Blueprint: Rock Garden,2,25,9,0
+273098,Blueprint: Field Guide,2,25,9,0
+273099,Blueprint: Spinning Wheel,2,25,9,2
+273101,,,,,
+273102,Blueprint: Cookie's Feast,2,25,9,5
+273103,Blueprint: Arcane Salvager,2,25,9,8
+273105,Blueprint: Toxin Study,2,25,9,7
+273106,Blueprint: Greenhouse,2,25,9,0
+273109,Blueprint: Trapper's Workbench,2,60,9,0
+273141,Blueprint: Fishing Rack,2,25,9,9
+273295,Seasonal Fish Steaks,1,45,7,8
+273636,Chef's Knife,1,45,7,11
+273815,Airy Windseeker's Shirt,1,1,4,0
+274048,9-60 Battery Pack,2,34,0,8
+274706,,,,,
+274947,Scroll of Imbue Lesser Flame,2,15,0,4
+274971,Briny Seafood Stew,1,35,0,5
+274976,Plain Ol' Paletusk,1,35,0,5
+275067,Scroll of Imbue Chillknife,2,15,0,4
+275069,Scroll of Rat Familiar,1,15,0,4
+275682,,,,,
+275842,Fossilized Insect,0,1,15,0
+275843,,,,,
+275891,Dwarven Skull,0,1,15,0
+275892,Short Stout,1,1,15,0
+275893,Searing Gourd,1,1,15,0
+275894,Ghastly Cloth,0,1,15,0
+275895,Fading Echo,0,1,15,0
+276158,Crystallized Shard,0,1,15,0
+276160,Mana Fragment,0,1,15,0
+276994,Cloudy Skyforged Gauntlets,2,11,4,3
+276995,Cloudy Skyforged Chain,2,10,4,3
+276998,Cloudy Gustwoven Harness,2,12,4,2
+276999,Cloudy Gustwoven Bracers,2,10,4,2
+277001,Cloudy Gustwoven Belt,2,10,4,2
+277002,Cloudy Gustwoven Trousers,2,12,4,2
+277004,Cloudy Windraveled Jerkin,2,12,4,2
+277005,Cloudy Windraveled Armguards,2,10,4,2
+277006,Cloudy Windraveled Mitts,2,11,4,2
+277007,Cloudy Windraveled Strap,2,10,4,2
+277008,Cloudy Windraveled Pants,2,12,4,2
+277009,Cloudy Windraveled Footwraps,2,11,4,2
+277011,Cloudy Stormsewn Cuffs,2,10,4,1
+277013,Cloudy Stormsewn Cord,2,10,4,1
+277015,Cloudy Stormsewn Shoes,2,11,4,1
+277016,Azure Skyforged Chainmail,2,12,4,3
+277017,Azure Skyforged Wristguards,2,10,4,3
+277018,Azure Skyforged Gauntlets,2,11,4,3
+277019,Azure Skyforged Chain,2,10,4,3
+277020,Azure Skyforged Legguards,2,12,4,3
+277021,Azure Skyforged Greaves,2,11,4,3
+277022,Azure Gustwoven Harness,2,12,4,2
+277023,Azure Gustwoven Bracers,2,10,4,2
+277024,Azure Gustwoven Gloves,2,11,4,2
+277025,Azure Gustwoven Belt,2,10,4,2
+277026,Azure Gustwoven Trousers,2,12,4,2
+277027,Azure Gustwoven Boots,2,11,4,2
+277028,Azure Windraveled Jerkin,2,12,4,2
+277029,Azure Windraveled Armguards,2,10,4,2
+277030,Azure Windraveled Mitts,2,11,4,2
+277031,Azure Windraveled Strap,2,10,4,2
+277032,Azure Windraveled Pants,2,12,4,2
+277033,Azure Windraveled Footwraps,2,11,4,2
+277034,Azure Stormsewn Vest,2,12,4,1
+277035,Azure Stormsewn Cuffs,2,10,4,1
+277036,Azure Stormsewn Handwraps,2,11,4,1
+277037,Azure Stormsewn Cord,2,10,4,1
+277038,Azure Stormsewn Leggings,2,12,4,1
+277050,Azure Gustwoven Hood,2,35,4,2
+277051,Azure Gustwoven Spaulders,2,35,4,2
+277053,Azure Windraveled Drapes,2,35,4,2
+277054,,,,,
+277056,Al'Aketh Chainmail,2,11,4,3
+277057,Al'Aketh Wristguards,2,9,4,3
+277058,,,,,
+277059,,,,,
+277060,Al'Aketh Legguards,2,11,4,3
+277061,Al'Aketh Greaves,2,10,4,3
+277062,Al'Aketh Harness,2,11,4,2
+277063,Al'Aketh Bracers,2,9,4,2
+277064,Al'Aketh Gloves,2,10,4,2
+277068,Al'Aketh Jerkin,2,11,4,2
+277069,Al'Aketh Armguards,2,9,4,2
+277072,Al'Aketh Pants,2,11,4,2
+277074,Al'Aketh Vestments,2,11,4,1
+277078,Al'Aketh Leggings,2,11,4,1
+277483,Scroll of Frog Familiar,1,25,0,4
+277485,Scroll of Imbue Frost,2,25,0,4
+277486,Scroll of Imbue Striking,2,25,0,4
+277487,Scroll of Imbue Baleflame,2,25,0,4
+277488,Scroll of Imbue Iceknife,2,25,0,4
+277489,Scroll of Imbue Spark,2,25,0,4
+277492,Scroll of Khadgar's Unlocking,1,40,0,4
+277493,Scroll of Cat Familiar,1,40,0,4
+277494,Scroll of Imbue Accuracy,2,40,0,4
+277495,Scroll of Imbue Quickening,2,40,0,4
+277496,Scroll of Imbue Balefrost,2,40,0,4
+277497,Scroll of Imbue Flame,2,40,0,4
+277498,Scroll of Imbue Manablade,2,40,0,4
+277499,,,,,
+277500,,,,,
+277501,,,,,
+277502,,,,,
+277672,Rough Copper Chain Boots,2,10,4,3
+277715,Light Leather Reagent Bag,1,5,1,11
+279276,Mathystral Amulet Fragment,1,1,0,8
+279277,Mathystral Amulet,1,1,0,8
+279450,,,,,
+279537,Rotheap Innards,1,1,15,4
+279940,,,,,
+279941,Tanning Rack,1,28,0,8
+279943,Spinning Wheel,1,28,0,8
+279944,Sharpening Wheel,1,4,0,8
+279948,Rock Garden,1,28,0,8
+279949,Repair Bot,1,28,0,8
+279950,Reagent Bot,1,4,0,8
+279956,Mana Well,1,4,0,8
+279957,Cookie's Feast,1,28,0,8
+279960,Lodestone,1,4,0,8
+279961,Journeyman Campfire Kit,1,18,0,8
+279962,Incense Candle,1,4,0,8
+279964,Greenhouse,1,28,0,8
+279965,Fishing Rack,1,28,0,8
+279967,Fish Bowl,1,4,0,8
+279968,First Aid Kit,1,4,0,8
+279969,Field Guide,1,28,0,8
+279970,Fermenter,1,28,0,8
+279973,Faction Banner,1,4,0,8
+279976,Enchanted Lute,1,4,0,8
+279978,Camp Tent,1,4,0,8
+279979,Camp Chair,1,4,0,8
+279981,Basic Campfire Kit,1,4,0,8
+279985,Arcane Salvager,1,28,0,8
+279988,Anvil,1,28,0,8
+280697,,,,,
+280699,,,,,
+280797,Rabbit Crate (Arctic),1,20,15,2
+280801,Rabbit Crate (Brown),1,20,15,2
+280803,Eagle Owl,1,30,15,2
+281016,,,,,
+281018,,,,,
+281282,,,,,
+281600,,,,,
+281666,,,,,
+281676,Rog'mar Trainee Shoulderpads,2,41,4,2
+281896,,,,,
+281925,Whelpfire Wand,2,20,2,19
+281926,Bound Bracers,2,23,4,1
+281927,Boulderheart Band,2,27,4,0
+281993,Gnoll Hide Boots,2,14,4,2
+282003,Lost Chieftain's Greatsword,2,41,2,8
+282010,Tusk of Grunter,2,52,2,15
+282019,Braided Seer Stones,2,56,4,0
+282020,,,,,
+282023,,,,,
+282026,Unyielding Battle Signet,2,58,4,0
+282094,,,,,
+282556,Groundshaker's Bindings,2,47,4,4
+282636,Silkspun Gloves,2,21,4,1
+282642,Feather-Stitched Moccasins,2,27,4,2
+282653,Dissolved Locket,2,32,4,0
+282654,Gnawed Bone,2,26,4,0
+282655,Bog Pickers,2,27,4,1
+282658,Dragonmaw Battle Shroud,2,32,4,1
+282711,Naga Maiden's Gown,2,35,4,1
+282713,Bloodstained Pants,2,36,4,2
+282716,Imbued Scaled Cuffs,2,32,4,3
+282717,Durable Bearhide Pauldrons,2,29,4,2
+282721,,,,,
+283253,Denmother's Hide,2,37,4,1
+283254,Heart of Alterac,2,39,4,0
+283255,Syndicate Executioner's Slicer,2,38,2,7
+283389,Skonk's List,1,1,12,0
+283545,,,,,
+284040,Cliff Jumpers,2,44,4,2
+284070,Dreadwhisper's Touch,2,60,2,19
+284165,Duskstalker's Hide,2,11,4,2
+284166,Gnarlpine War Staff,2,13,2,10
+284167,Blackmoss Robes,2,15,4,1
+284173,Impcaster's Staff,2,16,2,10
+284174,Serrated Shadowclaw,2,15,2,15
+284177,Sinslayer's Smasher,2,18,2,4
+284185,Greymist Gauntlets,2,18,4,3
+284187,Crazed Firecaller's Cloak,2,21,4,1
+284192,Furbolg Loincloth,2,18,4,1
+284193,Moongazer's Wand,2,19,2,19
+284382,Budding Leaf Belt,2,32,4,2
+284668,Apothecary's Concoction,2,24,4,0
+284697,Arcane Charged Robes,2,34,4,1
+284702,Slimy Sword,2,25,2,7
+284707,,,,,
+284708,Demonstrike Emblem,2,42,4,0
+284712,Hyena Hide Helm,2,36,4,2
+284859,Silithid Sinew Crossbow,2,49,2,18
+284870,Schematic: Unsanctified Grenade,1,52,9,3
+285095,Twitching Eye,2,40,4,0
+285100,Serrated Raptor Teeth,2,40,2,16
+285102,,,,,
+285253,Skyseer's Gloves,2,11,4,1
+285254,Scout Ranger's Gloves,2,11,4,2
+285255,Thendal Watcher's Gloves,2,11,4,3
+285264,Skyseer's Slippers,2,10,4,1
+285268,Scout Ranger's Boots,2,10,4,2
+285269,Thendal Watcher's Boots,2,10,4,3
+285272,Skyseer's Belt,2,10,4,1
+285273,Scout Ranger's Belt,2,10,4,2
+285274,Thendal Watcher's Belt,2,10,4,3
+285282,Jagged Knives,2,18,2,16
+285283,,,,,
+285351,Foreman's Enforcers,2,21,4,2
+286533,,,,,
+286534,Silithid Piercer,2,26,2,15
+286535,Sludge-Stained Band,2,21,4,0
+286536,,,,,
+286537,Thunderstomp's Horn,2,26,2,4
+286569,,,,,
+286570,Silithid Flesh Bindings,2,52,4,2
+286745,,,,,
+286748,Bristlebark Bow,2,12,2,2
+286749,Wrathroot,2,10,2,10
+286750,Wisesight Wand,2,12,2,19
+286751,Ghostfang's Steps,2,12,4,1
+286977,Sword of the Fallen,3,23,2,8
+286978,Rotmender's Garb,3,23,4,1
+286979,Rotmender's Gloves,3,22,4,1
+286980,Rotmender's Sash,3,22,4,1
+286981,Death Bindings,3,21,4,3
+286982,Unearthed Barrier,3,32,4,6
+286983,Ancient Cleaver,3,33,2,1
+286984,Mark of the Marsh,3,33,4,0
+286985,Thicket Bindings,3,31,4,2
+286986,Abandoned Leggings,3,31,4,1
+286987,Violet Sorcerer's Sandals,3,33,4,1
+286988,Violet Sorcerer's Leggings,3,34,4,1
+286989,Violet Sorcerer's Wraps,3,33,4,1
+286990,Arcane Remnant Leggings,3,33,4,2
+286991,Roused Nature Footwraps,3,32,4,2
+286992,Construct's Grips,3,33,4,3
+286993,Suffused Bindings,3,32,4,3
+286994,Tattered Kirin Tor Cloak,3,33,4,1
+286995,Guardian's Emblem,3,33,4,0
+286996,City Guard's Tarnished Blade,3,34,2,7
+286997,Depth-Risen Leggings,3,40,4,1
+286998,Deep Flora Bindings,3,39,4,1
+286999,,,,,
+287000,Skin-Flayed Footguards,3,39,4,2
+287001,Waterlogged Shoulderpads,3,41,4,2
+287002,Risen Sentry's Links,3,40,4,3
+287003,Corroded Handguards,3,39,4,3
+287004,Touch of the Depths,3,40,2,19
+287005,,,,,
+287006,Resurged Axe,3,40,2,0
+287007,,,,,
+287008,Ogre Magi's Mantle,3,45,4,1
+287009,Twilight Enforcer's Legs,3,44,4,2
+287010,,,,,
+287011,Guise of Battle,3,45,4,3
+287012,Krol'dok Warplate Gauntlets,3,45,4,4
+287013,Krol'dok Warplate Legplates,3,46,4,4
+287014,Krol'dok Warplate Pauldrons,3,46,4,4
+287015,,,,,
+287016,Shadow-Seer Orb,3,45,4,0
+287063,Serrated Knife,2,17,2,16
+287068,Excavated Dagger,3,33,2,16
+287070,Skypierce Javelin,3,45,2,16
