@@ -20,6 +20,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 117,Tough Jerky,1,5,0,5
 118,Minor Healing Potion,1,5,0,1
 129,Rugged Trapper's Boots,1,1,4,1
+147,Rugged Trapper's Pants,0,1,4,1
 148,Rugged Trapper's Shirt,1,1,4,0
 154,Primitive Mantle,1,1,4,0
 159,Refreshing Spring Water,1,5,0,5
@@ -30,6 +31,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 537,Dull Frenzy Scale,0,1,15,0
 555,Rough Vulture Feathers,0,10,15,0
 556,Buzzard Beak,0,1,15,0
+718,Scalemail Gloves,1,22,4,3
 720,Brawler Gloves,3,28,4,2
 723,Goretusk Liver,1,12,7,8
 724,Goretusk Liver Pie,1,15,0,5
@@ -87,6 +89,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 837,Heavy Weave Armor,,,,
 838,Heavy Weave Pants,1,17,4,1
 840,Heavy Weave Shoes,1,17,4,1
+843,Tanned Leather Boots,1,17,4,2
 844,Tanned Leather Gloves,1,17,4,2
 845,Tanned Leather Pants,1,17,4,2
 846,Tanned Leather Jerkin,1,17,4,2
@@ -125,6 +128,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 920,Wicked Spiked Mace,2,25,2,4
 922,Dacian Falx,1,26,2,8
 926,Battle Axe,,,,
+928,Long Staff,1,25,2,10
 929,Healing Potion,1,22,0,1
 933,Large Rucksack,1,25,1,0
 934,Stalvan's Reaper,3,37,2,0
@@ -158,6 +162,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 1197,Giant Mace,1,15,2,5
 1198,Claymore,1,15,2,8
 1201,Dull Heater Shield,1,10,4,6
+1202,Wall Shield,1,17,4,6
 1204,The Green Tower,4,41,4,6
 1205,Melon Juice,1,25,0,5
 1206,Moss Agate,2,25,7,11
@@ -185,6 +190,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 1315,Lei of Lilies,,,4,0
 1318,Night Reaver,3,23,2,1
 1326,Sauteed Sunfish,1,15,0,5
+1351,Fingerbone Bracers,2,28,4,1
 1357,Captain Sander's Treasure Map,1,10,12,0
 1364,Ragged Leather Vest,0,5,4,2
 1366,Ragged Leather Pants,0,2,4,2
@@ -291,11 +297,12 @@ item_id,name,quality,item_level,class_id,subclass_id
 1624,Skullsplitter Helm,,,4,3
 1625,Exquisite Flamberge,2,41,2,8
 1630,Broken Electro-lantern,,,15,0
-1639,Grinning Axe,,,2,1
+1639,Grinning Axe,2,49,2,1
 1640,Monstrous War Axe,2,42,2,1
 1645,Moonberry Juice,1,45,0,5
 1652,Sturdy Lunchbox,,,1,0
 1659,Engineering Gloves,2,40,4,1
+1664,Spellforce Rod,2,41,2,10
 1677,Drake-scale Vest,,,4,3
 1678,Black Ogre Kickers,3,41,4,3
 1685,Troll-hide Bag,1,45,1,0
@@ -320,7 +327,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 1716,Robe of the Magi,3,40,4,1
 1717,Double Link Tunic,3,30,4,3
 1718,Basilisk Hide Pants,3,43,4,2
-1720,Tanglewood Staff,,,2,10
+1720,Tanglewood Staff,3,46,2,10
 1721,Viking Warhammer,,,2,4
 1722,Thornstone Sledgehammer,,,2,5
 1725,Large Knapsack,1,35,1,0
@@ -440,6 +447,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 1934,Stonemason Trousers,3,20,4,2
 1935,Assassin's Blade,3,24,2,15
 1936,Goblin Screwdriver,3,18,2,15
+1938,Block Mallet,2,24,2,4
 1943,Goblin Mail Leggings,2,19,4,3
 1944,Metalworking Gloves,2,18,4,2
 1945,Woodworking Gloves,2,18,4,2
@@ -458,6 +466,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 1986,Gutrender,,,2,8
 1988,Chief Brigadier Gauntlets,2,38,4,3
 1990,Ballast Maul,2,36,2,5
+1991,Goblin Power Shovel,2,34,2,5
 1992,Swampchill Fetish,,,4,0
 1993,Ogremind Ring,2,36,4,0
 1994,Ebonclaw Reaver,,,2,0
@@ -475,6 +484,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 2024,Espadon,1,21,2,8
 2025,Bearded Axe,,,,
 2027,Scimitar,1,19,2,7
+2030,Gnarled Staff,1,20,2,10
 2034,Scholarly Robes,3,25,4,1
 2039,Plains Ring,3,29,4,0
 2046,Bluegill Kukri,2,24,2,7
@@ -521,6 +531,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 2129,Large Round Shield,1,5,4,6
 2130,Club,,,,
 2132,Short Staff,1,4,2,10
+2134,Hand Axe,1,4,2,
 2138,Sharpened Letter Opener,0,7,2,15
 2139,Dirk,1,3,2,15
 2140,Carving Knife,2,11,2,15
@@ -537,6 +548,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 2205,Duskbringer,3,25,2,8
 2207,Jambiya,1,16,2,15
 2208,Poniard,,,,
+2209,Kris,1,24,2,15
 2210,Battered Buckler,0,2,4,6
 2211,Bent Large Shield,0,4,4,6
 2212,Cracked Buckler,0,6,4,6
@@ -628,6 +640,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 2408,Pattern: Fine Leather Gloves,2,15,9,1
 2409,Pattern: Dark Leather Tunic,2,20,9,1
 2414,Pinto Bridle,3,40,15,5
+2445,Large Metal Shield,1,22,4,6
 2447,Peacebloom,1,5,7,9
 2449,Earthroot,1,5,7,9
 2450,Briarthorn,1,15,7,9
@@ -889,6 +902,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 3020,Enduring Cap,3,33,4,2
 3021,Ranger Bow,3,25,2,2
 3022,Bluegill Breeches,2,23,4,2
+3023,Large Bore Blunderbuss,1,21,2,3
 3024,"BKP 2700 ""Enforcer""",,,,
 3026,Reinforced Bow,1,21,2,2
 3027,Heavy Recurve Bow,1,25,2,2
@@ -916,6 +930,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 3073,Smoldering Pants,2,26,4,1
 3074,Smoldering Gloves,2,24,4,1
 3076,Smoldering Boots,2,23,4,1
+3087,Mug of Shimmer Stout,1,15,,
 3107,Keen Throwing Knife,1,16,2,16
 3111,Crude Throwing Axe,1,3,2,16
 3131,Weighted Throwing Axe,1,8,2,16
@@ -1006,7 +1021,9 @@ item_id,name,quality,item_level,class_id,subclass_id
 3314,Ceremonial Leather Gloves,2,15,4,2
 3315,Ceremonial Leather Loincloth,2,17,4,2
 3334,Farmer's Shovel,2,10,2,5
+3336,Flesh Piercer,2,29,2,15
 3340,Incendicite Ore,1,22,12,0
+3341,Gauntlets of Ogre Strength,2,32,4,3
 3345,Silk Wizard Hat,2,37,4,1
 3355,Wild Steelbloom,1,22,7,9
 3356,Kingsblood,1,24,7,9
@@ -1057,6 +1074,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 3426,Bold Yellow Shirt,,,,
 3427,Stylish Black Shirt,1,40,4,0
 3428,Common Gray Shirt,1,20,4,0
+3429,Guardsman Belt,2,24,4,2
 3430,Sniper Rifle,2,44,2,3
 3464,Feathered Arrow,2,35,6,2
 3465,Exploding Shot,2,36,6,3
@@ -1171,14 +1189,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 3798,Interlaced Shoulderpads,0,35,4,1
 3799,Interlaced Vest,0,37,4,1
 3800,Hardened Leather Belt,,,4,2
-3801,Hardened Leather Boots,,,4,2
+3801,Hardened Leather Boots,0,35,4,2
 3802,Hardened Leather Bracers,0,34,4,2
 3803,Hardened Cloak,,,4,1
 3804,Hardened Leather Gloves,0,36,4,2
 3806,Hardened Leather Shoulderpads,0,37,4,2
 3807,Hardened Leather Tunic,,,4,2
 3808,Double Mail Belt,,,4,3
-3809,Double Mail Boots,,,4,3
+3809,Double Mail Boots,0,32,4,3
 3810,Double Mail Bracers,,,4,3
 3811,Double-stitched Cloak,,,4,1
 3812,Double Mail Gloves,0,36,4,3
@@ -1186,7 +1204,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 3814,Double Mail Shoulderpads,0,39,4,3
 3815,Double Mail Vest,0,33,4,3
 3816,Reflective Heater,0,36,4,6
-3817,Reinforced Buckler,,,4,6
+3817,Reinforced Buckler,0,33,4,6
 3818,Fadeleaf,1,32,7,9
 3819,Wintersbite,1,39,7,9
 3820,Stranglekelp,1,20,7,9
@@ -1276,6 +1294,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4066,Insignia Buckler,2,35,4,6
 4067,Glyphed Buckler,2,39,4,6
 4068,Chief Brigadier Shield,2,40,4,6
+4069,Blackforge Buckler,2,47,4,6
 4070,Jouster's Crest,2,41,4,6
 4071,Glimmering Mail Breastplate,2,31,4,3
 4072,Glimmering Mail Gauntlets,2,30,4,3
@@ -1288,6 +1307,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4079,Chief Brigadier Leggings,2,40,4,3
 4080,Blackforge Cowl,,,4,3
 4083,Blackforge Gauntlets,,,4,3
+4084,Blackforge Leggings,2,46,4,3
 4087,Trueshot Bow,2,41,2,2
 4088,Dreadblade,2,47,2,15
 4089,Ricochet Blunderbuss,2,48,2,3
@@ -1447,6 +1467,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4408,Schematic: Mechanical Squirrel,2,15,9,3
 4409,Schematic: Small Seaforium Charge,2,20,9,3
 4410,Schematic: Shadow Goggles,2,24,9,3
+4411,Schematic: Flame Deflector,2,25,9,3
 4412,Schematic: Moonsight Rifle,2,29,9,3
 4413,Schematic: Discombobulator Ray,2,32,9,3
 4414,Schematic: Portable Bronze Mortar,2,33,9,3
@@ -1462,7 +1483,9 @@ item_id,name,quality,item_level,class_id,subclass_id
 4428,Spider Palp,0,1,15,0
 4434,Scarecrow Trousers,2,22,4,1
 4438,Pugilist Bracers,,,4,3
+4439,Bruiser Club,2,24,2,4
 4444,Black Husk Shield,2,26,4,6
+4445,Flesh Carver,2,25,2,
 4446,Blackvenom Blade,3,28,2,15
 4447,Cloak of Night,2,28,4,1
 4448,Husk of Naraxis,2,29,4,3
@@ -1528,6 +1551,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4594,Rockscale Cod,1,35,0,5
 4596,Minor Discolored Healing Potion,1,15,0,1
 4599,Cured Ham Steak,,,,
+4600,Cherry Grog,1,35,,
 4601,Soft Banana Bread,1,45,0,5
 4602,Moon Harvest Pumpkin,,,,
 4603,Raw Spotted Yellowtail,1,45,7,8
@@ -1616,6 +1640,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4780,Kodo Horn Fragment,0,1,15,0
 4781,Whispering Vest,2,20,4,1
 4782,Solstice Robe,2,18,4,1
+4784,Lifeless Stone,0,1,15,
 4786,Wise Man's Belt,2,20,4,1
 4788,Agile Boots,2,20,4,2
 4789,Stable Boots,2,18,4,2
@@ -1634,6 +1659,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4813,Small Leather Collar,0,1,15,0
 4814,Discolored Fang,0,1,15,0
 4816,Legionnaire's Leggings,2,24,4,3
+4817,Blessed Claymore,2,22,2,8
 4818,Executioner's Sword,2,24,2,8
 4820,Guardian Buckler,2,25,4,6
 4821,Bear Buckler,2,23,4,6
@@ -1653,6 +1679,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 4837,Strength of Will,2,30,4,0
 4838,Orb of Power,2,26,4,0
 4852,Flash Bomb,1,37,0,0
+4860,Glistening Frenzy Scale,0,1,15,
 4865,Ruined Pelt,0,1,15,0
 4873,Dry Hardened Barnacle,0,1,15,0
 4874,Clean Fishbones,0,1,15,0
@@ -1689,6 +1716,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 5115,Broken Wishbone,0,1,15,0
 5116,Long Tail Feather,1,1,7,6
 5117,Vibrant Plume,1,1,12,0
+5118,Large Flat Tooth,0,1,15,
 5120,Long Tail Hair,0,1,15,0
 5122,Thick Kodo Hair,,,15,0
 5123,Steel Arrowhead,0,1,15,0
@@ -1703,12 +1731,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 5140,Flash Powder,1,20,15,1
 5165,Sunscale Feather,1,1,12,0
 5173,Deathweed,1,30,15,1
+5180,Necklace of Harmony,2,36,4,
 5181,Vibrant Silk Cape,2,36,4,1
 5182,Shiver Blade,2,22,2,8
 5205,Sprouted Frond,1,15,0,8
 5206,Bogling Root,1,12,0,8
 5207,Opaque Wand,2,20,2,19
 5208,Smoldering Wand,,,,
+5210,Burning Wand,1,25,2,19
 5211,Dusk Wand,,,,
 5212,Blazing Wand,2,17,2,19
 5213,Scorching Wand,2,35,2,19
@@ -1774,6 +1804,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 5541,Iridescent Hammer,2,28,2,4
 5542,Pearl-clasped Cloak,2,19,4,1
 5543,Plans: Iridescent Hammer,2,28,9,4
+5565,Infernal Stone,1,55,5,
 5566,Broken Antler,0,1,15,0
 5567,Silver Hook,,,15,0
 5568,Smooth Pebble,1,18,6,3
@@ -1785,6 +1816,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 5575,Large Green Sack,1,25,1,0
 5576,Large Brown Sack,1,25,1,0
 5578,Plans: Silvered Bronze Breastplate,2,26,9,4
+5601,Hatched Egg Sac,0,1,15,
 5602,Sticky Spider Webbing,,,15,0
 5608,Living Cowl,2,44,4,1
 5631,Rage Potion,1,14,0,1
@@ -1825,7 +1857,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 5780,Murloc Scale Belt,2,18,4,2
 5781,Murloc Scale Breastplate,2,19,4,2
 5782,Thick Murloc Armor,,,4,2
-5783,Murloc Scale Bracers,,,4,2
+5783,Murloc Scale Bracers,2,38,4,2
 5784,Slimy Murloc Scale,1,15,7,6
 5785,Thick Murloc Scale,1,35,7,6
 5791,Henrig Lonebrow's Journal,,,12,0
@@ -1850,6 +1882,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 5971,Feathered Cape,2,28,4,1
 5972,Pattern: Fine Leather Pants,2,21,9,1
 5974,Pattern: Guardian Cloak,2,37,9,1
+5975,Ruffian Belt,2,24,4,2
 5996,Draught of Water Breathing,1,18,0,2
 5997,Elixir of Minor Defense,1,5,0,2
 6037,Truesilver Bar,2,50,7,7
@@ -1870,6 +1903,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 6097,Acolyte's Shirt,1,1,4,0
 6098,Neophyte's Robe,0,1,4,1
 6117,Squire's Shirt,1,1,4,0
+6119,Neophyte's Robe,0,1,4,1
 6147,Ratty Old Belt,2,12,4,2
 6148,Web-covered Boots,1,10,4,1
 6149,Greater Mana Potion,1,41,0,1
@@ -2011,7 +2045,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 6424,Blackforge Cape,,,4,1
 6425,Blackforge Girdle,,,4,3
 6426,Blackforge Bracers,,,4,3
-6427,Mistscape Robe,,,4,1
+6427,Mistscape Robe,2,46,4,1
 6428,Mistscape Gloves,2,43,4,1
 6429,Mistscape Wizard Hat,2,44,4,1
 6430,Imperial Leather Breastplate,,,4,2
@@ -2185,6 +2219,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 7060,Azure Shoulders,2,38,4,1
 7061,Earthen Silk Belt,,,4,1
 7062,Crimson Silk Pantaloons,2,39,4,1
+7063,Crimson Silk Robe,2,41,4,1
 7065,Green Silk Armor,2,33,4,1
 7067,Elemental Earth,1,25,7,10
 7068,Elemental Fire,1,25,7,10
@@ -2219,7 +2254,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 7110,Silver-thread Armor,2,31,4,1
 7111,Nightsky Armor,2,37,4,1
 7112,Aurora Armor,2,41,4,1
-7113,Mistscape Armor,,,4,1
+7113,Mistscape Armor,2,46,4,1
 7148,Goblin Jumper Cables,,,7,3
 7166,Copper Dagger,2,11,2,15
 7191,Fused Wiring,1,26,7,1
@@ -2356,10 +2391,10 @@ item_id,name,quality,item_level,class_id,subclass_id
 7492,Captain's Cloak,2,39,4,1
 7493,Captain's Bracers,2,40,4,3
 7494,Captain's Waistguard,2,41,4,3
-7495,Captain's Buckler,,,4,6
+7495,Captain's Buckler,2,44,4,6
 7496,Field Plate Shield,,,4,6
 7506,Gnomish Universal Remote,2,25,4,0
-7517,Gossamer Tunic,,,4,1
+7517,Gossamer Tunic,2,50,4,1
 7518,Gossamer Robe,,,4,1
 7519,Gossamer Pants,2,47,4,1
 7520,Gossamer Headpiece,,,4,1
@@ -2374,7 +2409,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 7529,Cabalist Helm,2,47,4,2
 7530,Cabalist Gloves,,,4,2
 7531,Cabalist Boots,,,4,2
-7532,Cabalist Spaulders,,,4,2
+7532,Cabalist Spaulders,2,47,4,2
 7533,Cabalist Cloak,2,44,4,1
 7534,Cabalist Bracers,2,45,4,2
 7535,Cabalist Belt,2,46,4,2
@@ -2384,6 +2419,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 7540,Champion's Helmet,2,47,4,3
 7541,Champion's Gauntlets,2,46,4,3
 7542,Champion's Greaves,2,46,4,3
+7543,Champion's Pauldrons,2,47,4,3
 7544,Champion's Cape,,,4,1
 7545,Champion's Bracers,2,45,4,3
 7546,Champion's Girdle,,,4,3
@@ -2407,7 +2443,10 @@ item_id,name,quality,item_level,class_id,subclass_id
 7752,Dreamslayer,3,33,2,4
 7753,Bloodspiller,3,32,2,1
 7754,Harbinger Boots,3,30,4,2
+7755,Flintrock Shoulders,3,38,4,2
 7757,Windweaver Staff,3,37,2,10
+7758,Ruthless Shiv,3,39,2,6
+7759,Archon Chestpiece,3,38,4,3
 7760,Warchief Kilt,,,4,2
 7761,Steelclaw Reaver,3,38,2,0
 7786,Headsplitter,3,30,2,0
@@ -2421,7 +2460,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 7920,Mithril Plate Pants,2,42,4,3
 7921,Heavy Mithril Pants,2,42,4,4
 7922,Steel Plate Helm,2,43,4,4
-7930,Heavy Mithril Breastplate,,,4,4
+7930,Heavy Mithril Breastplate,2,46,4,4
 7931,Mithril Coif,,,4,3
 7934,Heavy Mithril Helm,,,4,4
 7941,Heavy Mithril Axe,,,2,0
@@ -2449,12 +2488,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 7992,Plans: Blue Glittering Axe,2,44,9,4
 7993,Plans: Dazzling Mithril Rapier,2,48,9,4
 8006,The Ziggler,3,39,2,15
-8028,Plans: Runed Mithril Hammer,,,9,4
+8028,Plans: Runed Mithril Hammer,3,49,9,4
 8067,Crafted Light Shot,1,10,6,3
 8068,Crafted Heavy Shot,1,20,6,3
 8069,Crafted Solid Shot,1,35,6,3
 8092,Platemail Helm,,,,
 8107,Hibernal Boots,2,47,4,1
+8108,Hibernal Bracers,2,47,4,1
+8109,Hibernal Cloak,2,46,4,1
 8110,Hibernal Gloves,,,4,1
 8111,Hibernal Mantle,2,48,4,1
 8112,Hibernal Pants,,,4,1
@@ -2463,21 +2504,21 @@ item_id,name,quality,item_level,class_id,subclass_id
 8117,Heraldic Boots,2,47,4,2
 8118,Heraldic Bracers,,,4,2
 8120,Heraldic Cloak,2,45,4,1
-8121,Heraldic Gloves,,,4,2
+8121,Heraldic Gloves,2,47,4,2
 8122,Heraldic Headpiece,2,48,4,2
 8123,Heraldic Leggings,2,49,4,2
 8124,Heraldic Spaulders,,,4,2
-8128,Myrmidon's Gauntlets,,,4,3
-8129,Myrmidon's Girdle,,,4,3
-8130,Myrmidon's Greaves,,,4,3
+8128,Myrmidon's Gauntlets,2,49,4,3
+8129,Myrmidon's Girdle,2,49,4,3
+8130,Myrmidon's Greaves,2,49,4,3
 8134,Myrmidon's Defender,2,51,4,6
 8137,Chromite Bracers,2,43,4,4
 8139,Chromite Gauntlets,2,44,4,4
 8140,Chromite Girdle,2,43,4,4
 8141,Chromite Greaves,2,44,4,4
 8142,Chromite Barbute,2,44,4,4
-8143,Chromite Legplates,,,4,4
-8144,Chromite Pauldrons,,,4,4
+8143,Chromite Legplates,2,46,4,4
+8144,Chromite Pauldrons,2,45,4,4
 8146,Wicked Claw,1,45,7,11
 8150,Deeprock Salt,1,40,7,6
 8151,Flask of Mojo,1,40,7,11
@@ -2511,7 +2552,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 8182,Pellet Rifle,1,7,2,3
 8183,Precision Bow,2,27,2,2
 8184,Firestarter,2,29,2,19
-8185,Turtle Scale Leggings,,,4,3
+8185,Turtle Scale Leggings,2,47,4,3
 8186,Dire Wand,2,26,2,19
 8187,Turtle Scale Gloves,,,4,3
 8188,Explosive Shotgun,2,37,2,3
@@ -2538,10 +2579,12 @@ item_id,name,quality,item_level,class_id,subclass_id
 8216,Big Voodoo Cloak,,,4,1
 8217,Quickdraw Quiver,2,45,11,2
 8218,Thick Leather Ammo Pouch,2,45,11,3
+8223,Blade of the Basilisk,3,39,2,7
 8225,Tainted Pierce,3,36,2,7
 8226,The Butcher,3,31,2,7
 8244,Flawless Draenethyst Sphere,,,12,0
 8247,Imperial Red Bracers,,,4,1
+8253,Imperial Red Sash,2,51,4,1
 8255,Serpentskin Girdle,2,50,4,2
 8256,Serpentskin Boots,,,4,2
 8259,Serpentskin Cloak,2,50,4,1
@@ -2549,11 +2592,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 8262,Serpentskin Leggings,2,54,4,2
 8276,Valorous Gauntlets,2,47,4,4
 8277,Valorous Girdle,2,46,4,4
+8278,Valorous Greaves,2,47,4,4
 8279,Valorous Helm,2,48,4,4
 8280,Valorous Legguards,,,4,4
 8281,Valorous Pauldrons,2,48,4,4
 8282,Valorous Shield,2,51,4,6
+8286,Arcane Cloak,2,55,4,1
 8302,Hero's Bracers,,,4,3
+8311,Alabaster Plate Vambraces,2,53,4,4
 8315,Alabaster Plate Girdle,2,52,4,4
 8317,Alabaster Plate Helmet,,,4,4
 8343,Heavy Silken Thread,1,40,7,5
@@ -2659,7 +2705,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 9303,Recipe: Philosopher's Stone,1,45,9,6
 9304,Recipe: Transmute Iron to Gold,,,,
 9308,Grime-Encrusted Object,1,1,12,0
-9312,Blue Firework,,,,
+9312,Blue Firework,1,20,,8
 9313,Green Firework,,,,
 9327,Security DELTA Data Access Card,2,1,12,0
 9358,A Head Rag,,,15,0
@@ -2678,7 +2724,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 9420,Adventurer's Pith Helmet,,,4,2
 9422,Shadowforge Bushmaster,,,2,3
 9427,Stonevault Bonebreaker,,,2,4
-9428,Unearthed Bands,,,4,2
+9428,Unearthed Bands,3,35,4,2
 9432,Skullplate Bracers,,,4,4
 9433,Forgotten Wraps,3,46,4,1
 9434,Elemental Raiment,3,41,4,1
@@ -2864,7 +2910,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 9908,Royal Cape,2,43,4,1
 9909,Royal Bands,2,43,4,1
 9910,Royal Gloves,2,44,4,1
-9911,Royal Trousers,,,4,1
+9911,Royal Trousers,2,46,4,1
 9912,Royal Amice,,,4,1
 9913,Royal Gown,,,4,1
 9914,Royal Scepter,,,4,0
@@ -2889,6 +2935,8 @@ item_id,name,quality,item_level,class_id,subclass_id
 9933,Brigade Leggings,2,45,4,3
 9934,Brigade Pauldrons,2,44,4,3
 9935,Embossed Plate Shield,,,4,6
+9936,Abjurer's Boots,2,49,4,1
+9937,Abjurer's Bands,2,48,4,1
 9938,Abjurer's Cloak,2,48,4,1
 9939,Abjurer's Gloves,,,4,1
 9940,Abjurer's Hood,,,4,1
@@ -2896,23 +2944,24 @@ item_id,name,quality,item_level,class_id,subclass_id
 9942,Abjurer's Pants,,,4,1
 9943,Abjurer's Robe,2,53,4,1
 9945,Abjurer's Sash,,,4,1
-9947,Chieftain's Belt,,,4,2
+9947,Chieftain's Belt,2,48,4,2
 9948,Chieftain's Boots,2,49,4,2
 9949,Chieftain's Bracers,,,4,2
 9951,Chieftain's Cloak,,,4,1
 9952,Chieftain's Gloves,,,4,2
 9953,Chieftain's Headdress,2,50,4,2
 9954,Chieftain's Leggings,,,4,2
-9955,Chieftain's Shoulders,,,4,2
+9955,Chieftain's Shoulders,2,50,4,2
 9956,Warmonger's Bracers,2,46,4,3
-9957,Warmonger's Chestpiece,,,4,3
+9957,Warmonger's Chestpiece,2,50,4,3
+9958,Warmonger's Buckler,2,50,4,6
 9959,Warmonger's Cloak,2,45,4,1
 9960,Warmonger's Gauntlets,,,4,3
 9961,Warmonger's Belt,,,4,3
 9962,Warmonger's Greaves,,,4,3
 9963,Warmonger's Circlet,2,48,4,3
-9964,Warmonger's Leggings,,,4,3
-9965,Warmonger's Pauldrons,,,4,3
+9964,Warmonger's Leggings,2,49,4,3
+9965,Warmonger's Pauldrons,2,49,4,3
 9966,Embossed Plate Armor,2,45,4,4
 9967,Embossed Plate Gauntlets,,,4,4
 9968,Embossed Plate Girdle,2,42,4,4
@@ -2951,6 +3000,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 10061,Duskwoven Turban,2,51,4,1
 10062,Duskwoven Gloves,,,4,1
 10064,Duskwoven Pants,2,53,4,1
+10066,Duskwoven Sash,2,49,4,1
 10067,Righteous Waistguard,2,49,4,2
 10068,Righteous Boots,,,4,2
 10069,Righteous Bracers,2,49,4,2
@@ -2967,6 +3017,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 10083,Lord's Crown,,,4,3
 10084,Lord's Legguards,,,4,3
 10085,Lord's Pauldrons,,,4,3
+10086,Gothic Plate Armor,2,49,4,4
 10087,Gothic Plate Gauntlets,,,4,4
 10088,Gothic Plate Girdle,2,45,4,4
 10089,Gothic Sabatons,,,4,4
@@ -2976,14 +3027,19 @@ item_id,name,quality,item_level,class_id,subclass_id
 10093,Revenant Deflector,2,54,4,6
 10094,Gothic Plate Vambraces,2,45,4,4
 10098,Councillor's Cloak,,,4,1
+10099,Councillor's Gloves,2,55,4,1
 10103,Councillor's Sash,,,4,1
 10107,Wanderer's Bracers,,,4,2
 10108,Wanderer's Cloak,2,53,4,1
+10109,Wanderer's Belt,2,54,4,2
 10110,Wanderer's Gloves,,,4,2
 10120,Ornate Cloak,2,53,4,1
+10127,Revenant Bracers,2,49,4,4
 10129,Revenant Gauntlets,2,50,4,4
 10132,Revenant Helmet,,,4,4
 10134,Revenant Shoulders,,,4,4
+10141,High Councillor's Pants,2,63,4,1
+10165,Templar Gauntlets,2,55,4,4
 10168,Templar Crown,,,4,4
 10170,Templar Pauldrons,,,4,4
 10173,Mystical Bracers,,,4,1
@@ -2992,22 +3048,25 @@ item_id,name,quality,item_level,class_id,subclass_id
 10186,Swashbuckler's Gloves,,,4,2
 10192,Crusader's Boots,,,4,3
 10193,Crusader's Armor,2,55,4,3
-10194,Crusader's Cloak,,,4,1
+10194,Crusader's Cloak,2,50,4,1
 10198,Crusader's Helm,,,4,3
 10199,Crusader's Leggings,,,4,3
 10200,Crusader's Pauldrons,2,53,4,3
 10201,Overlord's Greaves,2,48,4,4
-10202,Overlord's Vambraces,,,4,4
-10205,Overlord's Gauntlets,,,4,4
+10202,Overlord's Vambraces,2,48,4,4
+10205,Overlord's Gauntlets,2,49,4,4
 10206,Overlord's Girdle,,,4,4
 10207,Overlord's Crown,2,49,4,4
 10208,Overlord's Legplates,2,50,4,4
 10209,Overlord's Spaulders,2,50,4,4
+10231,Engraved Cape,2,55,4,1
 10238,Heavy Lamellar Boots,,,4,4
 10241,Heavy Lamellar Helm,2,53,4,4
 10243,Heavy Lamellar Girdle,,,4,4
 10244,Heavy Lamellar Leggings,,,4,4
 10245,Heavy Lamellar Pauldrons,2,53,4,4
+10276,Emerald Sabatons,2,56,4,4
+10277,Emerald Gauntlets,2,57,4,4
 10280,Emerald Legplates,,,4,4
 10284,Simple Flour,1,30,7,8
 10285,Shadow Silk,1,40,7,5
@@ -3032,6 +3091,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 10323,Pattern: Tuxedo Pants,1,49,9,2
 10325,Pattern: White Wedding Dress,1,50,9,2
 10326,Pattern: Tuxedo Jacket,1,50,9,2
+10328,Scarlet Chestpiece,3,39,4,3
 10329,Scarlet Belt,3,37,4,3
 10331,Scarlet Gauntlets,3,38,4,3
 10333,Scarlet Wristguards,3,36,4,3
@@ -3106,6 +3166,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 11026,Tree Frog Box,,,,
 11027,Wood Frog Box,,,,
 11038,Formula: Enchant 2H Weapon - Lesser Spirit,2,22,9,8
+11040,Morrowgrain,1,50,12,
 11081,Formula: Enchant Shield - Lesser Protection,2,22,9,8
 11082,Greater Astral Essence,2,25,7,12
 11083,Soul Dust,1,25,7,12
@@ -3157,6 +3218,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 11302,Uther's Strength,,,4,0
 11303,Fine Shortbow,2,16,2,2
 11304,Fine Longbow,2,19,2,2
+11305,Dense Shortbow,2,35,2,2
 11306,Sturdy Recurve,2,32,2,2
 11307,Massive Longbow,,,,
 11362,Medium Quiver,1,15,11,2
@@ -3239,7 +3301,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 12039,Tundra Necklace,2,33,4,0
 12040,Forest Pendant,2,38,4,0
 12042,Marsh Chain,2,42,4,0
-12043,Desert Choker,,,4,0
+12043,Desert Choker,2,47,4,0
 12047,Spectral Necklace,2,30,4,0
 12052,Ring of the Moon,2,21,4,0
 12053,Volcanic Rock Ring,2,21,4,0
@@ -3265,7 +3327,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 12226,Recipe: Crispy Bat Wing,1,5,9,5
 12238,Darkshore Grouper,1,15,0,5
 12239,Recipe: Dragonbreath Chili,,,,
-12247,Broad Bladed Knife,,,,
+12247,Broad Bladed Knife,2,32,2,15
 12249,Merciless Axe,2,31,2,1
 12259,Glinting Steel Dagger,2,36,2,15
 12260,Searing Golden Blade,2,39,2,15
@@ -3319,7 +3381,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 13010,Dreamsinger Legguards,3,26,4,3
 13011,Silver-lined Belt,3,27,4,2
 13012,Yorgen Bracers,3,27,4,3
-13014,Axe of Rin'ji,,,2,0
+13014,Axe of Rin'ji,3,53,2,0
 13016,Killmaim,3,26,2,1
 13017,Hellslayer Battle Axe,3,40,2,1
 13018,Executioner's Cleaver,,,2,1
@@ -3339,7 +3401,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 13037,Crystalpine Stinger,3,32,2,18
 13038,Swiftwind,3,40,2,18
 13039,Skull Splitting Crossbow,,,2,18
-13040,Heartseeking Crossbow,,,2,18
+13040,Heartseeking Crossbow,3,56,2,18
 13041,Guardian Blade,3,26,2,8
 13042,Sword of the Magistrate,3,41,2,8
 13043,Blade of the Titans,,,2,8
@@ -3397,7 +3459,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 13129,Firemane Leggings,3,39,4,3
 13131,Sparkleshell Mantle,3,29,4,3
 13132,Skeletal Shoulders,3,43,4,3
-13134,Belt of the Gladiator,,,4,3
+13134,Belt of the Gladiator,3,49,4,3
 13136,Lil Timmy's Peashooter,3,21,2,3
 13137,Ironweaver,3,34,2,3
 13138,The Silencer,3,42,2,3
@@ -3426,7 +3488,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 13478,Recipe: Elixir of Superior Defense,1,53,9,6
 13488,Recipe: Transmute Life to Earth,,,9,6
 13489,Recipe: Transmute Earth to Life,2,55,9,6
-13490,Recipe: Greater Stoneshield Potion,,,9,6
+13490,Recipe: Greater Stoneshield Potion,2,56,9,6
 13491,Recipe: Elixir of the Mongoose,,,9,6
 13518,Recipe: Flask of Petrification,2,60,9,6
 13545,Shellfish,1,1,12,0
@@ -3441,13 +3503,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 13863,Runecloth Gloves,,,4,1
 13876,40 Pound Yellowtail,1,45,15,0
 13877,47 Pound Yellowtail,1,45,15,0
+13878,53 Pound Grouper,1,45,15,
 13879,59 Pound Yellowtail,1,45,15,0
 13882,42 Pound Redgill,1,45,15,0
 13885,34 Pound Redgill,,,15,0
 13886,37 Pound Redgill,1,45,15,0
 13888,Darkclaw Lobster,1,55,7,8
-13889,Raw Whitescale Salmon,,,0,3
-13890,Plated Armorfish,,,5,0
+13889,Raw Whitescale Salmon,1,55,0,3
+13890,Plated Armorfish,1,55,5,0
 13897,White Traditional Hanbok,,,,
 13926,Golden Pearl,2,40,7,11
 13927,Cooked Glossy Mightfish,1,45,0,5
@@ -3589,6 +3652,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 14247,Lunar Mantle,2,44,4,1
 14248,Lunar Bindings,,,4,1
 14249,Lunar Vest,2,47,4,1
+14250,Lunar Slippers,2,42,4,1
 14251,Lunar Cloak,,,4,1
 14252,Lunar Coronet,,,4,1
 14253,Lunar Handwraps,,,4,1
@@ -3600,9 +3664,11 @@ item_id,name,quality,item_level,class_id,subclass_id
 14259,Bloodwoven Boots,,,4,1
 14260,Bloodwoven Bracers,,,4,1
 14261,Bloodwoven Cloak,,,4,1
-14262,Bloodwoven Mitts,,,4,1
+14262,Bloodwoven Mitts,2,45,4,1
+14263,Bloodwoven Mask,2,48,4,1
 14264,Bloodwoven Pants,,,4,1
-14267,Bloodwoven Jerkin,,,4,1
+14266,Bloodwoven Pads,2,47,4,1
+14267,Bloodwoven Jerkin,2,51,4,1
 14269,Gaea's Slippers,2,47,4,1
 14270,Gaea's Cloak,,,4,1
 14271,Gaea's Circlet,,,4,1
@@ -3616,10 +3682,11 @@ item_id,name,quality,item_level,class_id,subclass_id
 14283,Opulent Leggings,,,4,1
 14289,Arachnidian Girdle,,,4,1
 14292,Arachnidian Cape,,,4,1
+14297,Arachnidian Robes,2,57,4,1
 14299,Bonecaster's Boots,,,4,1
 14341,Rune Thread,1,50,7,5
 14342,Mooncloth,,,7,0
-14343,Small Brilliant Shard,,,7,0
+14343,Small Brilliant Shard,3,50,7,0
 14344,Large Brilliant Shard,3,55,7,12
 14364,Mystic's Slippers,2,18,4,1
 14365,Mystic's Cape,2,15,4,1
@@ -3677,7 +3744,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 14436,Windchaser Coronet,,,4,1
 14440,Venomshroud Cape,,,4,1
 14466,Pattern: Frostweave Tunic,,,9,2
-14467,Pattern: Frostweave Robe,,,9,2
+14467,Pattern: Frostweave Robe,2,51,9,2
 14468,Pattern: Runecloth Bag,,,,
 14470,Pattern: Runecloth Tunic,2,52,9,2
 14471,Pattern: Cindercloth Vest,,,9,2
@@ -3689,6 +3756,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 14491,Pattern: Runecloth Pants,2,57,9,2
 14492,Pattern: Felcloth Boots,,,9,2
 14496,Pattern: Felcloth Hood,,,9,2
+14498,Pattern: Runecloth Headband,2,59,9,2
 14499,Pattern: Mooncloth Bag,,,9,2
 14504,Pattern: Runecloth Shoulders,,,9,2
 14506,Pattern: Felcloth Robe,,,9,2
@@ -3736,7 +3804,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 14601,Warden's Wraps,2,44,4,2
 14602,Warden's Cloak,2,39,4,1
 14603,Warden's Mantle,2,41,4,2
-14604,Warden's Wizard Hat,,,4,2
+14604,Warden's Wizard Hat,2,45,4,2
 14605,Warden's Woolies,,,4,2
 14606,Warden's Gloves,,,4,2
 14607,Hawkeye's Buckler,2,37,4,6
@@ -3747,12 +3815,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 14653,Scorpashi Slippers,,,4,2
 14654,Scorpashi Wristbands,,,4,2
 14656,Scorpashi Cape,,,4,1
+14658,Scorpashi Skullcap,2,49,4,2
 14659,Scorpashi Leggings,,,4,2
 14660,Scorpashi Shoulder Pads,2,47,4,2
 14661,Keeper's Cord,,,4,2
 14665,Keeper's Cloak,,,4,1
 14667,Keeper's Wreath,2,53,4,2
 14672,Pridelord Bands,,,4,2
+14673,Pridelord Cape,2,52,4,1
 14675,Pridelord Gloves,,,4,2
 14722,War Paint Anklewraps,2,17,4,3
 14723,War Paint Bindings,2,17,4,3
@@ -3789,6 +3859,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 14765,Enduring Circlet,2,38,4,3
 14766,Enduring Breeches,2,37,4,3
 14767,Enduring Pauldrons,2,38,4,3
+14768,Ravager's Armor,2,44,4,3
 14769,Ravager's Sandals,,,4,3
 14770,Ravager's Armguards,,,4,3
 14771,Ravager's Cloak,2,39,4,1
@@ -3796,24 +3867,24 @@ item_id,name,quality,item_level,class_id,subclass_id
 14773,Ravager's Cord,,,4,3
 14774,Ravager's Crown,,,4,3
 14775,Ravager's Woolies,,,4,3
-14776,Ravager's Mantle,,,4,3
+14776,Ravager's Mantle,2,43,4,3
 14777,Ravager's Shield,2,44,4,6
 14778,Khan's Bindings,2,45,4,3
 14781,Khan's Cloak,,,4,1
-14782,Khan's Gloves,,,4,3
+14782,Khan's Gloves,2,45,4,3
 14783,Khan's Belt,,,4,3
 14784,Khan's Greaves,,,4,3
 14785,Khan's Helmet,,,4,3
 14786,Khan's Legguards,,,4,3
 14791,Protector Cape,,,4,1
 14802,Bloodlust Gauntlets,,,4,3
-14821,Symbolic Breastplate,,,4,4
-14825,Symbolic Crest,,,4,6
+14821,Symbolic Breastplate,2,43,4,4
+14825,Symbolic Crest,2,43,4,6
 14826,Symbolic Gauntlets,,,4,4
 14827,Symbolic Belt,,,4,4
-14828,Symbolic Greaves,,,4,4
+14828,Symbolic Greaves,2,42,4,4
 14830,Symbolic Pauldrons,,,4,4
-14831,Symbolic Crown,,,4,4
+14831,Symbolic Crown,2,43,4,4
 14833,Tyrant's Gauntlets,2,44,4,4
 14834,Tyrant's Armguards,,,4,4
 14838,Tyrant's Belt,2,43,4,4
@@ -3829,19 +3900,28 @@ item_id,name,quality,item_level,class_id,subclass_id
 14899,Saltstone Helm,2,41,4,4
 14900,Saltstone Legplates,2,40,4,4
 14903,Saltstone Armsplints,2,40,4,4
+14906,Brutish Belt,2,44,4,4
 14907,Brutish Helmet,,,4,4
+14908,Brutish Legguards,2,48,4,4
 14909,Brutish Shoulders,,,4,4
 14910,Brutish Armguards,,,4,4
+14911,Brutish Boots,2,46,4,4
 14914,Jade Bracers,,,4,4
+14917,Jade Gauntlets,2,48,4,4
+14918,Jade Belt,2,47,4,4
+14923,Lofty Armguards,2,50,4,4
+14939,Warbringer's Chestguard,2,46,4,4
 14940,Warbringer's Sabatons,2,43,4,4
 14942,Warbringer's Gauntlets,,,4,4
 14943,Warbringer's Belt,2,42,4,4
 14944,Warbringer's Crown,,,4,4
 14945,Warbringer's Legguards,,,4,4
-14946,Warbringer's Spaulders,,,4,4
-14950,Bloodforged Belt,,,4,4
+14946,Warbringer's Spaulders,2,43,4,4
+14949,Bloodforged Gauntlets,2,47,4,4
+14950,Bloodforged Belt,2,46,4,4
 14951,Bloodforged Sabatons,,,4,4
 14952,Bloodforged Helmet,,,4,4
+14953,Bloodforged Legplates,2,49,4,4
 14955,Bloodforged Shoulder Pads,,,4,4
 14956,Bloodforged Bindings,,,4,4
 15003,Primal Belt,1,8,4,2
@@ -3906,14 +3986,14 @@ item_id,name,quality,item_level,class_id,subclass_id
 15153,Nocturnal Cloak,,,4,1
 15154,Nocturnal Sash,2,38,4,2
 15155,Nocturnal Gloves,,,4,2
-15156,Nocturnal Cap,,,4,2
+15156,Nocturnal Cap,2,43,4,2
 15157,Nocturnal Leggings,,,4,2
 15158,Nocturnal Shoulder Pads,,,4,2
-15159,Nocturnal Tunic,,,4,2
+15159,Nocturnal Tunic,2,42,4,2
 15160,Nocturnal Wristbands,2,39,4,2
 15161,Imposing Belt,,,4,2
 15162,Imposing Boots,,,4,2
-15163,Imposing Bracers,,,4,2
+15163,Imposing Bracers,2,43,4,2
 15164,Imposing Vest,,,4,2
 15165,Imposing Cape,2,42,4,1
 15166,Imposing Gloves,,,4,2
@@ -3923,7 +4003,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15172,Potent Bands,,,4,2
 15173,Potent Cape,,,4,1
 15177,Potent Shoulders,,,4,2
-15178,Potent Belt,,,4,2
+15178,Potent Belt,2,47,4,2
 15190,Grand Cloak,,,4,1
 15210,Raider Shortsword,2,16,2,7
 15211,Militant Shortsword,2,22,2,7
@@ -3952,7 +4032,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15242,Honed Stiletto,2,30,2,15
 15243,Deadly Kris,2,36,2,15
 15244,Razor Blade,2,42,2,15
-15245,Vorpal Dagger,,,2,15
+15245,Vorpal Dagger,2,50,2,15
 15248,Gleaming Claymore,2,20,2,8
 15249,Polished Zweihander,2,26,2,8
 15250,Glimmering Flamberge,2,32,2,8
@@ -4037,25 +4117,28 @@ item_id,name,quality,item_level,class_id,subclass_id
 15369,Wolf Rider's Belt,2,42,4,2
 15370,Wolf Rider's Boots,2,44,4,2
 15371,Wolf Rider's Cloak,2,41,4,1
-15372,Wolf Rider's Gloves,,,4,2
+15372,Wolf Rider's Gloves,2,43,4,2
 15373,Wolf Rider's Headgear,,,4,2
 15374,Wolf Rider's Leggings,2,44,4,2
 15375,Wolf Rider's Shoulder Pads,,,4,2
-15376,Wolf Rider's Padded Armor,,,4,2
+15376,Wolf Rider's Padded Armor,2,46,4,2
 15377,Wolf Rider's Wristbands,2,42,4,2
 15378,Rageclaw Belt,,,4,2
-15380,Rageclaw Bracers,,,4,2
+15379,Rageclaw Boots,2,48,4,2
+15380,Rageclaw Bracers,2,46,4,2
 15381,Rageclaw Chestguard,,,4,2
 15382,Rageclaw Cloak,2,45,4,1
 15383,Rageclaw Gloves,,,4,2
 15384,Rageclaw Helm,,,4,2
 15386,Rageclaw Shoulder Pads,,,4,2
+15408,Heavy Scorpid Scale,1,55,15,
 15412,Green Dragonscale,1,50,7,6
 15416,Black Dragonscale,,,15,0
 15417,Devilsaur Leather,,,7,0
 15419,Warbear Leather,,,7,0
 15420,Ironfeather,,,5,0
 15423,Chimera Leather,,,7,0
+15425,Peerless Bracers,2,55,4,2
 15472,Charger's Belt,1,9,4,3
 15473,Charger's Boots,1,10,4,3
 15474,Charger's Bindings,1,8,4,3
@@ -4114,8 +4197,8 @@ item_id,name,quality,item_level,class_id,subclass_id
 15527,Sentry's Gloves,2,27,4,3
 15528,Sentry's Sash,2,26,4,3
 15529,Sentry's Leggings,2,29,4,3
-15530,Sentry's Shield,,,4,6
-15531,Sentry's Shoulderguards,,,4,3
+15530,Sentry's Shield,2,31,4,6
+15531,Sentry's Shoulderguards,2,30,4,3
 15532,Sentry's Armsplints,2,26,4,3
 15533,Sentry's Headdress,2,31,4,3
 15534,Wicked Chain Boots,2,31,4,3
@@ -4153,6 +4236,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15566,Marauder's Bracers,2,35,4,3
 15567,Marauder's Tunic,,,4,3
 15568,Marauder's Cloak,2,33,4,1
+15569,Marauder's Crest,2,40,4,6
 15570,Marauder's Gauntlets,2,36,4,3
 15571,Marauder's Belt,2,35,4,3
 15572,Marauder's Circlet,,,4,3
@@ -4163,7 +4247,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15577,Sparkleshell Bracers,2,36,4,3
 15578,Sparkleshell Breastplate,,,4,3
 15579,Sparkleshell Cloak,2,35,4,1
-15580,Sparkleshell Headwrap,,,4,3
+15580,Sparkleshell Headwrap,2,40,4,3
 15581,Sparkleshell Gauntlets,2,38,4,3
 15582,Sparkleshell Legguards,,,4,3
 15583,Sparkleshell Shoulder Pads,2,41,4,3
@@ -4181,21 +4265,25 @@ item_id,name,quality,item_level,class_id,subclass_id
 15601,Ancient Chestpiece,,,4,3
 15602,Ancient Crown,,,4,3
 15603,Ancient Cloak,2,41,4,1
+15605,Ancient Gauntlets,2,42,4,3
 15606,Ancient Belt,2,41,4,3
 15607,Ancient Legguards,,,4,3
 15608,Ancient Pauldrons,,,4,3
 15610,Bonelink Bracers,2,43,4,3
 15611,Bonelink Cape,,,4,1
-15612,Bonelink Gauntlets,,,4,3
+15612,Bonelink Gauntlets,2,44,4,3
 15613,Bonelink Belt,,,4,3
 15614,Bonelink Sabatons,,,4,3
 15616,Bonelink Legplates,,,4,3
 15617,Bonelink Epaulets,2,45,4,3
-15619,Gryphon Mail Belt,,,4,3
+15619,Gryphon Mail Belt,2,48,4,3
+15620,Gryphon Mail Bracelets,2,47,4,3
 15623,Gryphon Mail Crown,,,4,3
 15624,Gryphon Cloak,,,4,1
-15632,Formidable Cape,,,4,1
+15626,Gryphon Mail Greaves,2,47,4,3
+15632,Formidable Cape,2,46,4,1
 15636,Formidable Belt,2,49,4,3
+15639,Ironhide Bracers,2,50,4,3
 15641,Ironhide Belt,,,4,3
 15646,Ironhide Legguards,,,4,3
 15653,Merciless Gauntlets,,,4,3
@@ -4208,6 +4296,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15742,Pattern: Warbear Harness,,,9,1
 15743,Pattern: Heavy Scorpid Belt,,,9,1
 15744,Pattern: Wicked Leather Headband,,,9,1
+15748,Pattern: Heavy Scorpid Leggings,2,57,9,1
 15752,Pattern: Living Leggings,,,9,1
 15755,Pattern: Chimeric Vest,,,9,1
 15760,Pattern: Ironfeather Breastplate,,,9,1
@@ -4215,6 +4304,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15772,Pattern: Devilsaur Leggings,3,60,9,1
 15807,Light Crossbow,1,8,2,18
 15808,Fine Light Crossbow,1,21,2,18
+15810,Short Spear,1,25,2,6
 15846,Salt Shaker,,,7,3
 15869,Silver Skeleton Key,2,20,0,8
 15870,Golden Skeleton Key,2,30,0,8
@@ -4254,7 +4344,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 15977,Vital Orb,2,37,4,0
 15978,Geomancer's Rod,2,41,4,0
 15979,Embersilk Stave,,,4,0
-15980,Darkmist Orb,,,4,0
+15980,Darkmist Orb,2,46,4,0
 15981,Lunar Sphere,,,4,0
 15990,Enduring Shield,2,39,4,6
 16041,Schematic: Thorium Grenade,1,52,9,3
@@ -4280,9 +4370,13 @@ item_id,name,quality,item_level,class_id,subclass_id
 16215,Formula: Enchant Boots - Greater Stamina,,,9,8
 16218,Formula: Enchant Bracer - Superior Spirit,2,54,9,8
 16220,Formula: Enchant Boots - Spirit,2,55,9,8
+16221,Formula: Enchant Chest - Major Health,1,55,9,8
 16245,Formula: Enchant Boots - Greater Agility,2,59,9,8
 16251,Formula: Enchant Bracer - Superior Stamina,,,9,8
-16646,Shredder Operating Manual - Page 2,,,15,0
+16645,Shredder Operating Manual - Page 1,1,1,12,
+16646,Shredder Operating Manual - Page 2,1,1,12,0
+16647,Shredder Operating Manual - Page 3,1,1,12,
+16648,Shredder Operating Manual - Page 4,1,1,12,
 16652,Shredder Operating Manual - Page 8,1,1,12,0
 16655,Shredder Operating Manual - Page 11,1,1,12,0
 16747,Broken Lock,,,15,0
@@ -4309,6 +4403,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 17119,Deeprun Rat Kabob,1,15,0,5
 17188,Ringed Buckler,1,19,4,6
 17222,Spider Sausage,1,45,0,5
+17413,Codex: Prayer of Fortitude,3,48,9,
 17682,Book: Gift of the Wild,,,9,0
 17781,The Pariah's Instructions,1,1,12,0
 18045,Tender Wolf Steak,1,45,0,5
@@ -4334,15 +4429,17 @@ item_id,name,quality,item_level,class_id,subclass_id
 19221,Darkmoon Special Reserve,,,,
 19222,Cheap Beer,,,,
 19231,Three of Beasts,,,15,0
-19232,Four of Beasts,,,15,0
-19261,Four of Warlords,,,15,0
+19232,Four of Beasts,3,1,12,0
+19261,Four of Warlords,3,1,12,0
 19269,Two of Elementals,,,15,0
 19270,Three of Elementals,,,15,0
 19278,Two of Portals,,,15,0
 19279,Three of Portals,,,15,0
-19280,Four of Portals,,,15,0
+19280,Four of Portals,3,1,12,0
 19291,Darkmoon Storage Box,,,1,0
 19295,Darkmoon Flower,,,4,0
+19299,Fizzy Faire Drink,1,25,,
+19300,Bottled Winterspring Water,1,45,,
 19304,Spiced Beef Jerky,,,,
 19441,Huge Venom Sac,1,1,7,11
 19484,The Frostwolf Artichoke,,,,
@@ -4409,7 +4506,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 247239,Lesser Discolored Healing Potion,1,13,0,1
 247240,Discolored Healing Potion,1,22,0,1
 247241,Greater Discolored Healing Potion,1,31,0,1
-247242,,,,,
+247242,Superior Discolored Healing Potion,,45,,1
 247754,Minor Arcane Elixir,1,5,0,2
 247755,Elixir of Minor Force,1,5,0,2
 247786,Mote of Magic,1,5,7,12
@@ -4435,7 +4532,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 248696,Waylaid Crate: Flowering Artisan Herbs,1,1,0,8
 248697,Waylaid Crate: Artisan Ore,1,1,0,8
 248698,Waylaid Crate: Artisan Textiles,1,1,0,8
-248699,,,,,
+248699,Waylaid Crate: Artisan Curiosities,,1,,8
 248702,Waylaid Crate: Apprentice Fabrics,2,1,0,8
 248703,Waylaid Crate: Apprentice Ingots,2,1,0,8
 248704,Waylaid Crate: Apprentice Parts,2,1,0,8
@@ -4446,7 +4543,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 248709,Waylaid Crate: Expert Ingots,2,1,0,8
 248710,Waylaid Crate: Expert Parts,2,1,0,8
 248711,Waylaid Crate: Artisan Fabrics,2,1,0,8
-248712,,,,,
+248712,Waylaid Crate: Artisan Ingots,,1,,8
 248713,Waylaid Crate: Artisan Parts,2,1,0,8
 248815,,,,,
 248825,,,,,
@@ -4459,12 +4556,12 @@ item_id,name,quality,item_level,class_id,subclass_id
 249410,Sulfuric Acid,2,25,7,11
 249424,Rosecap,2,45,7,9
 249425,Bauxite,2,45,7,7
-249426,,,,,
+249426,Pitchblende,,60,7,7
 249427,Pristine Leather,2,25,7,6
 249428,Pristine Hide,2,45,7,6
-249429,,,,,
+249429,Pristine Scale,,60,7,6
 249430,Magenta Dye,2,45,7,11
-249431,,,,,
+249431,Viridian Dye,,60,7,11
 249432,Sandpaper,2,45,7,1
 249695,Fel-Tainted Flesh,1,1,12,0
 249865,Peace Tea,1,5,0,5
@@ -4473,6 +4570,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 249871,Venomous Smoothie,1,5,0,5
 249872,Slimy Smoothie,1,15,0,5
 249873,Mrrggl Smrrthle,1,25,0,5
+249874,Calcified Smoothie,,35,,5
 250065,Savory Stag Sliders,1,45,0,5
 250074,Bear Brisket,1,35,0,5
 250076,Raptor Rouladen,1,45,0,5
@@ -4487,10 +4585,10 @@ item_id,name,quality,item_level,class_id,subclass_id
 250344,Elixir of Minor Spirit,1,5,0,2
 250345,Elixir of Lesser Spirit,1,25,0,2
 250346,Elixir of Spirit,1,45,0,2
-250349,,,,,
+250349,Elixir of Strength,,45,,2
 250353,Elixir of Lesser Intellect,1,25,0,2
 250354,,,,,
-250363,,,,,
+250363,Recipe: Draught of Predatory Senses,,1,9,6
 250366,Recipe: Minor Cleric's Elixir,1,1,9,6
 250368,Recipe: Cleric's Elixir,1,1,9,6
 250370,Recipe: Elixir of Fortitude,1,1,9,6
@@ -4499,30 +4597,33 @@ item_id,name,quality,item_level,class_id,subclass_id
 250382,Recipe: Elixir of Spirit,1,1,9,6
 250385,Recipe: Elixir of Strength,1,1,9,6
 250389,Recipe: Elixir of Intellect,1,1,9,6
-250483,,,,,
+250483,Sterling Silver Boots,,25,4,3
 250484,Sterling Silver Leggings,2,26,4,3
 250485,Sterling Silver Gauntlet,2,26,4,3
 250486,Sterling Silver Shoulders,2,27,4,3
 250536,Hard Gold Leggings,2,38,4,3
+250538,Hard Gold Gauntlet,,40,4,3
 250539,Hard Gold Pauldrons,2,40,4,3
+250540,Shining Mithril Breastplate,,45,4,4
 250603,Bronze Dory,2,25,2,6
-250607,,,,,
+250607,Mithril Shortsword,,41,2,15
 250608,Mithril Warhammer,2,43,2,5
 250932,Minor Spellblasting Potion,1,45,0,1
 250933,Lesser Spellblasting Potion,1,5,0,1
 250934,Spellblasting Potion,1,5,0,1
-250935,,,,,
+250935,Greater Spellblasting Potion,,55,,1
 250938,Minor Frenzy Potion,1,25,0,1
+250939,Lesser Frenzy Potion,,45,,1
 250940,Frenzy Potion,1,55,0,1
-250941,,,,,
+250941,Greater Frenzy Potion,,45,,1
 250944,Minor Mender's Potion,1,55,0,1
 250945,Lesser Mender's Potion,1,55,0,1
 250947,Greater Mender's Potion,1,25,0,1
-250955,,,,,
+250955,Potion of Beast Slaying,,55,,1
 250976,Recipe: Minor Spellblasting Potion,1,1,9,6
 250977,Recipe: Lesser Spellblasting Potion,1,1,9,6
 250982,Recipe: Minor Frenzy Potion,1,1,9,6
-250983,,,,,
+250983,Recipe: Lesser Frenzy Potion,,1,9,6
 250986,,,,,
 250988,Recipe: Minor Mender's Potion,1,1,9,6
 250989,Recipe: Lesser Mender's Potion,1,1,9,6
@@ -4533,7 +4634,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 251931,Depleted Windstone,0,1,15,0
 251932,Sharpened Cirrusfly Stinger,1,4,2,15
 252022,Galestrider Jerky,1,5,0,5
-252023,,,,,
+252023,Zaalanarr Sharp,,5,,5
 252027,Gustberry Juice,1,15,0,5
 252028,Fresh Gustberry Bread,1,5,0,5
 252030,Pungent Skycheddar,1,15,0,5
@@ -4585,34 +4686,34 @@ item_id,name,quality,item_level,class_id,subclass_id
 252843,Pattern: Prowler's Leather Shoes,3,45,9,1
 252844,Pattern: Skulker's Leather Shoes,3,45,9,1
 252845,Pattern: Warden's Leather Shoes,3,45,9,1
-252846,,,,,
-252847,,,,,
+252846,Pattern: Skycaller's Leather Shoes,,45,9,1
+252847,Pattern: Mender's Leather Shoes,,45,9,1
 252859,Pattern: Blue Suede Shoes,2,52,9,1
-252866,,,,,
-252867,,,,,
-252868,,,,,
+252866,Pattern: Blue Suede Gloves,,53,9,1
+252867,Pattern: Prowler's Leather Gauntlets,,55,9,1
+252868,Pattern: Skulker's Leather Gauntlets,,55,9,1
 252869,,,,,
-252870,,,,,
+252870,Pattern: Skycaller's Leather Gauntlets,,55,9,1
 252871,Pattern: Mender's Leather Gauntlets,3,55,9,1
 252896,Pattern: Stalker's Mail Boots,3,45,9,1
 252897,Pattern: Skycaller's Mail Boots,3,45,9,1
 252898,Pattern: Skirmisher's Mail Boots,3,45,9,1
 252899,Pattern: Mender's Mail Boots,3,45,9,1
-252908,,,,,
-252909,,,,,
+252908,Pattern: Supple Scorpid Boots,,51,9,1
+252909,Pattern: Charged Scorpid Belt,,51,9,1
 252914,,,,,
-252915,,,,,
-252916,,,,,
-252918,,,,,
-252919,,,,,
-252920,,,,,
-252921,,,,,
+252915,Pattern: Charged Scorpid Helm,,53,9,1
+252916,Pattern: Supple Scorpid Bracers,,55,9,1
+252918,Pattern: Stalker's Mail Gauntlets,,55,9,1
+252919,Pattern: Skycaller's Mail Gauntlets,,55,9,1
+252920,Pattern: Skirmisher's Mail Gauntlets,,55,9,1
+252921,Pattern: Mender's Mail Gauntlets,,55,9,1
 252927,,,,,
 252928,,,,,
-252929,,,,,
-252930,,,,,
-252931,,,,,
-252932,,,,,
+252929,Pattern: Supple Scorpid Belt,,56,9,1
+252930,Pattern: Charged Scorpid Gauntlets,,56,9,1
+252931,Pattern: Supple Scorpid Helm,,57,9,1
+252932,Pattern: Charged Scorpid Vest,,57,9,1
 252942,Pattern: Forceful Rugged Armor Kit,2,50,9,1
 253664,Linen Reagent Bag,1,5,1,11
 253665,Pattern: Linen Reagent Bag,2,5,9,2
@@ -4638,9 +4739,9 @@ item_id,name,quality,item_level,class_id,subclass_id
 253984,Pattern: Filigreed Pearly Circlet,3,30,9,2
 253986,Pattern: Filigreed Shining Circlet,3,30,9,2
 254013,Earthen Silk Slippers,2,36,4,1
-254015,,,,,
+254015,Earthen Silk Hood,,37,4,1
 254016,Pattern: Earthen Silk Hood,2,37,9,2
-254017,,,,,
+254017,Earthen Silk Gloves,,39,4,1
 254018,Pattern: Earthen Silk Gloves,2,39,9,2
 254019,Earthen Silk Cuffs,2,40,4,1
 254020,Pattern: Earthen Silk Cuffs,2,40,9,2
@@ -4653,34 +4754,35 @@ item_id,name,quality,item_level,class_id,subclass_id
 254044,Pattern: Black Cord,3,45,9,2
 254046,Pattern: Golden Cord,3,45,9,2
 254048,Pattern: Radiant Cord,3,45,9,2
-254074,,,,,
+254074,Pattern: Ghostweave Cord,,52,9,2
 254076,,,,,
-254078,,,,,
-254079,,,,,
+254078,Pattern: Earthenweave Cord,,52,9,2
+254079,Runecloth Reagent Bag,,52,1,11
 254096,Pattern: Gilded Gloves,3,55,9,2
 254098,Pattern: Frothing Gloves,3,55,9,2
-254100,,,,,
-254102,,,,,
-254104,,,,,
+254100,Pattern: Fiery Gloves,,55,9,2
+254102,Pattern: Black Gloves,,55,9,2
+254104,Pattern: Golden Gloves,,55,9,2
 254106,,,,,
-254120,,,,,
+254120,Pattern: Earthenweave Mantle,,57,9,2
 254122,,,,,
+254126,Pattern: Earthenweave Leggings,,58,9,2
 254432,Carved Centaur Totem,2,1,15,0
-254685,,,,,
+254685,Pattern: Stormcloth Shoulders,,49,9,2
 254686,Pattern: Stormcloth Boots,2,50,9,2
 255007,Golem Isospring,1,1,7,1
 255154,Ruined Gyrostabilizer,0,1,15,0
-255645,,,,,
+255645,Swollen Venom Sac,,1,7,11
 255663,Windstone,1,1,0,8
-255715,,,,,
+255715,Potent Anti-Venom,,36,7,11
 255716,Simple Poultice,1,16,7,11
 255717,Clever Poultice,1,26,7,11
 255718,Superior Poultice,1,36,7,11
 255720,Woolen Tourniquet,1,21,7,11
-255721,,,,,
+255721,Leather Tourniquet,,36,7,11
 255723,Manual: Greater Healing Potion,2,31,9,7
 255724,Manual: Clever Poultice,2,26,9,7
-255725,,,,,
+255725,Manual: Superior Healing Potion,,45,9,7
 255726,Manual: Leather Tourniquet,2,36,9,7
 255727,Manual: Superior Poultice,2,36,9,7
 255728,Manual: Potent Anti-Venom,2,36,9,7
@@ -4756,18 +4858,18 @@ item_id,name,quality,item_level,class_id,subclass_id
 264059,Craftsman's Writ: Nature Protection Potion,3,1,0,8
 264060,Craftsman's Writ: Catseye Draught,3,1,0,8
 264061,Craftsman's Writ: Great Rage Potion,3,1,0,8
-264062,,,,,
+264062,Craftsman's Writ: Mana Potion,,1,,8
 264063,Craftsman's Writ: Fire Protection Potion,3,1,0,8
 264064,Craftsman's Writ: Shadow Oil,3,1,0,8
 264065,Craftsman's Writ: Goblin Rocket Fuel,3,1,0,8
-264066,,,,,
-264067,,,,,
+264066,Craftsman's Writ: Elixir of Agility,,1,,8
+264067,Craftsman's Writ: Wildvine Potion,,1,,8
 264068,Craftsman's Writ: Steel Plate Helm,3,1,0,8
 264069,Craftsman's Writ: Inlaid Mithril Cylinder,3,1,0,8
 264070,Craftsman's Writ: Steel Weapon Chain,3,1,0,8
 264071,Craftsman's Writ: Ornate Mithril Shoulders,3,1,0,8
 264072,Craftsman's Writ: Blue Glittering Axe,3,1,0,8
-264073,,,,,
+264073,Craftsman's Writ: Moonsteel Broadsword,,1,,8
 264074,Craftsman's Writ: Golden Scale Coif,3,1,0,8
 264075,Craftsman's Writ: Solid Sharpening Stone,3,1,0,8
 264076,Craftsman's Writ: Wicked Mithril Blade,3,1,0,8
@@ -4798,7 +4900,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 264101,Craftsman's Writ: Big Voodoo Robe,3,1,0,8
 264102,Craftsman's Writ: Turtle Scale Breastplate,3,1,0,8
 264103,Craftsman's Writ: Thick Leather Ammo Pouch,3,1,0,8
-264104,,,,,
+264104,Craftsman's Writ: Mageweave Bag,,1,,8
 264105,Craftsman's Writ: Shadoweave Gloves,3,1,0,8
 264106,Craftsman's Writ: Crimson Silk Robe,3,1,0,8
 264107,Craftsman's Writ: Shadoweave Robe,3,1,0,8
@@ -4810,28 +4912,29 @@ item_id,name,quality,item_level,class_id,subclass_id
 264113,Craftsman's Writ: White Bandit Mask,3,1,0,8
 264114,Craftsman's Writ: Cindercloth Robe,3,1,0,8
 264115,Craftsman's Writ: Earthen Silk Belt,3,1,0,8
-264118,,,,,
+264118,Craftsman's Writ: Greater Fire Protection Potion,,1,,8
 264124,,,,,
 264125,,,,,
 264126,,,,,
 264127,,,,,
 264130,,,,,
-264135,,,,,
+264135,Craftsman's Writ: Green Lens,,1,,8
+264139,Craftsman's Writ: Field Repair Bot 74A,,1,,8
 264140,,,,,
 264146,,,,,
 264147,,,,,
 264152,,,,,
-264159,,,,,
+264159,Craftsman's Writ: Ghostweave Vest,,1,,8
 264207,Schematic: SAF-T Bronze Bomb,1,29,9,3
 264208,Schematic: SAF-T Jumbo Dynamite,1,30,9,3
 264210,Schematic: Shafety Sheep,1,35,9,3
 264212,Schematic: EZ-Thro Bronze Mortar,1,38,9,3
-264213,,,,,
+264213,Schematic: EZ-Thro Grenade,,40,9,3
 264214,Schematic: SAF-T Casing,1,43,9,3
 264215,Schematic: SAF-T Bomb,1,43,9,3
 264218,Schematic: EZ-Thro Tru-Trigger,1,48,9,3
 264219,Schematic: Tru-Trigger Frag Bomb,1,48,9,3
-264224,,,,,
+264224,Schematic: SAF-T Clever Dynamite,,50,9,3
 264228,,,,,
 267474,Galeswept Forestshroom,1,5,0,5
 268109,Musical Gustjumper,1,1,15,2
@@ -4845,8 +4948,9 @@ item_id,name,quality,item_level,class_id,subclass_id
 271665,Thendal Survivalist's Boots,1,1,4,1
 271668,Thendal Survivalist's Shirt,1,1,4,0
 271669,Thendal Warrior's Shirt,1,1,4,0
+271673,Grove Scoundrel's Boots,,1,4,
 271675,Grove Scoundrel's Shirt,1,1,4,0
-271893,,,,,
+271893,Bad Rock,,1,15,
 272124,Translated Tale of I'lalai,1,1,15,0
 273085,Blueprint: Fermenter,2,25,9,6
 273086,Blueprint: Anvil,2,25,9,4
@@ -4856,7 +4960,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 273097,Blueprint: Rock Garden,2,25,9,0
 273098,Blueprint: Field Guide,2,25,9,0
 273099,Blueprint: Spinning Wheel,2,25,9,2
-273101,,,,,
+273101,Blueprint: Expert Campfire,,40,9,5
 273102,Blueprint: Cookie's Feast,2,25,9,5
 273103,Blueprint: Arcane Salvager,2,25,9,8
 273105,Blueprint: Toxin Study,2,25,9,7
@@ -4869,32 +4973,36 @@ item_id,name,quality,item_level,class_id,subclass_id
 273815,Airy Windseeker's Shirt,1,1,4,0
 274048,9-60 Battery Pack,2,34,0,8
 274077,,,,,
-274706,,,,,
+274706,Reins of the Striped Dawnsaber,,40,15,5
 274947,Scroll of Imbue Lesser Flame,2,15,0,4
-274964,,,,,
+274964,Mote of Unstable Magic,,1,15,4
 274971,Briny Seafood Stew,1,35,0,5
 274976,Plain Ol' Paletusk,1,35,0,5
 275067,Scroll of Imbue Chillknife,2,15,0,4
 275069,Scroll of Rat Familiar,1,15,0,4
-275682,,,,,
+275682,Excitable Slime,,1,15,2
 275842,Fossilized Insect,0,1,15,0
-275843,,,,,
+275843,Tuft of Hair,,1,15,
 275891,Dwarven Skull,0,1,15,0
 275892,Short Stout,1,1,15,0
 275893,Searing Gourd,1,1,15,0
 275894,Ghastly Cloth,0,1,15,0
 275895,Fading Echo,0,1,15,0
-276101,,,,,
+276101,Zizplink's Grocery List,,1,15,
 276158,Crystallized Shard,0,1,15,0
 276160,Mana Fragment,0,1,15,0
-276992,,,,,
+276992,Cloudy Skyforged Chainmail,,12,4,3
+276993,Cloudy Skyforged Wristguards,,10,4,3
 276994,Cloudy Skyforged Gauntlets,2,11,4,3
 276995,Cloudy Skyforged Chain,2,10,4,3
-276996,,,,,
+276996,Cloudy Skyforged Legguards,,12,4,3
+276997,Cloudy Skyforged Greaves,,11,4,3
 276998,Cloudy Gustwoven Harness,2,12,4,2
 276999,Cloudy Gustwoven Bracers,2,10,4,2
+277000,Cloudy Gustwoven Gloves,,11,4,2
 277001,Cloudy Gustwoven Belt,2,10,4,2
 277002,Cloudy Gustwoven Trousers,2,12,4,2
+277003,Cloudy Gustwoven Boots,,11,4,2
 277004,Cloudy Windraveled Jerkin,2,12,4,2
 277005,Cloudy Windraveled Armguards,2,10,4,2
 277006,Cloudy Windraveled Mitts,2,11,4,2
@@ -4934,16 +5042,17 @@ item_id,name,quality,item_level,class_id,subclass_id
 277051,Azure Gustwoven Spaulders,2,35,4,2
 277052,,,,,
 277053,Azure Windraveled Drapes,2,35,4,2
-277054,,,,,
+277054,Azure Stormsewn Cowl,,35,4,1
 277056,Al'Aketh Chainmail,2,11,4,3
 277057,Al'Aketh Wristguards,2,9,4,3
-277058,,,,,
-277059,,,,,
+277058,Al'Aketh Gauntlets,,10,4,3
+277059,Al'Aketh Chain,,9,4,3
 277060,Al'Aketh Legguards,2,11,4,3
 277061,Al'Aketh Greaves,2,10,4,3
 277062,Al'Aketh Harness,2,11,4,2
 277063,Al'Aketh Bracers,2,9,4,2
 277064,Al'Aketh Gloves,2,10,4,2
+277065,Al'Aketh Belt,,9,4,2
 277068,Al'Aketh Jerkin,2,11,4,2
 277069,Al'Aketh Armguards,2,9,4,2
 277070,,,,,
@@ -4963,17 +5072,17 @@ item_id,name,quality,item_level,class_id,subclass_id
 277496,Scroll of Imbue Balefrost,2,40,0,4
 277497,Scroll of Imbue Flame,2,40,0,4
 277498,Scroll of Imbue Manablade,2,40,0,4
-277499,,,,,
-277500,,,,,
-277501,,,,,
-277502,,,,,
+277499,Scroll of Greater Cryoblast,,55,,4
+277500,Scroll of Imbue Greater Flame,,55,,4
+277501,Scroll of Imbue Greater Frost,,55,,4
+277502,Scroll of Imbue Precision,,55,,4
 277672,Rough Copper Chain Boots,2,10,4,3
 277715,Light Leather Reagent Bag,1,5,1,11
 279276,Mathystral Amulet Fragment,1,1,0,8
 279277,Mathystral Amulet,1,1,0,8
-279450,,,,,
+279450,Fractured Insignia,,1,15,4
 279537,Rotheap Innards,1,1,15,4
-279940,,,,,
+279940,Toxin Study,,28,,8
 279941,Tanning Rack,1,28,0,8
 279943,Spinning Wheel,1,28,0,8
 279944,Sharpening Wheel,1,4,0,8
@@ -4998,20 +5107,21 @@ item_id,name,quality,item_level,class_id,subclass_id
 279981,Basic Campfire Kit,1,4,0,8
 279985,Arcane Salvager,1,28,0,8
 279988,Anvil,1,28,0,8
-280697,,,,,
-280699,,,,,
+280697,Plagued Cockroach,,30,15,2
+280699,Undercity Cockroach,,30,15,2
 280797,Rabbit Crate (Arctic),1,20,15,2
 280801,Rabbit Crate (Brown),1,20,15,2
 280803,Eagle Owl,1,30,15,2
 281015,,,,,
-281016,,,,,
+281016,Scroll: FORGOT HOOF THUD,,50,,4
 281017,,,,,
-281018,,,,,
-281282,,,,,
-281600,,,,,
+281018,Scroll: RARE SERVICHI RADAR,,50,,4
+281282,A Little Somethin',,46,,5
+281600,Wail of Death,,61,2,19
 281666,,,,,
 281676,Rog'mar Trainee Shoulderpads,2,41,4,2
 281750,,,,,
+281891,Fishscale Hauberk,,46,4,3
 281896,,,,,
 281925,Whelpfire Wand,2,20,2,19
 281926,Bound Bracers,2,23,4,1
@@ -5022,7 +5132,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 282010,Tusk of Grunter,2,52,2,15
 282019,Braided Seer Stones,2,56,4,0
 282020,,,,,
-282023,,,,,
+282023,Clack's Claw,,55,2,13
 282026,Unyielding Battle Signet,2,58,4,0
 282094,,,,,
 282556,Groundshaker's Bindings,2,47,4,4
@@ -5033,11 +5143,12 @@ item_id,name,quality,item_level,class_id,subclass_id
 282654,Gnawed Bone,2,26,4,0
 282655,Bog Pickers,2,27,4,1
 282658,Dragonmaw Battle Shroud,2,32,4,1
+282703,Needletooth's Needletooth,,37,2,15
 282711,Naga Maiden's Gown,2,35,4,1
 282713,Bloodstained Pants,2,36,4,2
 282716,Imbued Scaled Cuffs,2,32,4,3
 282717,Durable Bearhide Pauldrons,2,29,4,2
-282721,,,,,
+282721,Gnoll Shaman's Staff,,30,2,10
 283253,Denmother's Hide,2,37,4,1
 283254,Heart of Alterac,2,39,4,0
 283255,Syndicate Executioner's Slicer,2,38,2,7
@@ -5045,6 +5156,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 283545,,,,,
 284040,Cliff Jumpers,2,44,4,2
 284065,,,,,
+284067,Rusted Family Memento,,54,4,
 284070,Dreadwhisper's Touch,2,60,2,19
 284165,Duskstalker's Hide,2,11,4,2
 284166,Gnarlpine War Staff,2,13,2,10
@@ -5059,10 +5171,12 @@ item_id,name,quality,item_level,class_id,subclass_id
 284382,Budding Leaf Belt,2,32,4,2
 284668,Apothecary's Concoction,2,24,4,0
 284697,Arcane Charged Robes,2,34,4,1
+284700,Den Guardian's Crusher,,27,2,5
 284702,Slimy Sword,2,25,2,7
-284707,,,,,
+284707,Basilisk Sinew Belt,,39,4,2
 284708,Demonstrike Emblem,2,42,4,0
 284712,Hyena Hide Helm,2,36,4,2
+284717,Royal Satyr Slicer,,35,2,
 284859,Silithid Sinew Crossbow,2,49,2,18
 284870,Schematic: Unsanctified Grenade,1,52,9,3
 285043,,,,,
@@ -5072,7 +5186,8 @@ item_id,name,quality,item_level,class_id,subclass_id
 285094,,,,,
 285095,Twitching Eye,2,40,4,0
 285100,Serrated Raptor Teeth,2,40,2,16
-285102,,,,,
+285101,,,,,
+285102,Darkmist Dirk,,42,2,15
 285253,Skyseer's Gloves,2,11,4,1
 285254,Scout Ranger's Gloves,2,11,4,2
 285255,Thendal Watcher's Gloves,2,11,4,3
@@ -5083,16 +5198,16 @@ item_id,name,quality,item_level,class_id,subclass_id
 285273,Scout Ranger's Belt,2,10,4,2
 285274,Thendal Watcher's Belt,2,10,4,3
 285282,Jagged Knives,2,18,2,16
-285283,,,,,
+285283,Serrated Axes,,38,2,16
 285351,Foreman's Enforcers,2,21,4,2
-286533,,,,,
+286533,Cheetah Hide Grips,,15,4,2
 286534,Silithid Piercer,2,26,2,15
 286535,Sludge-Stained Band,2,21,4,0
-286536,,,,,
+286536,Heckler's Hide,,19,4,2
 286537,Thunderstomp's Horn,2,26,2,4
 286569,,,,,
 286570,Silithid Flesh Bindings,2,52,4,2
-286745,,,,,
+286745,Furlfeather Ring,,12,4,
 286748,Bristlebark Bow,2,12,2,2
 286749,Wrathroot,2,10,2,10
 286750,Wisesight Wand,2,12,2,19
@@ -5137,6 +5252,7 @@ item_id,name,quality,item_level,class_id,subclass_id
 287014,Krol'dok Warplate Pauldrons,3,46,4,4
 287015,,,,,
 287016,Shadow-Seer Orb,3,45,4,0
+287021,,,,,
 287023,,,,,
 287063,Serrated Knife,2,17,2,16
 287068,Excavated Dagger,3,33,2,16
